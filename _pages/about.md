@@ -1,0 +1,21 @@
+---
+permalink: /
+title: ""
+excerpt: "Home"
+author_full_profile: true
+author_profile: false
+layout: single
+redirect_from:
+  - /home/
+  - /about/
+  - /about.html
+---
+<a style="text-decoration:none; font-size:40px; color:#636363">Hallo!</a> <br><br>
+I am a PhD (Computer Science) student at the <a href="https://www.mpi-sws.org/" style="text-decoration:none">Max Planck Institute for Software Systems</a>. I am working in Control Software Systems group, advised by <a href="https://wp.mpi-sws.org/akschmuck/" style="text-decoration:none">Anne-Kathrin Schmuck</a>.
+
+My research interests broadly lie in the intersection of Mathematics and Theoretical Computer Science. I am especially interested in Logic, Reactive Synthesis and Games on Graphs.
+
+I completed my Masters in Computer Science and Bachelors in Mathematics and Computer Science at <a href="https://www.cmi.ac.in" style="text-decoration:none">Chennai Mathematical Institute</a>, India. Prior to that, I grew up in Odisha, India and I did my schooling from <a href="https://shraddha.org/" style="text-decoration:none">Rtapalli Vidyapitha</a>.
+
+I am co-organizing a students talk series <a href="https://ofcourse.mpi-sws.org/" style="text-decoration:none">OFCOURSE</a>, on the theory of verification and synthesis. If you are a PhD student and would like to give a talk, please get in touch.
+
