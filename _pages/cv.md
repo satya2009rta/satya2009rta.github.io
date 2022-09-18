@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Find the pdf version <a href="{{ base_path }}/Files/CV.pdf" style="text-decoration:none">here</a>.
+
 ## Education
 * <strong>PhD. in Computer Science </strong><br>
   <small> Max Planck Institute for Software Systems &bull; Kaiserslautern, Germany &bull; <em class="date">2021 - Present</em> </small>
@@ -28,6 +30,19 @@ redirect_from:
   <small> Rtapalli Vidyapitha &bull; Bhubaneswar &bull; <em class="date">2009 - 2014</em><br>
   10th Score: 95.5%</small>
 
+## Teaching Experience
+### Teaching Assistant at Chennai Mathematical Institute
+* Data Mining and Machine Learning (2019)
+* Design and Analysis of Algorithms (2020)
+* Discrete Mathematics (2021)
+
+### Faculty at Rtapalli Vidyapitha 
+* Calculus (2017-2018)
+
+## Professional Activities
+* Conference reviewer: ISoLA 2023
+* Conference sub-reviewer: NFM 2022
+
 ## Internships
 * <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
 a quality criterion based on Robust Linear Temporal Logic. In perticular, we introduced a strategy that adaptively changes its moves when the opponent make some bad choices.">
@@ -43,16 +58,7 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
   <small> Prajakta Nimbhorkar  &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2020 </em></small>
 * <strong><abbr title="In this reading project, we read a few papers on games on graphs (specifically Parity games).">
   Games on Graphs II</abbr></strong><br>
-  <small>Balaguru Srivathsan &bull;Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2019 </em></small>
-
-## Teaching Experience
-### Teaching Assistant at Chennai Mathematical Institute
-* Data Mining and Machine Learning (2019)
-* Design and Analysis of Algorithms (2020)
-* Discrete Mathematics (2021)
-
-### Faculty at Rtapalli Vidyapitha 
-* Calculus (2017-2018)
+  <small>Balaguru Srivathsan &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2019 </em></small>
 
 ## Achievements 
 * 2016 INSPIRE Scholarship

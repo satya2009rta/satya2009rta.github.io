@@ -7,6 +7,8 @@ layout: single
 redirect_from:
   - /miscellaneous.html
 --- 
+I am co-organizing a students talk series <a href="https://ofcourse.mpi-sws.org/" style="text-decoration:none">OFCOURSE</a>, on the theory of verification and synthesis. If you are a PhD student and would like to give a talk, please get in touch.
+
 Movies and TV Shows
 ------------------
 I watch a lot of TV shows (and movies) in my free time. I'm always looking for good recommendations, and if you'd like some suggestions, <a href="https://www.imdb.com/list/ls045373958/" style="text-decoration:none">here</a> is a list of TV shows rated by me. Also, <a href="https://www.imdb.com/list/ls088947635/" style="text-decoration:none">here</a> is a list of Star Wars movies ranked by me.
