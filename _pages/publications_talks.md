@@ -15,14 +15,15 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 * **Maximally Permissive Assumptions for Synthesis\*** (under submission) <br>
 Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, Anne-Kathrin Schumck
 
-* **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime**
+* **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
+<a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none">paper</a>{: .btn .btn--primary .btn--small}
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small} <br>
 Satya Prakash Nayak, Daniel Neider, Martin Zimmermann<br>
 _International Symposium on Leveraging Applications of Formal Methods (ISoLA)_, 2022
   
   
 
-* **Robust Computation Tree Logic** 
+* **Robust Computation Tree Logic** <br>
 <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none">paper</a>{: .btn .btn--primary .btn--small}
 <a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small} <br>
 Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, Martin Zimmermann<br>
@@ -31,7 +32,7 @@ _NASA Formal Methods (NFM)_, 2022.
   
   
   
-* **Adaptive Strategies for rLTL Games** 
+* **Adaptive Strategies for rLTL Games** <br>
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none">paper</a>{: .btn .btn--primary .btn--small} <br>
 Satya Prakash Nayak, Daniel Neider, Martin Zimmermann<br>
 _International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2021.
@@ -39,7 +40,7 @@ _International Conference on Hybrid Systems: Computation and Control (HSCC)_, 20
 <small> *Papers with alphabetically sorted list of authors. If you are wondering why this is meaningful, check out this <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="color:#000000"> 2004 statement of American Mathematical Society</a> </small>.
   
 ## Talks
-* **Adaptive Strategies for rLTL Games** 
+* **Adaptive Strategies for rLTL Games** <br>
 <a href="https://production-main-contentbucket52d4b12c-1x4mwd6yn8qjn.s3.eu-west-1.amazonaws.com/5c47b7da-580c-4dad-ba63-e7794e180bd5.pdf" style="text-decoration:none">poster</a>{: .btn .btn--primary .btn--small}
 <a href="https://s3.eu-west-1.amazonaws.com/production-main-contentbucket52d4b12c-1x4mwd6yn8qjn/79809149-c998-477a-9c0a-34a44d20f57d-preview.mp4" style="text-decoration:none">talk</a>{: .btn .btn--primary .btn--small} <br>
 _Highlights of Logic, Games and Automata_, 2021.
