@@ -12,8 +12,9 @@ redirect_from:
 A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1485353" style="text-decoration:none">4</a>.
 ## Papers
-* **Maximally Permissive Assumptions for Synthesis\*** (under submission) <br>
-Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, Anne-Kathrin Schumck
+* **Maximally Permissive Assumptions for Synthesis\*** (to appear) <br>
+Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, Anne-Kathrin Schumck <br>
+_Tools and Algorithms for the Construction and Analysis of Systems (TACAS)_, 2023
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
 <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none">paper</a>{: .btn .btn--primary .btn--small}
