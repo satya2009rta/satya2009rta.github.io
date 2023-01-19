@@ -33,6 +33,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 ## Teaching Experience
 ### Teaching Assistant at Technical University of Kaiserslautern
 * Advanced Automata Theory (2023)
+
 ### Teaching Assistant at Chennai Mathematical Institute
 * Data Mining and Machine Learning (2019)
 * Design and Analysis of Algorithms (2020)

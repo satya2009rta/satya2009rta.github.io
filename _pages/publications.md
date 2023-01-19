@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 layout: single
 redirect_from:
-  - /publications/
+  - /publications_talks/
   - /publications.html
   - /talks/
   - /talks.html
