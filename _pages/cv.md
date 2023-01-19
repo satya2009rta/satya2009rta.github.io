@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Find the pdf version <a href="{{ base_path }}/Files/CV.pdf" style="text-decoration:none">here</a>.
+Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decoration:none">here</a>.
 
 ## Education
 * <strong>PhD. in Computer Science </strong><br>
@@ -31,6 +31,8 @@ Find the pdf version <a href="{{ base_path }}/Files/CV.pdf" style="text-decorati
   10th Score: 95.5%</small>
 
 ## Teaching Experience
+### Teaching Assistant at Technical University of Kaiserslautern
+* Advanced Automata Theory (2023)
 ### Teaching Assistant at Chennai Mathematical Institute
 * Data Mining and Machine Learning (2019)
 * Design and Analysis of Algorithms (2020)
@@ -43,7 +45,7 @@ Find the pdf version <a href="{{ base_path }}/Files/CV.pdf" style="text-decorati
 * Conference reviewer: ISoLA 2023
 * Conference sub-reviewer: NFM 2022
 
-## Internships
+## Research Internships
 * <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
 a quality criterion based on Robust Linear Temporal Logic. In perticular, we introduced a strategy that adaptively changes its moves when the opponent make some bad choices.">
   Adaptive Strategies for rLTL Games</abbr></strong><br>
