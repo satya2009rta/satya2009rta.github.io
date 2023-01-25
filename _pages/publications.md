@@ -16,7 +16,7 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 ## Papers
 * **Computing Adequately Permissive Assumptions for Synthesis\*** (to appear) <br>
 <a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small}
-<a href="https://gitlab.mpi-sws.org/kmallik/adequately-permissive-assumptions" style="text-decoration:none">tool</a>{: .btn .btn--primary .btn--small} <br>
+<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none">tool</a>{: .btn .btn--primary .btn--small} <br>
 Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, Anne-Kathrin Schumck <br>
 _Tools and Algorithms for the Construction and Analysis of Systems (TACAS)_, 2023
 
@@ -42,7 +42,7 @@ _NASA Formal Methods (NFM)_, 2022.
 
 ## Tools
 * **[SIMpA]**: A tool for computing sufficient, implementable and permissive assumptions for parity games <br>
-<a href="https://gitlab.mpi-sws.org/kmallik/adequately-permissive-assumptions" style="text-decoration:none">GitLab</a>{: .btn .btn--primary .btn--small}
+<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none">GitLab</a>{: .btn .btn--primary .btn--small}
 
   
 ## Posters and Talks
