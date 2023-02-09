@@ -48,7 +48,7 @@ _NASA Formal Methods (NFM)_, 2022.
 Satya Prakash Nayak, Daniel Neider, Martin Zimmermann<br>
 _International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2021.
 
-* **Adaptive Strategies for rLTL Games** <br>
+* **Adaptive Strategies for rLTL Games\*** <br>
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none">poster</a>{: .btn .btn--primary .btn--small}
 <a href="https://s3.eu-west-1.amazonaws.com/production-main-contentbucket52d4b12c-1x4mwd6yn8qjn/79809149-c998-477a-9c0a-34a44d20f57d-preview.mp4" style="text-decoration:none">talk</a>{: .btn .btn--primary .btn--small} <br>
 _Highlights of Logic, Games and Automata_, 2021.
