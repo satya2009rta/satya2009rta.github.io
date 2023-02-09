@@ -20,7 +20,7 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, Anne-Kathrin Schumck <br>
 _Tools and Algorithms for the Construction and Analysis of Systems (TACAS)_, 2023
 
-* **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
+* **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime\*** <br>
 <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none">paper</a>{: .btn .btn--primary .btn--small}
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small} <br>
 Satya Prakash Nayak, Daniel Neider, Martin Zimmermann<br>
@@ -34,10 +34,6 @@ _International Symposium on Leveraging Applications of Formal Methods (ISoLA)_, 
 Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, Martin Zimmermann<br>
 _NASA Formal Methods (NFM)_, 2022.
   
-  
-  
-  
-<small> *Papers with alphabetically sorted list of authors. If you are wondering why this is meaningful, check out this <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="color:#000000"> 2004 statement of American Mathematical Society</a> </small>.
 
 
 ## Tools
@@ -46,7 +42,7 @@ _NASA Formal Methods (NFM)_, 2022.
 
   
 ## Posters and Talks
-* **Adaptive Strategies for rLTL Games** <br>
+* **Adaptive Strategies for rLTL Games\*** <br>
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none">extended abstract</a>{: .btn .btn--primary .btn--small} 
 <a href="{{ base_path }}/files/posters/hscc21.pdf" style="text-decoration:none">poster</a>{: .btn .btn--primary .btn--small} <br>
 Satya Prakash Nayak, Daniel Neider, Martin Zimmermann<br>
@@ -56,6 +52,7 @@ _International Conference on Hybrid Systems: Computation and Control (HSCC)_, 20
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none">poster</a>{: .btn .btn--primary .btn--small}
 <a href="https://s3.eu-west-1.amazonaws.com/production-main-contentbucket52d4b12c-1x4mwd6yn8qjn/79809149-c998-477a-9c0a-34a44d20f57d-preview.mp4" style="text-decoration:none">talk</a>{: .btn .btn--primary .btn--small} <br>
 _Highlights of Logic, Games and Automata_, 2021.
-    
+
+<small> *Alphabetically sorted list of authors. If you are wondering why this is meaningful, check out this <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="color:#000000"> 2004 statement of American Mathematical Society</a></small>.
     
   
