@@ -41,7 +41,7 @@ _NASA Formal Methods (NFM)_, 2022.
 
 
 ## Tools
-* **[SIMpA]**: A tool for computing sufficient, implementable and permissive assumptions for parity games <br>
+* **[SImPA]**: A tool for computing **S**ufficient, **Im**plementable and **P**ermissive **A**ssumptions for parity games <br>
 <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none">GitLab</a>{: .btn .btn--primary .btn--small}
 
   
