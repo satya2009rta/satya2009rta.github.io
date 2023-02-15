@@ -17,5 +17,3 @@ My research interests broadly lie in the intersection of Mathematics and Theoret
 
 I completed my Masters in Computer Science and Bachelors in Mathematics and Computer Science at <a href="https://www.cmi.ac.in" style="text-decoration:none">Chennai Mathematical Institute</a>, India. Prior to that, I grew up in Odisha, India and I did my schooling from <a href="https://shraddha.org/" style="text-decoration:none">Rtapalli Vidyapitha</a>.
 
-I am co-organizing a students talk series <a href="https://ofcourse.mpi-sws.org/" style="text-decoration:none">OFCOURSE</a>, on the theory of verification and synthesis. If you are a PhD student and would like to give a talk, please get in touch.
-
