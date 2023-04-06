@@ -35,9 +35,9 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Advanced Automata Theory (2023)
 
 ### Teaching Assistant at Chennai Mathematical Institute
-* Data Mining and Machine Learning (2019)
-* Design and Analysis of Algorithms (2020)
 * Discrete Mathematics (2021)
+* Design and Analysis of Algorithms (2020)
+* Data Mining and Machine Learning (2019)
 
 ### Faculty at Rtapalli Vidyapitha 
 * Calculus (2017-2018)

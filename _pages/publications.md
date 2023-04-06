@@ -14,39 +14,38 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 
 
 ## Papers
+* **Towards Seamless Reactivity of Hybrid Control** (under submission) <br>
+with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
+[ <a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">HSCC'23</a><small style="font-family:'Times New Roman'">(extended abstract)</small> ]
+
+* **Permissiveness for Strategy Adaptation** (under submission) <br>
+with Ashwani Anand and Anne-Kathrin Schumck <br>
+[ <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">HSCC'23</a><small style="font-family:'Times New Roman'">(extended abstract)</small> ]
+
+
 * **Computing Adequately Permissive Assumptions for Synthesis** (to appear) <br>
-<a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small}
-<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none">tool</a>{: .btn .btn--primary .btn--small} <br>
-with Ashwani Anand, Kaushik Mallik, and Anne-Kathrin Schumck <br>
-_Tools and Algorithms for the Construction and Analysis of Systems (TACAS)_, 2023
+with Ashwani Anand, Kaushik Mallik, and Anne-Kathrin Schumck<br>
+[ <a href="#" style="text-decoration:none;font-family:'Courier'">TACAS'23</a> |
+<a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">tool</a> ]
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
-<a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none">ISoLA'22</a>{: .btn .btn--primary .btn--small}
-<a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small} <br>
 with Daniel Neider and Martin Zimmermann<br>
-_International Symposium on Leveraging Applications of Formal Methods (ISoLA)_, 2022
+[ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Courier'">ISoLA'22</a> |
+<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">HSCC'21</a><small style="font-family:'Times New Roman'">(extended abstract)</small> |
+<a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Courier'">poster</a> ]
   
   
-
 * **Robust Computation Tree Logic** <br>
-<a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none">NFM'22</a>{: .btn .btn--primary .btn--small}
-<a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none">arXiv</a>{: .btn .btn--primary .btn--small} <br>
 with Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
-_NASA Formal Methods (NFM)_, 2022
+[ <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Courier'">NFM'22</a> |
+<a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Courier'">arXiv</a> ]
   
 
 
 ## Tools
-* **[SImPA]**: A tool for computing **S**ufficient, **Im**plementable and **P**ermissive **A**ssumptions for parity games <br>
-<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none">git</a>{: .btn .btn--primary .btn--small}
-
-  
-## Posters and Extended Abstracts
-* **Adaptive Strategies for rLTL Games** <br>
-<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none">HSCC'21</a>{: .btn .btn--primary .btn--small} 
-<a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none">poster</a>{: .btn .btn--primary .btn--small} <br>
-with Daniel Neider and Martin Zimmermann<br>
-_International Conference on Hybrid Systems: Computation and Control (HSCC)_, 2021 <br>
-_Highlights of Logic, Games and Automata_, 2021
+* <b style="font-family:'Georgia'">SImPA</b> : A tool for computing **S**ufficient, **Im**plementable and **P**ermissive **A**ssumptions for parity games <br>
+[ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">GitLab</a> ]
     
   
