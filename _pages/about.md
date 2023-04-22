@@ -15,5 +15,5 @@ I am a PhD (Computer Science) student at the <a href="https://www.mpi-sws.org/" 
 
 My research interests broadly lie in the intersection of Mathematics and Theoretical Computer Science. I am especially interested in Logic, Reactive Synthesis and Games on Graphs.
 
-I completed my Masters in Computer Science and Bachelors in Mathematics and Computer Science at <a href="https://www.cmi.ac.in" style="text-decoration:none">Chennai Mathematical Institute</a>, India. Prior to that, I grew up in Odisha, India and I did my schooling from <a href="https://shraddha.org/" style="text-decoration:none">Rtapalli Vidyapitha</a>.
+I completed my Masters in Computer Science and Bachelors in Mathematics and Computer Science at <a href="https://www.cmi.ac.in" style="text-decoration:none">Chennai Mathematical Institute</a>. Prior to that, I grew up in Odisha and I did my schooling from <a href="https://shraddha.org/" style="text-decoration:none">Rtapalli Vidyapitha</a>.
 

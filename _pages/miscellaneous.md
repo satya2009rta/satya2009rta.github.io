@@ -15,13 +15,33 @@ I watch a lot of TV shows (and movies) in my free time. I'm always looking for g
 
 Countries I have visited
 ---------------------
-<details><summary>India</summary><pre>Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</pre></details>
-<details><summary>Germany</summary><pre>Kaiserslautern, Heidelberg, Freiburg, Munich, Koblenz, Cochem, Düsseldorf, Karlsruhe, Frankfurt, Saarbrücken, etc.</pre></details>
-<details><summary>USA</summary><pre>Los Angeles, Santa Monica, Pasadena</pre></details>
-<details><summary>Switzerland</summary><pre>Lucerene, Zurich</pre></details>
-<details><summary>France</summary><pre>Paris, Marseille, Strasbourg</pre></details>
-<details><summary>Spain</summary><pre>Barcelona</pre></details>
-<details><summary>Austria</summary><pre>Vienna</pre></details>
-<details><summary>Hungary</summary><pre>Budapest</pre></details>
-<details><summary>Slovakia</summary><pre>Bratislava</pre></details>
+<details><summary>India</summary>
+<p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
+
+<details><summary>Germany</summary>
+<p style="font-family:'Georgia'; font-size:16">Kaiserslautern, Heidelberg, Freiburg, Munich, Koblenz, Cochem, Düsseldorf, Karlsruhe, Frankfurt, Saarbrücken, etc.</p></details>
+
+<details><summary>USA</summary>
+<p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Santa Monica, San Antonio, Pasadena</p></details>
+
+<details><summary>Switzerland</summary>
+<p style="font-family:'Georgia'; font-size:16">Lucerene, Zurich</p></details>
+
+<details><summary>France</summary>
+<p style="font-family:'Georgia'; font-size:16">Paris, Marseille, Strasbourg</p></details>
+
+<details><summary>Spain</summary>
+<p style="font-family:'Georgia'; font-size:16">Barcelona</p></details>
+
+<details><summary>Austria</summary>
+<p style="font-family:'Georgia'; font-size:16">Vienna</p></details>
+
+<details><summary>Hungary</summary>
+<p style="font-family:'Georgia'; font-size:16">Budapest</p></details>
+
+<details><summary>Slovakia</summary>
+<p style="font-family:'Georgia'; font-size:16">Bratislava</p></details>
+
+<details><summary>Luxembourg</summary>
+<p style="font-family:'Georgia'; font-size:16">Luxembourg</p></details>
 

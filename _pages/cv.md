@@ -17,12 +17,12 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * <strong><abbr title="Courseworks: Concurrency Theory, Infinite State Verification, Cryptography, Coding Theory, Games on Graphs II, Advanced Algorithms, Graph Theory, Complexity Theory, Matchings and Network flows, Linear Optimizations, Metric Embeddings and their Algorithmic Applications, Quantum Computing">
   Master of Science in Computer Science</abbr></strong><br>
   <small> Chennai Mathematical Institute &bull; Chennai &bull; <em class="date">2019 - 2021</em><br>
-  CGPA: 9.94</small>
+  CGPA: 9.94/10</small>
 * <strong><abbr title="Mathematics Courseworks: Real/Complex Analysis, Linear Algebra, Group/Field/Ring Theory, Linear Groups, Topology, Probability, Calculus, Game Theory
   AND Computer Science Courseworks: Theory of Computation, Discrete Mathematics, Optimization, Mathematical Logic, Games on Graphs, Machine Learning, Weighted/Timed Automata, Algorithms, Haskell, Python, Java">
   Bachelor of Science in Mathematics and Computer Science</abbr></strong><br>
   <small> Chennai Mathematical Institute &bull; Chennai &bull; <em class="date">2016 - 2019</em><br>
-  CGPA: 8.48</small>
+  CGPA: 8.48/10</small>
 * <strong>Senior Secondary Schooling</strong><br>
   <small> BJB Junior College &bull; Bhubaneswar &bull; <em class="date">2014 - 2016</em><br>
   12th Score: 85%</small>
