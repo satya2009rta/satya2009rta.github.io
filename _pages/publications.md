@@ -10,18 +10,21 @@ redirect_from:
   - /talks.html
 ---  
 A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
-My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://mathscinet.ams.org/mathscinet/collaborationDistance.html?group_source=1485353" style="text-decoration:none">4</a>.
+My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
 
 
 ## Papers
-* **Permissiveness for Strategy Adaptation** <br>
+* **Contract-Based Distributed Synthesis in Two-Objective Parity Games** <br>
 with Ashwani Anand and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> ]
+[ <a href="https://cloud.mpi-sws.org/index.php/s/HwyTfJFnGiLGmkB" style="text-decoration:none;font-family:'Courier'">**pdf**</a> |
+<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
+<a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
 
-* **Reactive Symbolic Control of Disturbed Dynamical Systems** (under review) <br>
+* **Context-Triggered Abstraction-Based Control Design** (under review) <br>
 with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
-[ <a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
-<a href="{{ base_path }}/files/posters/hscc23.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> |
+[ <a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
+<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
+<a href="{{ base_path }}/files/posters/hscc23-1.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> |
 <a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Courier'">**simulation**</a> ]
 
 
@@ -48,14 +51,15 @@ with Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
 with Daniel Neider and Martin Zimmermann<br>
 [ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Courier'">**ISoLA'22**</a> |
-<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">**HSCC'21**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
+<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">**HSCC'21**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
 
 
 ## Tools
 * <b style="font-family:'Georgia'">PeSTel</b> : A tool for computing **Pe**rmissive **S**trategy **Te**mp**l**ates for (generalized) parity games <br>
-[ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**GitHub**</a> ]
+[ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**GitHub**</a> |
+<a href="https://www.doi.org/10.6084/m9.figshare.22678798" style="text-decoration:none;font-family:'Courier'">**doi**</a> ]
 
 * <b style="font-family:'Georgia'">SImPA</b> : A tool for computing **S**ufficient, **Im**plementable and **P**ermissive **A**ssumptions for parity games <br>
 [ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">**GitLab**</a> ]
