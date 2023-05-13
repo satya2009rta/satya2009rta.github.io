@@ -14,8 +14,9 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 
 
 ## Papers
-* **Contract-Based Distributed Synthesis in Two-Objective Parity Games** <br>
+* **Contract-Based Distributed Synthesis in Two-Objective Parity Games** <br> 
 with Ashwani Anand and Anne-Kathrin Schumck <br>
+<b style="font-family:'Times New Roman'; color:red">HSCC best poster award</b> <br>
 [ <a href="https://cloud.mpi-sws.org/index.php/s/HwyTfJFnGiLGmkB" style="text-decoration:none;font-family:'Courier'">**pdf**</a> |
 <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
 <a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
