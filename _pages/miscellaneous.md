@@ -4,8 +4,6 @@ permalink: /miscellaneous/
 author_full_profile: false
 author_profile: true
 layout: single
-redirect_from:
-  - /miscellaneous.html
 --- 
 I am co-organizing a students talk series <a href="https://ofcourse.mpi-sws.org/" style="text-decoration:none">OFCOURSE</a>, on the theory of verification and synthesis. If you are a PhD student and would like to give a talk, please get in touch.
 
@@ -24,11 +22,14 @@ Countries I have visited
 <details><summary>USA</summary>
 <p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Santa Monica, San Antonio, Pasadena</p></details>
 
+<details><summary>France</summary>
+<p style="font-family:'Georgia'; font-size:16">Paris, Marseille, Strasbourg</p></details>
+
 <details><summary>Switzerland</summary>
 <p style="font-family:'Georgia'; font-size:16">Lucerene, Zurich</p></details>
 
-<details><summary>France</summary>
-<p style="font-family:'Georgia'; font-size:16">Paris, Marseille, Strasbourg</p></details>
+<details><summary>Netherlands</summary>
+<p style="font-family:'Georgia'; font-size:16">Amsterdam, Giethoorn</p></details>
 
 <details><summary>Spain</summary>
 <p style="font-family:'Georgia'; font-size:16">Barcelona</p></details>

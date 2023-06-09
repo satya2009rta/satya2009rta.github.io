@@ -3,11 +3,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 layout: single
-redirect_from:
-  - /publications_talks/
-  - /publications.html
-  - /talks/
-  - /talks.html
 ---  
 A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
@@ -32,7 +27,7 @@ with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël 
 * **Synthesizing Permissive Winning Strategy Templates for Parity Games** (to appear) <br>
 with Ashwani Anand and Anne-Kathrin Schumck <br>
 [ <a href="#" style="text-decoration:none;font-family:'Courier'">**CAV'23**</a> |
-<a href="https://www.mpi-sws.org/tr/2023-001.pdf" style="text-decoration:none;font-family:'Courier'">**pdf**</a> |
+<a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
 <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**tool**</a> ]
 
 
@@ -59,8 +54,7 @@ with Daniel Neider and Martin Zimmermann<br>
 
 ## Tools
 * <b style="font-family:'Georgia'">PeSTel</b> : A tool for computing **Pe**rmissive **S**trategy **Te**mp**l**ates for (generalized) parity games <br>
-[ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**GitHub**</a> |
-<a href="https://www.doi.org/10.6084/m9.figshare.22678798" style="text-decoration:none;font-family:'Courier'">**doi**</a> ]
+[ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**GitHub**</a> ]
 
 * <b style="font-family:'Georgia'">SImPA</b> : A tool for computing **S**ufficient, **Im**plementable and **P**ermissive **A**ssumptions for parity games <br>
 [ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">**GitLab**</a> ]

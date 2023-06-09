@@ -3,8 +3,6 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 layout: single
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -39,7 +37,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Design and Analysis of Algorithms (2020)
 * Data Mining and Machine Learning (2019)
 
-### Faculty at Rtapalli Vidyapitha 
+### Teacher at Rtapalli Vidyapitha 
 * Calculus (2017-2018)
 
 ## Professional Activities

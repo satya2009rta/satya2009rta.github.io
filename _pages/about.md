@@ -5,10 +5,6 @@ excerpt: "Home"
 author_full_profile: true
 author_profile: false
 layout: single
-redirect_from:
-  - /home/
-  - /about/
-  - /about.html
 ---
 <a style="text-decoration:none; font-size:40px; color:#636363">Hallo!</a> <br><br>
 I am a PhD (Computer Science) student at the <a href="https://www.mpi-sws.org/" style="text-decoration:none">Max Planck Institute for Software Systems</a>. I am working in Control Software Systems group, advised by <a href="https://wp.mpi-sws.org/akschmuck/" style="text-decoration:none">Anne-Kathrin Schmuck</a>.
