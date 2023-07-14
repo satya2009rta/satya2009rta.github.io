@@ -17,13 +17,16 @@ Countries I have visited
 <p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
 
 <details><summary>Germany</summary>
-<p style="font-family:'Georgia'; font-size:16">Kaiserslautern, Heidelberg, Freiburg, Munich, Koblenz, Cochem, Düsseldorf, Karlsruhe, Frankfurt, Saarbrücken, etc.</p></details>
+<p style="font-family:'Georgia'; font-size:16">Kaiserslautern, Heidelberg, Freiburg, Munich, Cologne, Koblenz, Cochem, Düsseldorf, Karlsruhe, Frankfurt, Saarbrücken, etc.</p></details>
 
 <details><summary>USA</summary>
 <p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Santa Monica, San Antonio, Pasadena</p></details>
 
 <details><summary>France</summary>
 <p style="font-family:'Georgia'; font-size:16">Paris, Marseille, Strasbourg</p></details>
+
+<details><summary>Austria</summary>
+<p style="font-family:'Georgia'; font-size:16">Vienna, Salzburg, Hallstatt</p></details>
 
 <details><summary>Switzerland</summary>
 <p style="font-family:'Georgia'; font-size:16">Lucerene, Zurich</p></details>
@@ -33,9 +36,6 @@ Countries I have visited
 
 <details><summary>Spain</summary>
 <p style="font-family:'Georgia'; font-size:16">Barcelona</p></details>
-
-<details><summary>Austria</summary>
-<p style="font-family:'Georgia'; font-size:16">Vienna</p></details>
 
 <details><summary>Hungary</summary>
 <p style="font-family:'Georgia'; font-size:16">Budapest</p></details>

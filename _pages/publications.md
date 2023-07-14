@@ -9,10 +9,10 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 
 
 ## Papers
-* **Contract-Based Distributed Synthesis in Two-Objective Parity Games** <br> 
+* **Contract-Based Distributed Synthesis in Two-Objective Parity Games** (under review) <br> 
 with Ashwani Anand and Anne-Kathrin Schumck <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC best poster award</b> <br>
-[ <a href="https://cloud.mpi-sws.org/index.php/s/HwyTfJFnGiLGmkB" style="text-decoration:none;font-family:'Courier'">**pdf**</a> |
+[ <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
 <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
 <a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
 
@@ -24,9 +24,9 @@ with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël 
 <a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Courier'">**simulation**</a> ]
 
 
-* **Synthesizing Permissive Winning Strategy Templates for Parity Games** (to appear) <br>
+* **Synthesizing Permissive Winning Strategy Templates for Parity Games** <br>
 with Ashwani Anand and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Courier'">**CAV'23**</a> |
+[ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Courier'">**CAV'23**</a> |
 <a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
 <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**tool**</a> ]
 
