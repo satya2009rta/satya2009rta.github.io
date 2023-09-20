@@ -13,13 +13,14 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 with Ashwani Anand and Anne-Kathrin Schumck <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC best poster award</b> <br>
 [ <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
+<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'23**</a> |
 <a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
 
-* **Context-Triggered Abstraction-Based Control Design** (under review) <br>
+* **Context-Triggered Abstraction-Based Control Design** <br>
 with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
-[ <a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">**HSCC'23**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
+[ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Courier'">**OJCSYS'23**</a> |
+<a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
+<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'23**</a> |
 <a href="{{ base_path }}/files/posters/hscc23-1.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> |
 <a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Courier'">**simulation**</a> ]
 
@@ -48,7 +49,7 @@ with Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
 with Daniel Neider and Martin Zimmermann<br>
 [ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Courier'">**ISoLA'22**</a> |
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">**HSCC'21**</a><small style="font-family:'Times New Roman'">(abstract)</small> |
+<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'21**</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
 
 

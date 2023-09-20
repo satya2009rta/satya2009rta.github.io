@@ -31,6 +31,9 @@ Countries I have visited
 <details><summary>Switzerland</summary>
 <p style="font-family:'Georgia'; font-size:16">Lucerene, Zurich</p></details>
 
+<details><summary>Italy</summary>
+<p style="font-family:'Georgia'; font-size:16">Venice, Udine</p></details>
+
 <details><summary>Netherlands</summary>
 <p style="font-family:'Georgia'; font-size:16">Amsterdam, Giethoorn</p></details>
 

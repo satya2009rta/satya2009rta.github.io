@@ -7,7 +7,7 @@ author_profile: false
 layout: single
 ---
 <a style="text-decoration:none; font-size:40px; color:#636363">Hallo!</a> <br><br>
-I am a PhD (Computer Science) student at the <a href="https://www.mpi-sws.org/" style="text-decoration:none">Max Planck Institute for Software Systems</a>. I am working in Control Software Systems group, advised by <a href="https://wp.mpi-sws.org/akschmuck/" style="text-decoration:none">Anne-Kathrin Schmuck</a>.
+I am a PhD (Computer Science) student at the <a href="https://www.mpi-sws.org/" style="text-decoration:none">Max Planck Institute for Software Systems</a>. I am working in <a href="https://cossy.mpi-sws.org/" style="text-decoration:none; color:inherit">Control Software Systems group</a>, advised by <a href="https://wp.mpi-sws.org/akschmuck/" style="text-decoration:none">Anne-Kathrin Schmuck</a>.
 
 My research interests broadly lie in the intersection of Mathematics and Theoretical Computer Science. I am especially interested in Logic, Reactive Synthesis and Games on Graphs.
 
