@@ -12,45 +12,45 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 * **Contract-Based Distributed Synthesis in Two-Objective Parity Games** (under review) <br> 
 with Ashwani Anand and Anne-Kathrin Schumck <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC best poster award</b> <br>
-[ <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'23**</a> |
-<a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
+[ <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Courier'">extended-abstract@HSCC'23</a> |
+<a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Courier'">poster</a> ]
 
 * **Context-Triggered Abstraction-Based Control Design** <br>
 with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
-[ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Courier'">**OJCSYS'23**</a> |
-<a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'23**</a> |
-<a href="{{ base_path }}/files/posters/hscc23-1.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> |
-<a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Courier'">**simulation**</a> ]
+[ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Courier'">OJCSYS'23</a> |
+<a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Courier'">extended-abstract@HSCC'23</a> |
+<a href="{{ base_path }}/files/posters/hscc23-1.pdf" style="text-decoration:none;font-family:'Courier'">poster</a> |
+<a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Courier'">simulation</a> ]
 
 
 * **Synthesizing Permissive Winning Strategy Templates for Parity Games** <br>
 with Ashwani Anand and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Courier'">**CAV'23**</a> |
-<a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">**tool**</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Courier'">CAV'23</a> |
+<a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Courier'">tool</a> ]
 
 
 * **Computing Adequately Permissive Assumptions for Synthesis** <br>
 with Ashwani Anand, Kaushik Mallik, and Anne-Kathrin Schumck<br>
-[ <a href="https://doi.org/10.1007/978-3-031-30820-8_15" style="text-decoration:none;font-family:'Courier'">**TACAS'23**</a> |
-<a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">**tool**</a> |
-<a href="{{ base_path }}/files/posters/MPIretreat22.png" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-30820-8_15" style="text-decoration:none;font-family:'Courier'">TACAS'23</a> |
+<a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Courier'">tool</a> |
+<a href="{{ base_path }}/files/posters/MPIretreat22.png" style="text-decoration:none;font-family:'Courier'">poster</a> ]
   
   
 * **Robust Computation Tree Logic** <br>
 with Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
-[ <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Courier'">**NFM'22**</a> |
-<a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Courier'">NFM'22</a> |
+<a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Courier'">arXiv</a> ]
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
 with Daniel Neider and Martin Zimmermann<br>
-[ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Courier'">**ISoLA'22**</a> |
-<a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Courier'">**arXiv**</a> |
-<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">**extended-abstract@HSCC'21**</a> |
-<a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Courier'">**poster**</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Courier'">ISoLA'22</a> |
+<a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Courier'">arXiv</a> |
+<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Courier'">extended-abstract@HSCC'21</a> |
+<a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Courier'">poster</a> ]
 
 
 ## Tools
