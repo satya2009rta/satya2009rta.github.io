@@ -9,8 +9,6 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 
 Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
 If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="text-decoration:none;">this</a> article by American Mathematical Society.
-
-
 ## Papers
 * **Contract-Based Distributed Synthesis in Two-Objective Parity Games** (under review) <br> 
 <span style="font-size: smaller;">&#x24d0;</span>
@@ -27,7 +25,7 @@ Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak <
 <a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
 * **Context-Triggered Abstraction-Based Control Design** <br>
-Satya Prakash Nayak*, Lucas Neves Egidio*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
+Satya Prakash Nayak\*, Lucas Neves Egidio\*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
 [ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Times';">OJCSYS'23</a> |
 <a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
