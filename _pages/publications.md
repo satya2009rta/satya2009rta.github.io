@@ -7,17 +7,27 @@ layout: single
 A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
 
+Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
+If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="text-decoration:none;">this</a> article by American Mathematical Society.
+
 
 ## Papers
 * **Contract-Based Distributed Synthesis in Two-Objective Parity Games** (under review) <br> 
-with Ashwani Anand and Anne-Kathrin Schumck <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC best poster award</b> <br>
 [ <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
 <a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
+* **Solving Two-Player Games under Progress Assumptions** <br>
+<span style="font-size: smaller;">&#x24e1;</span>
+Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">VMCAI'24</a> |
+<a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+
 * **Context-Triggered Abstraction-Based Control Design** <br>
-with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
+Satya Prakash Nayak*, Lucas Neves Egidio*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
 [ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Times';">OJCSYS'23</a> |
 <a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
@@ -26,14 +36,16 @@ with Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël 
 
 
 * **Synthesizing Permissive Winning Strategy Templates for Parity Games** <br>
-with Ashwani Anand and Anne-Kathrin Schumck <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Times';">CAV'23</a> |
 <a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 
 * **Computing Adequately Permissive Assumptions for Synthesis** <br>
-with Ashwani Anand, Kaushik Mallik, and Anne-Kathrin Schumck<br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck<br>
 [ <a href="https://doi.org/10.1007/978-3-031-30820-8_15" style="text-decoration:none;font-family:'Times';">TACAS'23</a> |
 <a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">tool</a> |
@@ -41,16 +53,20 @@ with Ashwani Anand, Kaushik Mallik, and Anne-Kathrin Schumck<br>
   
   
 * **Robust Computation Tree Logic** <br>
-with Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
 [ <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Times';">NFM'22</a> |
 <a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
-with Daniel Neider and Martin Zimmermann<br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Satya Prakash Nayak, Daniel Neider and Martin Zimmermann<br>
 [ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Times';">ISoLA'22</a> |
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
+
+\*Authors with equal contribution.
 
 
 ## Tools

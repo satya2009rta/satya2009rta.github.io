@@ -41,8 +41,8 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Calculus (2017-2018)
 
 ## Professional Activities
-* Conference reviewer: ISoLA 2023
-* Conference sub-reviewer: NFM 2022
+* Conference reviewer: ISoLA'22
+* Conference sub-reviewer: VMCAI'24, ICSE'23, NFM'22
 
 ## Research Internships
 * <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
