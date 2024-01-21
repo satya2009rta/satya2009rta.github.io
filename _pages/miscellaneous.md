@@ -19,7 +19,7 @@ Countries I have visited
 <details><summary>Germany</summary>
 <p style="font-family:'Georgia'; font-size:16">Kaiserslautern, Heidelberg, Freiburg, Munich, Cologne, Koblenz, Cochem, Düsseldorf, Karlsruhe, Frankfurt, Saarbrücken, etc.</p></details>
 
-<details><summary>USA</summary>
+<details><summary>United States</summary>
 <p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Santa Monica, San Antonio, Pasadena</p></details>
 
 <details><summary>France</summary>
@@ -48,4 +48,10 @@ Countries I have visited
 
 <details><summary>Luxembourg</summary>
 <p style="font-family:'Georgia'; font-size:16">Luxembourg</p></details>
+
+<details><summary>Czechia</summary>
+<p style="font-family:'Georgia'; font-size:16">Prague</p></details>
+
+<details><summary>United Kingdom</summary>
+<p style="font-family:'Georgia'; font-size:16">London</p></details>
 

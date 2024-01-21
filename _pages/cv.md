@@ -30,6 +30,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 ## Teaching Experience
 ### Teaching Assistant at Technical University of Kaiserslautern
+* Advanced Automata Theory (2024)
 * Advanced Automata Theory (2023)
 
 ### Teaching Assistant at Chennai Mathematical Institute
@@ -41,8 +42,9 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Calculus (2017-2018)
 
 ## Professional Activities
-* Conference reviewer: ISoLA'22
-* Conference sub-reviewer: VMCAI'24, ICSE'23, NFM'22
+* Conference Reviewer: ISoLA'22
+* Conference Sub-reviewer: TACAS'24, VMCAI'24, ICSE'23, NFM'22
+* Artifact/Repeatability Evaluation Committee: HSCC'24
 
 ## Research Internships
 * <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
