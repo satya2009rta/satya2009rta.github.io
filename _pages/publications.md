@@ -18,11 +18,6 @@ Satya Prakash Nayak and Anne-Kathrin Schumck <br>
 [ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
 <a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
-* **Context-triggered Games for Reactive Synthesis over Stochastic Systems via Control Barrier Certificates** <br>
-Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
-<a href="#" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
-
 * **Contract-Based Distributed Logical Controller Synthesis** <br> 
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
