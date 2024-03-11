@@ -10,7 +10,7 @@ layout: single
 Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decoration:none">here</a>.
 
 ## Education
-* <strong>PhD. in Computer Science </strong><br>
+* <strong>PhD in Computer Science </strong><br>
   <small> Max Planck Institute for Software Systems &bull; Kaiserslautern, Germany &bull; <em class="date">2021 - Present</em> </small>
 * <strong><abbr title="Courseworks: Concurrency Theory, Infinite State Verification, Cryptography, Coding Theory, Games on Graphs II, Advanced Algorithms, Graph Theory, Complexity Theory, Matchings and Network flows, Linear Optimizations, Metric Embeddings and their Algorithmic Applications, Quantum Computing">
   Master of Science in Computer Science</abbr></strong><br>
@@ -28,23 +28,6 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
   <small> Rtapalli Vidyapitha &bull; Bhubaneswar &bull; <em class="date">2009 - 2014</em><br>
   10th Score: 95.5%</small>
 
-## Teaching Experience
-### Teaching Assistant at Technical University of Kaiserslautern
-* Advanced Automata Theory (2024)
-* Advanced Automata Theory (2023)
-
-### Teaching Assistant at Chennai Mathematical Institute
-* Discrete Mathematics (2021)
-* Design and Analysis of Algorithms (2020)
-* Data Mining and Machine Learning (2019)
-
-### Teacher at Rtapalli Vidyapitha 
-* Calculus (2017-2018)
-
-## Professional Activities
-* Conference Reviewer: ISoLA'22
-* Conference Sub-reviewer: TACAS'24, VMCAI'24, ICSE'23, NFM'22
-* Artifact/Repeatability Evaluation Committee: HSCC'24
 
 ## Research Internships
 * <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
@@ -60,14 +43,40 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
   Metric Embeddings and their Algorithmic Applications</abbr></strong><br>
   <small> Prajakta Nimbhorkar  &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2020 </em></small>
 * <strong><abbr title="In this reading project, we read a few papers on games on graphs (specifically Parity games).">
-  Games on Graphs II</abbr></strong><br>
+  Games on Graphs</abbr></strong><br>
   <small>Balaguru Srivathsan &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2019 </em></small>
 
+
+
 ## Achievements 
-* 2016 INSPIRE Scholarship
+* 2016 INSPIRE Scholarship for Higher Education
 * 2015 Indian National Mathematics Olympiad (INMO)
 * 2015 Zonal Informatics Olympiad
 * 2015 National Standard Examination in Astronomy
 * 2015 American Mathematics Competition (AMC) 12 (selected to participate in American Invitational Mathematics Examination)
-* 2014, 2012 Regional Mathematics Olympiad (Gold Medalist)
+* 2014, 2012 Regional Mathematics Olympiad (Gold Medalist'14)
 * 2011 Junior Mathematics Olympiad (Silver Medalist)
+
+
+## Teaching Experience
+### Teaching Assistant at Technical University of Kaiserslautern
+* Advanced Automata Theory (2024)
+* Advanced Automata Theory (2023)
+
+### Teaching Assistant at Chennai Mathematical Institute
+* Discrete Mathematics (2021)
+* Design and Analysis of Algorithms (2020)
+* Data Mining and Machine Learning (2019)
+
+### Teacher at Rtapalli Vidyapitha 
+* Calculus (2017-2018)
+
+## Other Professional Activities
+* PC Member: HSCC RE'24
+* Conference Reviewer: ISoLA'22
+* Conference Sub-reviewer: TACAS'24, VMCAI'24, ICSE'23, NFM'22
+
+
+
+
+

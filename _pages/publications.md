@@ -18,9 +18,14 @@ Satya Prakash Nayak and Anne-Kathrin Schumck <br>
 [ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
 <a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
+* **Context-triggered games for reactive synthesis over stochastic
+systems via control barrier certificates** <br> 
+Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">HSCC'24</a> ]
+
 * **Contract-Based Distributed Logical Controller Synthesis** <br> 
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+<span style="font-size: smaller;">&#x24e1;</span>
+Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC'23 best poster award</b> <br>
 [ <a href="#" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
 <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Times';">arXiv</a> |
@@ -73,14 +78,17 @@ Satya Prakash Nayak, Daniel Neider and Martin Zimmermann<br>
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
-\*Authors with equal contribution.
+\*equal contribution.
 
 
 ## Tools
-* <b style="font-family:'Georgia'">PeSTel</b> : A tool for computing **Pe**rmissive **S**trategy **Te**mp**l**ates for (generalized) parity games <br>
+* <b style="font-family:'Georgia'">CoSMo</b> : **Co**ntracted **S**trategy **M**ask Neg**o**tiation in two-objective parity games <br>
+[ <a href="https://github.com/satya2009rta/cosmo" style="text-decoration:none;font-family:'Times';">GitHub</a> ]
+
+* <b style="font-family:'Georgia'">PeSTel</b> : **Pe**rmissive **S**trategy **Te**mp**l**ates for generalized parity games <br>
 [ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Times';">GitHub</a> ]
 
-* <b style="font-family:'Georgia'">SImPA</b> : A tool for computing **S**ufficient, **Im**plementable, and **P**ermissive **A**ssumptions for parity games <br>
+* <b style="font-family:'Georgia'">SImPA</b> : **S**ufficient, **Im**plementable, and **P**ermissive **A**ssumptions for synthesis <br>
 [ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">GitLab</a> ]
     
   
