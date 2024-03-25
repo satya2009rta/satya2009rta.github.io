@@ -15,8 +15,9 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 * **Most General Winning Secure Equilibria Synthesis in Graph Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Satya Prakash Nayak and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
-<a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-57256-2_9" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
+<a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="{{ base_path }}/files/posters/tacas24.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
 * **Context-triggered games for reactive synthesis over stochastic
 systems via control barrier certificates** <br> 
@@ -27,7 +28,7 @@ Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC'23 best poster award</b> <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
+[ <a href="https://doi.org/10.1145/3641513.3650123" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
 <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
 <a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
@@ -67,7 +68,8 @@ Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck<br>
 * **Robust Computation Tree Logic** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
-[ <a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Times';">NFM'22</a> |
+[ <a href="https://doi.org/10.1007/s11334-024-00552-7" style="text-decoration:none;font-family:'Times';">ISSE'24</a> |
+<a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Times';">NFM'22</a> |
 <a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
