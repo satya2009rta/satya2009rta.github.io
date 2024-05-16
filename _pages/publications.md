@@ -12,6 +12,13 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 
 ## Papers
 
+* **Localized Attractor Computations for Infinite-State Games** <br>
+<span style="font-size: smaller;">&#x24e1;</span>
+Anne-Kathrin Schmuck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">CAV'24</a> |
+<a href="https://arxiv.org/abs/2405.09281" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://gitlab.mpi-sws.org/sanayak/rpg-stela" style="text-decoration:none;font-family:'Times';">tool</a> ]
+
 * **Most General Winning Secure Equilibria Synthesis in Graph Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Satya Prakash Nayak and Anne-Kathrin Schumck <br>
@@ -22,7 +29,7 @@ Satya Prakash Nayak and Anne-Kathrin Schumck <br>
 * **Context-triggered games for reactive synthesis over stochastic
 systems via control barrier certificates** <br> 
 Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">HSCC'24</a> ]
+[ <a href="https://doi.org/10.1145/3641513.3650136" style="text-decoration:none;font-family:'Times';">HSCC'24</a> ]
 
 * **Contract-Based Distributed Logical Controller Synthesis** <br> 
 <span style="font-size: smaller;">&#x24e1;</span>
@@ -74,7 +81,7 @@ Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
 
 * **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Satya Prakash Nayak, Daniel Neider and Martin Zimmermann<br>
+Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 [ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Times';">ISoLA'22</a> |
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
@@ -84,6 +91,11 @@ Satya Prakash Nayak, Daniel Neider and Martin Zimmermann<br>
 
 
 ## Tools
+* <b style="font-family:'Georgia'">rpg-STeLA</b> : 
+**r**eactive **p**rogram (infinite-state) **g**ame solver using **S**trategy **Te**mplate-based **L**ocalized **A**cceleration <br>
+[ <a href="https://gitlab.mpi-sws.org/sanayak/rpg-stela" style="text-decoration:none;font-family:'Times';">GitLab</a> |
+<a href="https://doi.org/10.5281/zenodo.10939871" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
+
 * <b style="font-family:'Georgia'">CoSMo</b> : **Co**ntracted **S**trategy **M**ask Neg**o**tiation in two-objective parity games <br>
 [ <a href="https://github.com/satya2009rta/cosmo" style="text-decoration:none;font-family:'Times';">GitHub</a> ]
 

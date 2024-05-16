@@ -325,3 +325,16 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+/* New CSS rules for columns */
+.column {
+  float: left;
+  width: 50%; /* Adjust this value as needed */
+}
+
+/* Clear floats after the columns */
+.column:after {
+  content: "";
+  display: table;
+  clear: both;
+}
