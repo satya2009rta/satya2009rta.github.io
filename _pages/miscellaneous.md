@@ -73,7 +73,7 @@ Countries I have visited
 <p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
 
 <details><summary>China</summary>
-<p style="font-family:'Georgia'; font-size:16"> Hong Kong, Macao</p></details>
+<p style="font-family:'Georgia'; font-size:16"> Hong Kong (SAR), Macao (SAR)</p></details>
 
 
 <h2 style="font-size: 1.05em;">North America</h2>
