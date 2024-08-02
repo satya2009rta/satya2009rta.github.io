@@ -1,0 +1,108 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Satya Prakash"
+title_separator          : "-"
+name                     : &name "Satya Prakash Nayak"
+description              : &description "Satya Prakash's personal website"
+url                      : https://satya2009rta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "satya2009rta/satya2009rta.github.io"
+
+# Site Author
+author:
+  name             : "Satya Prakash Nayak"
+  avatar           : "dp.jpg"
+  icon             : "icon.png"
+  bio              : "Doctoral student at MPI-SWS"
+  location         : "Kaiserslautern, Germany"
+  phone            :  
+  email            : "sanayak@mpi-sws.org"
+  github           : "satya2009rta"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=SG0LVmYAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-4407-8681"
+
+
+# Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/satya-prakash-nayak-b55521b1/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/Satya2009rta"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/satya2009rta"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/itz_me_happyyy/"
+      
+
+# Defaults
+defaults:
+  - scope:
+    path: ""
+    type: pages
+    values:
+    layout: single
+    author_profile: true
+    author_full_profile: false
+
+# Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+  tracking_id          :
+
+
+# Reading Files
+include:
+  - _pages
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+  
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
