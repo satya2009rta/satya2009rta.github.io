@@ -12,6 +12,11 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 
 ## Papers
 
+* **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
+<span style="font-size: smaller;">&#x24e1;</span>
+Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> ]
+
 * **Localized Attractor Computations for Infinite-State Games** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Anne-Kathrin Schmuck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak <br>

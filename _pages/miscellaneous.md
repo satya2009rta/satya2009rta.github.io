@@ -87,6 +87,12 @@ Countries I have visited
 <details><summary>Canada</summary>
 <p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls</p></details>
 
+
+<h2 style="font-size: 1.05em;">Africa</h2>
+
+<details><summary>Morocco</summary>
+<p style="font-family:'Georgia'; font-size:16">Marrakesh, Essaouira, Agadir </p></details>
+
   
   
 </div>
