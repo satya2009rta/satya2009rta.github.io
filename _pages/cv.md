@@ -48,14 +48,17 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
 
 
 
-## Achievements 
-* 2016 INSPIRE Scholarship for Higher Education
+## Honours 
+* Recipient the INSPIRE scholarship for my Bachelor's and Master's degrees by the Department of Science and Tech, Govt of India.
+* Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015
+* Was among the top 30 students in my state in the Zonal Informatics Olympiad 2015
+* Recipient of the Gold Medal in the Regional Mathematics Olympiad 2014
+<!-- * 2016 INSPIRE Scholarship for Higher Education
 * 2015 Indian National Mathematics Olympiad (INMO)
 * 2015 Zonal Informatics Olympiad
-* 2015 National Standard Examination in Astronomy
 * 2015 American Mathematics Competition (AMC) 12 (selected to participate in American Invitational Mathematics Examination)
 * 2014, 2012 Regional Mathematics Olympiad (Gold Medalist'14)
-* 2011 Junior Mathematics Olympiad (Silver Medalist)
+* 2011 Junior Mathematics Olympiad (Silver Medalist) -->
 
 
 ## Teaching Experience
@@ -72,10 +75,10 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
 * Calculus (2017-2018)
 
 ## Other Professional Activities
-* PC Member: HSCC RE'24
+* PC Member: HSCC RE'24, HSCC RE'25
 * Journal Reviewer: FAC'24
 * Conference Reviewer: ISoLA'22
-* Conference Sub-reviewer: TACAS'24, VMCAI'24, ICSE'23, NFM'22
+* Conference Sub-reviewer: AAMAS'25, TACAS'25, TACAS'24, VMCAI'24, ICSE'23, NFM'22
 
 
 
