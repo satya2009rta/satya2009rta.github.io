@@ -53,12 +53,6 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
 * Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015
 * Was among the top 30 students in my state in the Zonal Informatics Olympiad 2015
 * Recipient of the Gold Medal in the Regional Mathematics Olympiad 2014
-<!-- * 2016 INSPIRE Scholarship for Higher Education
-* 2015 Indian National Mathematics Olympiad (INMO)
-* 2015 Zonal Informatics Olympiad
-* 2015 American Mathematics Competition (AMC) 12 (selected to participate in American Invitational Mathematics Examination)
-* 2014, 2012 Regional Mathematics Olympiad (Gold Medalist'14)
-* 2011 Junior Mathematics Olympiad (Silver Medalist) -->
 
 
 ## Teaching Experience
