@@ -30,8 +30,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 
 ## Research Internships
-* <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to
-a quality criterion based on Robust Linear Temporal Logic. In perticular, we introduced a strategy that adaptively changes its moves when the opponent make some bad choices.">
+* <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to a quality criterion based on Robust Linear Temporal Logic. In perticular, we introduced a strategy that adaptively changes its moves when the opponent make some bad choices.">
   Adaptive Strategies for rLTL Games</abbr></strong><br>
   <small> Daniel Neider & Martin Zimmermann &bull; Max Planck Institute for Software Systems &bull; University of Liverpool &bull; <em class="date"> July - Dec 2020 </em></small>
 * <strong><abbr title="In this summer internship, we studied various classes of visibly pushdown automata in the perspective of minimization and canonization. We also worked on the relationship of these approaches with canonization algorithms for non-classical tree automata such as stepwise tree automata.">
@@ -53,6 +52,25 @@ a quality criterion based on Robust Linear Temporal Logic. In perticular, we int
 * Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015
 * Was among the top 30 students in my state in the Zonal Informatics Olympiad 2015
 * Recipient of the Gold Medal in the Regional Mathematics Olympiad 2014
+
+## Invited Talks
+
+* <strong>
+  Towards Seamless Reactivity of Hybrid Control</strong><br>
+  <small> ELLIIT Focus Period on Security and Fault Tolerance of Cyber-Physical Systems &bull; Lund, Sweden &bull; <em class="date"> Apr 2024 </em></small>
+
+* <strong>
+  Strategy Templates for Graph Games</strong><br>
+  <small> Formal Methods and Verification Seminar at Université libre de Bruxelles &bull; Brussels, Belgium &bull; <em class="date"> Dec 2023 </em></small>
+
+* <strong>
+  Adaptive Strategies for rLTL Games</strong><br>
+  <small> Formal Methods and Verification Seminar at Université libre de Bruxelles &bull; Remote &bull; <em class="date"> Dec 2020 </em></small>
+
+
+## Mentoring of Master's Students
+Kilian Schweppe
+
 
 
 ## Teaching Experience

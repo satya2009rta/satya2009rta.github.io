@@ -12,10 +12,21 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 
 ## Papers
 
+* **Synthesis of Universal Safety
+Controllers** <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'25</a> ]
+
+* **Fair Quantitative Games** <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">FoSSaCS'25</a> ]
+
 * **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-78709-6_2" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> ]
 
 * **Localized Attractor Computations for Infinite-State Games** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
