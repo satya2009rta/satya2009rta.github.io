@@ -30,11 +30,11 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 
 ## Research Internships/Visits
-* <strong>Carnegie Mellon University</abbr></strong><br>
+* <strong>Carnegie Mellon University</strong><br>
   <small> with Eunsuk Kang <br>
    on Robustness for Software Systems <br>
     <em class="date"> May 2025 &bull; Pittsburgh, USA</em></small>
-* <strong>Max Planck Institute for Software Systems & University of Liverpool</abbr></strong><br>
+* <strong>Max Planck Institute for Software Systems & University of Liverpool</strong><br>
   <small> with Daniel Neider & Martin Zimmermann <br>
    on Adaptive Strategies for rLTL Games <br>
     <em class="date"> July - Dec 2020 &bull; Remote</em></small>
