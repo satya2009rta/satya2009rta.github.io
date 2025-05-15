@@ -82,10 +82,10 @@ Countries I have visited
 <h2 style="font-size: 1.05em;">North America</h2>
 
 <details><summary>USA</summary>
-<p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Santa Monica, San Antonio, Pasadena, Niagara Falls </p></details>
+<p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Pittsburgh, Austin, Santa Monica, San Antonio, Pasadena, Niagara Falls </p></details>
 
 <details><summary>Canada</summary>
-<p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls</p></details>
+<p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls, Hamilton </p></details>
 
 
 <h2 style="font-size: 1.05em;">Africa</h2>

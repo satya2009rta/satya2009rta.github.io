@@ -29,31 +29,43 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
   10th Score: 95.5%</small>
 
 
-## Research Internships
-* <strong><abbr title="This is also my Master's thesis project. In this project, we worked on a problem of synthesizing controllers that are optimal with respect to a quality criterion based on Robust Linear Temporal Logic. In perticular, we introduced a strategy that adaptively changes its moves when the opponent make some bad choices.">
-  Adaptive Strategies for rLTL Games</abbr></strong><br>
-  <small> Daniel Neider & Martin Zimmermann &bull; Max Planck Institute for Software Systems &bull; University of Liverpool &bull; <em class="date"> July - Dec 2020 </em></small>
-* <strong><abbr title="In this summer internship, we studied various classes of visibly pushdown automata in the perspective of minimization and canonization. We also worked on the relationship of these approaches with canonization algorithms for non-classical tree automata such as stepwise tree automata.">
-  Minimization of Visibly Pushdown Automata</abbr></strong><br>
-  <small> Jean-Marc Talbot &bull; Aix-Marseille University, France &bull; <em class="date"> May - July 2019 </em></small>
+## Research Internships/Visits
+* <strong>Carnegie Mellon University</abbr></strong><br>
+  <small> with Eunsuk Kang <br>
+   on Robustness for Software Systems <br>
+    <em class="date"> May 2025 &bull; Pittsburgh, USA</em></small>
+* <strong>Max Planck Institute for Software Systems & University of Liverpool</abbr></strong><br>
+  <small> with Daniel Neider & Martin Zimmermann <br>
+   on Adaptive Strategies for rLTL Games <br>
+    <em class="date"> July - Dec 2020 &bull; Remote</em></small>
+* <strong>Aix-Marseille University</strong><br>
+  <small> with Jean-Marc Talbot <br>
+   on Minimization of Visibly Pushdown Automata <br>
+  <em class="date"> May - July 2019 &bull; Marseille, France</em></small>
 
 ## Reading Projects
-* <strong><abbr title="In this reading project, we discuss the applications of metric embeddings in the field of computer science. We follow the book 'Lecture notes on metric embeddings' by Jirı Matousek and lecture notes of a similar course instructed by Yair Bartal, Nova Fandina (Hebrew University).">
-  Metric Embeddings and their Algorithmic Applications</abbr></strong><br>
-  <small> Prajakta Nimbhorkar  &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2020 </em></small>
-* <strong><abbr title="In this reading project, we read a few papers on games on graphs (specifically Parity games).">
-  Games on Graphs</abbr></strong><br>
-  <small>Balaguru Srivathsan &bull; Chennai Mathematical Institute &bull; <em class="date"> Aug - Nov 2019 </em></small>
+* <strong>Chennai Mathematical Institute</strong><br>
+  <small> with Prajakta Nimbhorkar <br>
+   on Metric Embeddings and their Algorithmic Applications <br>
+    <em class="date"> Aug - Nov 2020 &bull; Chennai, India</em></small>
+* <strong>Chennai Mathematical Institute</strong><br>
+  <small> with Balaguru Srivathsan <br>
+   on Games on Graphs <br>
+    <em class="date"> Aug - Nov 2019 &bull; Chennai, India</em></small>
 
 
 
 ## Honours 
 * Recipient the INSPIRE scholarship for my Bachelor's and Master's degrees by the Department of Science and Tech, Govt of India.
-* Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015
+* Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015 and 2016
 * Was among the top 30 students in my state in the Zonal Informatics Olympiad 2015
 * Recipient of the Gold Medal in the Regional Mathematics Olympiad 2014
 
 ## Invited Talks
+
+* <strong>
+  Assume-Guarantee Distributed Synthesis via Permissive Templates</strong><br>
+  <small> Software Design and Analysis Group at Carnegie Mellon University &bull; Pittsburgh, USA &bull; <em class="date"> May 2025 </em></small>
 
 * <strong>
   Towards Seamless Reactivity of Hybrid Control</strong><br>
@@ -85,12 +97,14 @@ Kilian Schweppe
 
 ### Teacher at Rtapalli Vidyapitha 
 * Calculus (2017-2018)
+* Elementary Number Theory (2025)
 
 ## Other Professional Activities
-* PC Member: HSCC RE'24, HSCC RE'25
-* Journal Reviewer: FAC'24
-* Conference Reviewer: ISoLA'22
-* Conference Sub-reviewer: AAMAS'25, TACAS'25, TACAS'24, VMCAI'24, ICSE'23, NFM'22
+* PC Member: HSCC RE 2024-2025
+* Journal Reviewer: FAC 2024
+* Conference Reviewer: ISoLA 2022
+* Conference Sub-reviewer: CAV 2025, IJCAI 2025, AAMAS 2025, TACAS 2024-2025, ICALP 2025, VMCAI
+2024, ICSE 2023, NFM 2022
 
 
 

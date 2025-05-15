@@ -16,12 +16,16 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 Controllers** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'25</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-90653-4_9" style="text-decoration:none;font-family:'Times';">TACAS'25</a> |
+<a href="https://arxiv.org/abs/2501.18445" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://doi.org/10.5281/zenodo.14627151" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 * **Fair Quantitative Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">FoSSaCS'25</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-90897-2_16" style="text-decoration:none;font-family:'Times';">FoSSaCS'25</a> |
+<a href="https://arxiv.org/abs/2501.17255" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="{{ base_path }}/files/posters/fossacs25.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
 * **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
