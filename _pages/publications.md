@@ -12,6 +12,11 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 
 ## Papers
 
+* **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** (under review) <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
+[ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+
 * **Synthesis of Universal Safety
 Controllers** <br>
 <span style="font-size: smaller;">&#x24d0;</span>

@@ -81,7 +81,9 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 
 ## Mentoring of Master's Students
-Kilian Schweppe
+- Kilian Schweppe (Universität Lübeck, Germany)
+- Oz Gitelson (Yale University, USA)
+- Ali Mirzaeisaghezchi (Sharif University of Technology, Iran)
 
 
 
