@@ -17,6 +17,12 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 [ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
+* **Quantitative Strategy Templates** <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">ATVA'25</a> |
+<a href="https://arxiv.org/abs/2504.16528" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+
 * **Synthesis of Universal Safety
 Controllers** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
