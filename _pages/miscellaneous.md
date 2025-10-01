@@ -5,7 +5,6 @@ author_full_profile: false
 author_profile: true
 layout: single
 --- 
-I am co-organizing a students talk series <a href="https://ofcourse.mpi-sws.org/" style="text-decoration:none">OFCOURSE</a>, on the theory of verification and synthesis. If you are a PhD student and would like to give a talk, please get in touch.
 
 Movies and TV Shows
 ------------------
@@ -23,6 +22,9 @@ Places I have visited
 
 <details><summary>Switzerland</summary>
 <p style="font-family:'Georgia'; font-size:16">Bern, Zurich, Lucerene, Interlaken</p></details>
+
+<details><summary>Denmark</summary>
+<p style="font-family:'Georgia'; font-size:16">Copenhagen, Aarhus, Billund, Grenaa</p></details>
 
 <details><summary>France</summary>
 <p style="font-family:'Georgia'; font-size:16">Paris, Marseille, Strasbourg</p></details>
@@ -54,13 +56,10 @@ Places I have visited
 <details><summary>Czech Republic</summary>
 <p style="font-family:'Georgia'; font-size:16">Prague</p></details>
 
-<details><summary>Denmark</summary>
-<p style="font-family:'Georgia'; font-size:16">Copenhagen</p></details>
-
 <details><summary>Norway</summary>
 <p style="font-family:'Georgia'; font-size:16">Oslo</p></details>
 
-<details><summary>UK</summary>
+<details><summary>England</summary>
 <p style="font-family:'Georgia'; font-size:16">London</p></details>
   
   
@@ -86,6 +85,12 @@ Places I have visited
 
 <details><summary>Canada</summary>
 <p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls, Hamilton </p></details>
+
+
+<h2 style="font-size: 1.05em;">South America</h2>
+
+<details><summary>Peru</summary>
+<p style="font-family:'Georgia'; font-size:16">Cusco, Lima, Ollantaytambo </p></details>
 
 
 <h2 style="font-size: 1.05em;">Africa</h2>

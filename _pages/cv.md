@@ -56,7 +56,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 
 ## Honours 
-* Recipient the INSPIRE scholarship for my Bachelor's and Master's degrees by the Department of Science and Tech, Govt of India.
+* Recipient of the INSPIRE scholarship for my Bachelor's and Master's degrees by the Department of Science and Tech, Govt of India.
 * Was among the top 30 students in India selected to attend the International Mathematics Olympiad Training Camp (IMOTC) 2015 and 2016
 * Was among the top 30 students in my state in the Zonal Informatics Olympiad 2015
 * Recipient of the Gold Medal in the Regional Mathematics Olympiad 2014
@@ -80,10 +80,11 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
   <small> Formal Methods and Verification Seminar at Université libre de Bruxelles &bull; Remote &bull; <em class="date"> Dec 2020 </em></small>
 
 
-## Mentoring of Master's Students
-- Kilian Schweppe (Universität Lübeck, Germany)
+## Mentored Master's Students
 - Oz Gitelson (Yale University, USA)
 - Ali Mirzaeisaghezchi (Sharif University of Technology, Iran)
+- Kilian Schweppe (Universität Lübeck, Germany)
+
 
 
 
@@ -103,10 +104,10 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 
 ## Other Professional Activities
 * PC Member: HSCC RE 2024-2025
-* Journal Reviewer: FAC 2024
-* Conference Reviewer: ISoLA 2022
-* Conference Sub-reviewer: CAV 2025, IJCAI 2025, AAMAS 2025, TACAS 2024-2025, ICALP 2025, VMCAI
-2024, ICSE 2023, NFM 2022
+* Journal Reviewer: 
+Formal Methods in System Design (2025),
+Formal Aspects of Computing (2024)
+* Conference Reviewer/Sub-reviewer: AAAI 2026, CAV 2025, TACAS 2024-2025, IJCAI 2025, AAMAS 2025, ICALP 2025, VMCAI 2024, ICSE 2023, ISoLA 2022, NFM 2022
 
 
 
