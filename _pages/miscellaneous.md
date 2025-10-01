@@ -13,6 +13,43 @@ I watch a lot of TV shows (and movies) in my free time. I'm always looking for g
 
 Places I have visited
 ---------------------
+<div class="column">
+<h2 style="font-size: 1.05em; margin-top: 0;">Asia</h2>
+  
+<details><summary>India</summary>
+<p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
+
+<details><summary>Hong Kong (China)</summary>
+<p style="font-family:'Georgia'; font-size:16"> Hong Kong </p></details>
+
+<details><summary>Macao (China)</summary>
+<p style="font-family:'Georgia'; font-size:16"> Macao </p></details>
+
+
+<h2 style="font-size: 1.05em;">North America</h2>
+
+<details><summary>USA</summary>
+<p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Pittsburgh, Austin, Santa Monica, San Antonio, Pasadena, Niagara Falls </p></details>
+
+<details><summary>Canada</summary>
+<p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls, Hamilton </p></details>
+
+
+<h2 style="font-size: 1.05em;">South America</h2>
+
+<details><summary>Peru</summary>
+<p style="font-family:'Georgia'; font-size:16">Cusco, Lima, Ollantaytambo </p></details>
+
+
+<h2 style="font-size: 1.05em;">Africa</h2>
+
+<details><summary>Morocco</summary>
+<p style="font-family:'Georgia'; font-size:16">Marrakesh, Essaouira, Agadir </p></details>
+
+  
+  
+</div>
+
 
 <div class="column">
 <h2 style="font-size: 1.05em; margin-top: 0;">Europe</h2>
@@ -61,43 +98,6 @@ Places I have visited
 
 <details><summary>England</summary>
 <p style="font-family:'Georgia'; font-size:16">London</p></details>
-  
-  
-</div>
-
-<div class="column">
-<h2 style="font-size: 1.05em; margin-top: 0;">Asia</h2>
-  
-<details><summary>India</summary>
-<p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
-
-<details><summary>Hong Kong (China)</summary>
-<p style="font-family:'Georgia'; font-size:16"> Hong Kong </p></details>
-
-<details><summary>Macao (China)</summary>
-<p style="font-family:'Georgia'; font-size:16"> Macao </p></details>
-
-
-<h2 style="font-size: 1.05em;">North America</h2>
-
-<details><summary>USA</summary>
-<p style="font-family:'Georgia'; font-size:16">New York, Los Angeles, Houston, Pittsburgh, Austin, Santa Monica, San Antonio, Pasadena, Niagara Falls </p></details>
-
-<details><summary>Canada</summary>
-<p style="font-family:'Georgia'; font-size:16"> Montreal, Niagara Falls, Hamilton </p></details>
-
-
-<h2 style="font-size: 1.05em;">South America</h2>
-
-<details><summary>Peru</summary>
-<p style="font-family:'Georgia'; font-size:16">Cusco, Lima, Ollantaytambo </p></details>
-
-
-<h2 style="font-size: 1.05em;">Africa</h2>
-
-<details><summary>Morocco</summary>
-<p style="font-family:'Georgia'; font-size:16">Marrakesh, Essaouira, Agadir </p></details>
-
   
   
 </div>
