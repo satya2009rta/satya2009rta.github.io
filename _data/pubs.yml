@@ -1,0 +1,190 @@
+# ========================
+# Satya Prakash Nayak — Publications
+# ========================
+
+# ---------- UNDER SUBMISSION ----------
+- title: "Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop"
+  authors: "Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "submission"
+  order_flag: "alpha"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2510.12662" }
+    - { label: "demo", url: "https://youtu.be/61thSZDj5Ks" }
+
+- title: "Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "submission"
+  order_flag: "alpha"
+  links:
+    - { label: "arXiv", url: "https://arxiv.org/abs/2505.14689" }
+    - { label: "demo", url: "https://ritamraha.github.io/MARG/" }
+
+# ---------- 2025 ----------
+- title: "Universal Safety Controllers with Learned Prophecies"
+  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "published"
+  order_flag: "alpha"
+  venue: "AAAI'26"
+  links:
+    - { label: "AAAI'26", url: "#" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2511.11390" }
+    - { label: "tool", url: "https://doi.org/10.5281/zenodo.17610622" }
+
+- title: "Quantitative Strategy Templates"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "published"
+  order_flag: "alpha"
+  venue: "ATVA'25"
+  links:
+    - { label: "ATVA'25", url: "https://doi.org/10.1007/978-3-032-08707-2_4" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2504.16528" }
+
+- title: "Synthesis of Universal Safety Controllers"
+  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "published"
+  order_flag: "alpha"
+  venue: "TACAS'25"
+  links:
+    - { label: "TACAS'25", url: "https://doi.org/10.1007/978-3-031-90653-4_9" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2501.18445" }
+    - { label: "tool", url: "https://doi.org/10.5281/zenodo.14627151" }
+
+- title: "Fair Quantitative Games"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck"
+  year: 2025
+  status: "published"
+  order_flag: "alpha"
+  venue: "FoSSaCS'25"
+  links:
+    - { label: "FoSSaCS'25", url: "https://doi.org/10.1007/978-3-031-90897-2_16" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2501.17255" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/fossacs25.pdf" }
+
+# ---------- 2024 ----------
+- title: "Strategy Templates – Robust Certified Interfaces for Interacting Systems"
+  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2024
+  status: "published"
+  order_flag: "rand"
+  venue: "ATVA'24 (invited)"
+  links:
+    - { label: "ATVA'24", url: "https://doi.org/10.1007/978-3-031-78709-6_2" }
+    - { label: "PDF", url: "{{ base_path }}/files/papers/atva24.pdf" }
+
+- title: "Localized Attractor Computations for Infinite-State Games"
+  authors: "Anne-Kathrin Schumck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak"
+  year: 2024
+  status: "published"
+  order_flag: "rand"
+  venue: "CAV'24"
+  links:
+    - { label: "CAV'24", url: "https://doi.org/10.1007/978-3-031-65633-0_7" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2405.09281" }
+    - { label: "tool", url: "https://gitlab.mpi-sws.org/sanayak/rpg-stela" }
+
+- title: "Most General Winning Secure Equilibria Synthesis in Graph Games"
+  authors: "Satya Prakash Nayak and Anne-Kathrin Schumck"
+  year: 2024
+  status: "published"
+  order_flag: "alpha"
+  venue: "TACAS'24"
+  links:
+    - { label: "TACAS'24", url: "https://doi.org/10.1007/978-3-031-57256-2_9" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2401.09957" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/tacas24.pdf" }
+
+- title: "Context-triggered games for reactive synthesis over stochastic systems via control barrier certificates"
+  authors: "Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2024
+  status: "published"
+  venue: "HSCC'24"
+  links:
+    - { label: "HSCC'24", url: "https://doi.org/10.1145/3641513.3650136" }
+
+- title: "Contract-Based Distributed Logical Controller Synthesis"
+  authors: "Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak"
+  year: 2024
+  status: "published"
+  order_flag: "rand"
+  venue: "HSCC'24"
+  note: "HSCC'23 best poster award"
+  links:
+    - { label: "HSCC'24", url: "https://doi.org/10.1145/3641513.3650123" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2307.06212" }
+    - { label: "extended-abstract@HSCC'23", url: "https://doi.org/10.1145/3575870.3589555" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/hscc23-2.pdf" }
+
+- title: "Solving Two-Player Games under Progress Assumptions"
+  authors: "Anne-Kathrin Schumck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak"
+  year: 2024
+  status: "published"
+  order_flag: "rand"
+  venue: "VMCAI'24"
+  links:
+    - { label: "VMCAI'24", url: "https://doi.org/10.1007/978-3-031-50524-9_10" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2310.12767" }
+
+- title: "Robust Computation Tree Logic"
+  authors: "Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann"
+  year: 2024
+  status: "published"
+  order_flag: "alpha"
+  venue: "ISSE'24"
+  links:
+    - { label: "ISSE'24", url: "https://doi.org/10.1007/s11334-024-00552-7" }
+    - { label: "NFM'22", url: "https://doi.org/10.1007/978-3-031-06773-0_29" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2201.07116" }
+
+# ---------- 2023 ----------
+- title: "Context-Triggered Abstraction-Based Control Design"
+  authors: "Satya Prakash Nayak*, Lucas Neves Egidio*, Matteo Della Rossa, Anne-Kathrin Schumck, and Raphaël Jungers"
+  year: 2023
+  status: "published"
+  venue: "OJ-CSYS'23"
+  links:
+    - { label: "OJ-CSYS'23", url: "https://doi.org/10.1109/OJCSYS.2023.3305835" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2305.03399" }
+    - { label: "extended-abstract@HSCC'23", url: "https://doi.org/10.1145/3575870.3589553" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/hscc23-1.pdf" }
+    - { label: "simulation", url: "https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" }
+
+- title: "Synthesizing Permissive Winning Strategy Templates for Parity Games"
+  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2023
+  status: "published"
+  order_flag: "alpha"
+  venue: "CAV'23"
+  links:
+    - { label: "CAV'23", url: "https://doi.org/10.1007/978-3-031-37706-8_22" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2305.14026" }
+    - { label: "tool", url: "https://github.com/satya2009rta/pestel" }
+
+- title: "Computing Adequately Permissive Assumptions for Synthesis"
+  authors: "Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  year: 2023
+  status: "published"
+  order_flag: "alpha"
+  venue: "TACAS'23"
+  links:
+    - { label: "TACAS'23", url: "https://doi.org/10.1007/978-3-031-30820-8_15" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2301.07563" }
+    - { label: "tool", url: "https://gitlab.mpi-sws.org/kmallik/simpa" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/MPIretreat22.png" }
+
+# ---------- 2022 ----------
+- title: "Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime"
+  authors: "Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann"
+  year: 2022
+  status: "published"
+  order_flag: "alpha"
+  venue: "ISoLA'22"
+  links:
+    - { label: "ISoLA'22", url: "https://doi.org/10.1007/978-3-031-19849-6_10" }
+    - { label: "arXiv", url: "https://arxiv.org/abs/2204.10912" }
+    - { label: "extended-abstract@HSCC'21", url: "https://doi.org/10.1145/3447928.3457210" }
+    - { label: "poster", url: "{{ base_path }}/files/posters/highlights21.pdf" }

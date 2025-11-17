@@ -3,156 +3,128 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 layout: single
----  
-A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
-My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
+---
 
-Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
-If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="text-decoration:none;">this</a> article by American Mathematical Society.
+A full publication list is available at 
+<a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and 
+<a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
+My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is 
+<a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
 
-## Papers
+Most of my papers list all authors in alphabetic or 
+<a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> 
+order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or 
+<span style="font-size: smaller;">&#x24e1;</span>, respectively. If you are wondering why one would do this, see 
+<a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf" style="text-decoration:none;">this</a> article by the American Mathematical Society.
 
-* **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** (under review) <br>
+---
+
+<h2 style="display:flex;justify-content:space-between;align-items:center;">
+  <span>📘 Papers</span>
+  <button id="toggleAll"
+    onclick="toggleAllDetails()"
+    style="font-size:0.75rem;padding:1px 6px;border-radius:4px;background:none;border:1px solid #ddd;cursor:pointer;">
+    …
+  </button>
+</h2>
+
+<script>
+(function() {
+  const btn = document.getElementById('toggleAll');
+
+  function allOpen() {
+    const d = document.querySelectorAll('details');
+    if (!d.length) return true;
+    return Array.from(d).every(el => el.open);
+  }
+
+  function setAll(open) {
+    document.querySelectorAll('details').forEach(el => { el.open = open; });
+  }
+
+  function updateLabel() {
+    btn.textContent = allOpen() ? 'Collapse all' : 'Expand all';
+  }
+
+  window.toggleAllDetails = function() {
+    // If at least one is closed, expand all; otherwise collapse all.
+    const shouldOpen = !allOpen();
+    setAll(shouldOpen);
+    updateLabel();
+  };
+
+  // Keep the button label in sync if user manually toggles any section.
+  document.addEventListener('toggle', function(e) {
+    if (e.target && e.target.tagName && e.target.tagName.toLowerCase() === 'details') {
+      updateLabel();
+    }
+  }, true);
+
+  // Initialize the correct label on load.
+  document.addEventListener('DOMContentLoaded', updateLabel);
+  // If this script runs after DOMContentLoaded, call immediately too:
+  updateLabel();
+})();
+</script>
+
+{% assign under_sub = site.data.pubs | where: "status", "submission" %}
+{% if under_sub and under_sub.size > 0 %}
+<details open>
+<summary><h3 style="display:inline;">Under submission</h3></summary>
+
+{% for p in under_sub %}
+* **{{ p.title }}** <br>
+{% if p.order_flag == "alpha" %}
 <span style="font-size: smaller;">&#x24d0;</span>
-Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
-[ <a href="https://arxiv.org/abs/2510.12662" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://youtu.be/61thSZDj5Ks" style="text-decoration:none;font-family:'Times';"> demo </a> ]
-
-* **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** (under review) <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
-[ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
-
-* **Universal Safety Controllers with Learned Prophecies** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
-<a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> ]
-
-* **Quantitative Strategy Templates** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-032-08707-2_4" style="text-decoration:none;font-family:'Times';">ATVA'25</a> |
-<a href="https://arxiv.org/abs/2504.16528" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
-
-* **Synthesis of Universal Safety Controllers** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-90653-4_9" style="text-decoration:none;font-family:'Times';">TACAS'25</a> |
-<a href="https://arxiv.org/abs/2501.18445" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.5281/zenodo.14627151" style="text-decoration:none;font-family:'Times';">tool</a> ]
-
-* **Fair Quantitative Games** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-90897-2_16" style="text-decoration:none;font-family:'Times';">FoSSaCS'25</a> |
-<a href="https://arxiv.org/abs/2501.17255" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="{{ base_path }}/files/posters/fossacs25.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
-
-* **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
+{% elsif p.order_flag == "rand" %}
 <span style="font-size: smaller;">&#x24e1;</span>
-Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-78709-6_2" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> |
-<a href="{{ base_path }}/files/paper/atva24.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
+{% endif %}
+{{ p.authors }} <br>
+[ {% for l in p.links %}
+<a href="{{ l.url }}" style="text-decoration:none;font-family:'Times';">{{ l.label }}</a>{% if forloop.last == false %} | {% endif %}
+{% endfor %} ]
+{% endfor %}
 
-* **Localized Attractor Computations for Infinite-State Games** <br>
+</details>
+---
+{% endif %}
+
+{% assign pubs = site.data.pubs | where: "status", "published" | sort: "year" | reverse %}
+{% assign years = pubs | map: "year" | uniq %}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{% assign recent_threshold = current_year | minus: 1 %}
+
+{% for y in years %}
+<details {% if y >= recent_threshold %}open{% endif %}>
+<summary><h3 style="display:inline;">{{ y }}</h3></summary>
+
+{% for p in pubs %}
+{% if p.year == y %}
+* **{{ p.title }}** <br>
+{% if p.order_flag == "alpha" %}
+<span style="font-size: smaller;">&#x24d0;</span>
+{% elsif p.order_flag == "rand" %}
 <span style="font-size: smaller;">&#x24e1;</span>
-Anne-Kathrin Schmuck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak <br>
-[ <a href="https://doi.org/10.1007/978-3-031-65633-0_7" style="text-decoration:none;font-family:'Times';">CAV'24</a> |
-<a href="https://arxiv.org/abs/2405.09281" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://gitlab.mpi-sws.org/sanayak/rpg-stela" style="text-decoration:none;font-family:'Times';">tool</a> ]
+{% endif %}
+{{ p.authors }} <br>
+[ {% for l in p.links %}
+<a href="{{ l.url }}" style="text-decoration:none;font-family:'Times';">{{ l.label }}</a>{% if forloop.last == false %} | {% endif %}
+{% endfor %} ]
+{% if p.note %}
+<br><b style="font-family:'Times New Roman'; color:red">{{ p.note }}</b>
+{% endif %}
+{% endif %}
+{% endfor %}
 
-* **Most General Winning Secure Equilibria Synthesis in Graph Games** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Satya Prakash Nayak and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-57256-2_9" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
-<a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="{{ base_path }}/files/posters/tacas24.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
+</details>
+---
+{% endfor %}
 
-* **Context-triggered games for reactive synthesis over stochastic
-systems via control barrier certificates** <br> 
-Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1145/3641513.3650136" style="text-decoration:none;font-family:'Times';">HSCC'24</a> ]
+## 🧰 Tools
 
-* **Contract-Based Distributed Logical Controller Synthesis** <br> 
-<span style="font-size: smaller;">&#x24e1;</span>
-Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak <br>
-<b style="font-family:'Times New Roman'; color:red">HSCC'23 best poster award</b> <br>
-[ <a href="https://doi.org/10.1145/3641513.3650123" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
-<a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.1145/3575870.3589555" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
-<a href="{{ base_path }}/files/posters/hscc23-2.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
-
-* **Solving Two-Player Games under Progress Assumptions** <br>
-<span style="font-size: smaller;">&#x24e1;</span>
-Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak <br>
-[ <a href="https://doi.org/10.1007/978-3-031-50524-9_10" style="text-decoration:none;font-family:'Times';">VMCAI'24</a> |
-<a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
-
-* **Context-Triggered Abstraction-Based Control Design** <br>
-Satya Prakash Nayak\*, Lucas Neves Egidio\*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
-[ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Times';">OJ-CSYS'23</a> |
-<a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
-<a href="{{ base_path }}/files/posters/hscc23-1.pdf" style="text-decoration:none;font-family:'Times';">poster</a> |
-<a href="https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" style="text-decoration:none;font-family:'Times';">simulation</a> ]
-
-
-* **Synthesizing Permissive Winning Strategy Templates for Parity Games** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Times';">CAV'23</a> |
-<a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Times';">tool</a> ]
-
-
-* **Computing Adequately Permissive Assumptions for Synthesis** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck<br>
-[ <a href="https://doi.org/10.1007/978-3-031-30820-8_15" style="text-decoration:none;font-family:'Times';">TACAS'23</a> |
-<a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">tool</a> |
-<a href="{{ base_path }}/files/posters/MPIretreat22.png" style="text-decoration:none;font-family:'Times';">poster</a> ]
-  
-  
-* **Robust Computation Tree Logic** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
-[ <a href="https://doi.org/10.1007/s11334-024-00552-7" style="text-decoration:none;font-family:'Times';">ISSE'24</a> |
-<a href="https://doi.org/10.1007/978-3-031-06773-0_29" style="text-decoration:none;font-family:'Times';">NFM'22</a> |
-<a href="https://arxiv.org/abs/2201.07116" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
-
-* **Robustness-by-Construction Synthesis: Adapting to the Environment at Runtime** <br>
-<span style="font-size: smaller;">&#x24d0;</span>
-Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
-[ <a href="https://doi.org/10.1007/978-3-031-19849-6_10" style="text-decoration:none;font-family:'Times';">ISoLA'22</a> |
-<a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
-<a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
-
-\*equal contribution.
-
-
-## Tools
-* <b style="font-family:'Georgia'">UCLearn</b> : 
-**U**niversal **C**ontroller via **Learn**ing Prophecies
-<br>
-[ <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
-
-* <b style="font-family:'Georgia'">rpg-STeLA</b> : 
-**r**eactive **p**rogram (infinite-state) **g**ame solver using **S**trategy **Te**mplate-based **L**ocalized **A**cceleration <br>
-[ <a href="https://gitlab.mpi-sws.org/sanayak/rpg-stela" style="text-decoration:none;font-family:'Times';">GitLab</a> |
-<a href="https://doi.org/10.5281/zenodo.10939871" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
-
-* <b style="font-family:'Georgia'">CoSMo</b> : **Co**ntracted **S**trategy **M**ask Neg**o**tiation in two-objective parity games <br>
-[ <a href="https://github.com/satya2009rta/cosmo" style="text-decoration:none;font-family:'Times';">GitHub</a> ]
-
-* <b style="font-family:'Georgia'">PeSTel</b> : **Pe**rmissive **S**trategy **Te**mp**l**ates for generalized parity games <br>
-[ <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Times';">GitHub</a> ]
-
-* <b style="font-family:'Georgia'">SImPA</b> : **S**ufficient, **Im**plementable, and **P**ermissive **A**ssumptions for synthesis <br>
-[ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">GitLab</a> ]
-    
-  
+{% for t in site.data.tools %}
+* <b style="font-family:'Georgia'">{{ t.name }}</b> : {{ t.full_name | markdownify | strip_newlines }} <br>
+[ {% for l in t.links %}
+<a href="{{ l.url }}" style="text-decoration:none;font-family:'Times';">{{ l.label }}</a>{% if forloop.last == false %} | {% endif %}
+{% endfor %} ]
+{% endfor %}

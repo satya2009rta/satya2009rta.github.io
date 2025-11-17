@@ -1,0 +1,29 @@
+# ========================
+# Satya Prakash Nayak — Tools (with bolded acronyms)
+# ========================
+
+- name: "UCLearn"
+  full_name: "<b>U</b>niversal <b>C</b>ontroller via <b>Learn</b>ing Prophecies"
+  links:
+    - { label: "Zenodo", url: "https://doi.org/10.5281/zenodo.17610622" }
+
+- name: "rpg-STeLA"
+  full_name: "<b>r</b>eactive <b>p</b>rogram (infinite-state) <b>g</b>ame solver using <b>S</b>trategy <b>Te</b>mplate-based <b>L</b>ocalized <b>A</b>cceleration"
+  links:
+    - { label: "GitLab", url: "https://gitlab.mpi-sws.org/sanayak/rpg-stela" }
+    - { label: "Zenodo", url: "https://doi.org/10.5281/zenodo.10939871" }
+
+- name: "CoSMo"
+  full_name: "<b>Co</b>ntracted <b>S</b>trategy <b>M</b>ask Neg<b>o</b>tiation in two-objective parity games"
+  links:
+    - { label: "GitHub", url: "https://github.com/satya2009rta/cosmo" }
+
+- name: "PeSTel"
+  full_name: "<b>Pe</b>rmissive <b>S</b>trategy <b>Te</b>mp<b>l</b>ates for generalized parity games"
+  links:
+    - { label: "GitHub", url: "https://github.com/satya2009rta/pestel" }
+
+- name: "SImPA"
+  full_name: "<b>S</b>ufficient, <b>Im</b>plementable, and <b>P</b>ermissive <b>A</b>ssumptions for synthesis"
+  links:
+    - { label: "GitLab", url: "https://gitlab.mpi-sws.org/kmallik/simpa" }
