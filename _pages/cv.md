@@ -107,7 +107,7 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Journal Reviewer: 
 Formal Methods in System Design (2025),
 Formal Aspects of Computing (2024)
-* Conference Reviewer/Sub-reviewer: AAAI 2026, CAV 2025, TACAS 2024-2025, IJCAI 2025, AAMAS 2025, ICALP 2025, VMCAI 2024, ICSE 2023, ISoLA 2022, NFM 2022
+* Conference Reviewer/Sub-reviewer: AAAI 2026, TACAS 2024-2026, CAV 2025, IJCAI 2025, AAMAS 2025, ICALP 2025, VMCAI 2024, ICSE 2023, ISoLA 2022, NFM 2022
 
 
 

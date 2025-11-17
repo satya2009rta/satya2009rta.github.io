@@ -12,19 +12,32 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 
 ## Papers
 
+* **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** (under review) <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
+[ <a href="https://arxiv.org/abs/2510.12662" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://youtu.be/61thSZDj5Ks" style="text-decoration:none;font-family:'Times';"> demo </a> ]
+
 * **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** (under review) <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
-[ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+[ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
+
+* **Universal Safety Controllers with Learned Prophecies** <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
+<a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 * **Quantitative Strategy Templates** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">ATVA'25</a> |
+[ <a href="https://doi.org/10.1007/978-3-032-08707-2_4" style="text-decoration:none;font-family:'Times';">ATVA'25</a> |
 <a href="https://arxiv.org/abs/2504.16528" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
-* **Synthesis of Universal Safety
-Controllers** <br>
+* **Synthesis of Universal Safety Controllers** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-90653-4_9" style="text-decoration:none;font-family:'Times';">TACAS'25</a> |
@@ -41,7 +54,8 @@ Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin 
 * **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="https://doi.org/10.1007/978-3-031-78709-6_2" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> ]
+[ <a href="https://doi.org/10.1007/978-3-031-78709-6_2" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> |
+<a href="{{ base_path }}/files/paper/atva24.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
 
 * **Localized Attractor Computations for Infinite-State Games** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
@@ -122,6 +136,11 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 
 
 ## Tools
+* <b style="font-family:'Georgia'">UCLearn</b> : 
+**U**niversal **C**ontroller via **Learn**ing Prophecies
+<br>
+[ <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
+
 * <b style="font-family:'Georgia'">rpg-STeLA</b> : 
 **r**eactive **p**rogram (infinite-state) **g**ame solver using **S**trategy **Te**mplate-based **L**ocalized **A**cceleration <br>
 [ <a href="https://gitlab.mpi-sws.org/sanayak/rpg-stela" style="text-decoration:none;font-family:'Times';">GitLab</a> |

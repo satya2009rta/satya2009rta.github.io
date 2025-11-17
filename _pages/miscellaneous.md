@@ -11,7 +11,7 @@ Movies and TV Shows
 I watch a lot of TV shows (and movies) in my free time. I'm always looking for good recommendations, and if you'd like some suggestions, <a href="https://www.imdb.com/list/ls045373958/" style="text-decoration:none">here</a> is a list of TV shows rated by me. Also, <a href="https://www.imdb.com/list/ls563442227/" style="text-decoration:none">here</a> is a list of Hindi web series I have watched.
 
 
-Places I have visited
+Cities I have visited
 ---------------------
 <div class="column">
 <h2 style="font-size: 1.05em; margin-top: 0;">Asia</h2>
