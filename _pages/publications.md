@@ -8,22 +8,24 @@ A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:S
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
 
 Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
-If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf?fbclid=IwAR3L5L-09zvS-7C7s1_tcVVvsRuVM6Y5chdTLXsGHMW9iH7faknK7YXUEyQ" style="text-decoration:none;">this</a> article by American Mathematical Society.
+If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf" style="text-decoration:none;">this</a> article by the American Mathematical Society.
 
-## Papers
+## 📘 Papers
 
-* **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** (under review) <br>
+### under submission
+* **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 [ <a href="https://arxiv.org/abs/2510.12662" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://youtu.be/61thSZDj5Ks" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
-* **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** (under review) <br>
+* **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 [ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
+### 2026
 * **Universal Safety Controllers with Learned Prophecies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
@@ -31,6 +33,7 @@ Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck 
 <a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
+### 2025
 * **Quantitative Strategy Templates** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
@@ -51,6 +54,8 @@ Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin 
 <a href="https://arxiv.org/abs/2501.17255" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="{{ base_path }}/files/posters/fossacs25.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
+
+### 2024
 * **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
@@ -91,8 +96,9 @@ Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak <
 [ <a href="https://doi.org/10.1007/978-3-031-50524-9_10" style="text-decoration:none;font-family:'Times';">VMCAI'24</a> |
 <a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
+### 2023
 * **Context-Triggered Abstraction-Based Control Design** <br>
-Satya Prakash Nayak\*, Lucas Neves Egidio\*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
+Satya Prakash Nayak, Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers<br>
 [ <a href="https://doi.org/10.1109/OJCSYS.2023.3305835" style="text-decoration:none;font-family:'Times';">OJ-CSYS'23</a> |
 <a href="https://arxiv.org/abs/2305.03399" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3575870.3589553" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'23</a> |
@@ -116,7 +122,7 @@ Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck<br>
 <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">tool</a> |
 <a href="{{ base_path }}/files/posters/MPIretreat22.png" style="text-decoration:none;font-family:'Times';">poster</a> ]
   
-  
+### 2022  
 * **Robust Computation Tree Logic** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Satya Prakash Nayak, Daniel Neider, Rajarshi Roy, and Martin Zimmermann<br>
@@ -132,10 +138,8 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
-\*equal contribution.
 
-
-## Tools
+## 🧰 Tools
 * <b style="font-family:'Georgia'">UCLearn</b> : 
 **U**niversal **C**ontroller via **Learn**ing Prophecies
 <br>
