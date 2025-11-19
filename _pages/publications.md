@@ -94,7 +94,8 @@ Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak <br>
 <span style="font-size: smaller;">&#x24e1;</span>
 Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak <br>
 [ <a href="https://doi.org/10.1007/978-3-031-50524-9_10" style="text-decoration:none;font-family:'Times';">VMCAI'24</a> |
-<a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
+<a href="https://arxiv.org/abs/2310.12767" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://www.youtube.com/watch?v=8IsByoKNKYc" style="text-decoration:none;font-family:'Times';">talk</a> ]
 
 ### 2023
 * **Context-Triggered Abstraction-Based Control Design** <br>
