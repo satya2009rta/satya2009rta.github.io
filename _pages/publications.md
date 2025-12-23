@@ -19,13 +19,19 @@ Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 [ <a href="https://arxiv.org/abs/2510.12662" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://youtu.be/61thSZDj5Ks" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
+### 2026
+* **Concurrent Permissive Strategy Templates** <br>
+<span style="font-size: smaller;">&#x24d0;</span>
+Ashwani Anand, Christel Baier, Calvin Chau, Sascha Klüppelholz, Ali Mirzaei, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
+[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'26</a> ]
+
 * **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
-[ <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+[ <a href="#" style="text-decoration:none;font-family:'Times';">AAMAS'26</a> |
+<a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
-### 2026
 * **Universal Safety Controllers with Learned Prophecies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
