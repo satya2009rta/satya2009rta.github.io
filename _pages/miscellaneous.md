@@ -19,6 +19,9 @@ Cities I have visited
 <details><summary>India</summary>
 <p style="font-family:'Georgia'; font-size:16"> Bhubaneswar, Mumbai, Delhi, Chennai, Kolkata, Bangalore, Hyderabad, Visakhapatnam, Surat, Tirupati, Amritsar, Gangtok, Raipur, etc.</p></details>
 
+<details><summary>Singapore</summary>
+<p style="font-family:'Georgia'; font-size:16"> Singapore </p></details>
+
 <details><summary>Hong Kong (China)</summary>
 <p style="font-family:'Georgia'; font-size:16"> Hong Kong </p></details>
 

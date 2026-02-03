@@ -23,7 +23,8 @@ Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 * **Concurrent Permissive Strategy Templates** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Christel Baier, Calvin Chau, Sascha Klüppelholz, Ali Mirzaei, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'26</a> ]
+[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'26</a> | <a href="http://arxiv.org/abs/2601.13500" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+<a href="https://doi.org/10.5281/zenodo.17357028" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 * **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
@@ -37,7 +38,8 @@ Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 [ <a href="#" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
 <a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
-<a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> ]
+<a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> |
+<a href="{{ base_path }}/files/posters/aaai26.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
 ### 2025
 * **Quantitative Strategy Templates** <br>
