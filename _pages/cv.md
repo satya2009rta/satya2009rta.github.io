@@ -9,9 +9,21 @@ layout: single
 
 Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decoration:none">here</a>.
 
+## Employment
+
+* <strong>Postdoctoral Researcher</strong><br>
+  <small> Institute of Science and Technology Austria &bull; Austria &bull; <em class="date">2026 - Present</em><br>
+  Advisor: Krishnendu Chatterjee</small>
+
+
+
+
 ## Education
-* <strong>PhD in Computer Science </strong><br>
-  <small> Max Planck Institute for Software Systems &bull; Kaiserslautern, Germany &bull; <em class="date">2021 - Present</em> </small>
+
+* <strong>PhD in Computer Science</strong> (*summa cum laude*)<br>
+  <small> Max Planck Institute for Software Systems &bull; Germany &bull; <em class="date">2021 - 2026</em><br>
+  Advisor: Anne-Kathrin Schmuck<br>
+
 * <strong><abbr title="Courseworks: Concurrency Theory, Infinite State Verification, Cryptography, Coding Theory, Games on Graphs II, Advanced Algorithms, Graph Theory, Complexity Theory, Matchings and Network flows, Linear Optimizations, Metric Embeddings and their Algorithmic Applications, Quantum Computing">
   Master of Science in Computer Science</abbr></strong><br>
   <small> Chennai Mathematical Institute &bull; Chennai &bull; <em class="date">2019 - 2021</em><br>

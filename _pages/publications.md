@@ -23,20 +23,20 @@ Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
 * **Concurrent Permissive Strategy Templates** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Christel Baier, Calvin Chau, Sascha Klüppelholz, Ali Mirzaei, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">TACAS'26</a> | <a href="http://arxiv.org/abs/2601.13500" style="text-decoration:none;font-family:'Times';">arXiv</a> |
+[ <a href="https://doi.org/10.1007/978-3-032-22752-2_20" style="text-decoration:none;font-family:'Times';">TACAS'26</a> | <a href="http://arxiv.org/abs/2601.13500" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.5281/zenodo.17357028" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 * **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">AAMAS'26</a> |
+[ <a href="https://doi.org/10.65109/WLFP2035" style="text-decoration:none;font-family:'Times';">AAMAS'26</a> |
 <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
 * **Universal Safety Controllers with Learned Prophecies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
 Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
-[ <a href="#" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
+[ <a href="https://doi.org/10.1609/aaai.v40i43.40940" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
 <a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> |
 <a href="{{ base_path }}/files/posters/aaai26.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
@@ -146,6 +146,14 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 <a href="https://arxiv.org/abs/2204.10912" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
+
+
+## 🎓 Thesis
+* PhD thesis: **Permissive Assumptions in Logical Controller Synthesis for Cyber-Physical Systems** (2026) <br>
+[ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
+
+* Master's thesis: **Adaptive Strategies for rLTL Game** (2021) <br>
+[ <a href="{{ base_path }}/files/thesis/masters-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
 
 
 ## 🧰 Tools
