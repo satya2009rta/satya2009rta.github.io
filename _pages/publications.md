@@ -150,7 +150,8 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 
 ## 🎓 Thesis
 * PhD thesis: **Permissive Assumptions in Logical Controller Synthesis for Cyber-Physical Systems** (2026) <br>
-[ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
+[ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> |
+<a href="https://doi.org/10.26204/KLUEDO/13090" style="text-decoration:none;font-family:'Times';">link</a> ]
 
 * Master's thesis: **Adaptive Strategies for rLTL Game** (2021) <br>
 [ <a href="{{ base_path }}/files/thesis/masters-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
