@@ -7,9 +7,6 @@ layout: single
 A full publication list is available at <a href="https://dblp.org/pers/n/Nayak:Satya_Prakash.html" style="text-decoration:none">dblp</a> and <a href="https://scholar.google.com/citations?user=SG0LVmYAAAAJ&hl=en" style="text-decoration:none">google scholar</a>.<br>
 My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decoration:none">Erdős number</a> is <a href="https://www.csauthors.net/satya-prakash-nayak/" style="text-decoration:none">4</a>.
 
-Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
-If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf" style="text-decoration:none;">this</a> article by the American Mathematical Society.
-
 <style>
 .toggle-btn {
     padding: 12px 24px;
@@ -40,7 +37,12 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 <button id="btn-tools" class="toggle-btn" onclick="showSection('tools')">🧰 Tools</button>
 </div>
 
-<div id="papers-section" class="section">
+<div id="papers-section" class="section" markdown="1">
+
+
+Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
+If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf" style="text-decoration:none;">this</a> article by the American Mathematical Society.
+
 ### under submission
 * **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
@@ -178,7 +180,7 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 
 </div>
 
-<div id="thesis-section" class="section" style="display: none;">
+<div id="thesis-section" class="section" style="display: none;" markdown="1">
 * PhD thesis: **Permissive Assumptions in Logical Controller Synthesis for Cyber-Physical Systems** (2026) <br>
 [ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> |
 <a href="https://doi.org/10.26204/KLUEDO/13090" style="text-decoration:none;font-family:'Times';">link</a> ]
@@ -188,7 +190,7 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 
 </div>
 
-<div id="tools-section" class="section" style="display: none;">
+<div id="tools-section" class="section" style="display: none;" markdown="1">
 * <b style="font-family:'Georgia'">UCLearn</b> : 
 **U**niversal **C**ontroller via **Learn**ing Prophecies
 <br>
