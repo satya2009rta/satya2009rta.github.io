@@ -10,8 +10,37 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 Most of my papers list all authors in alphabetic or <a href="https://www.aeaweb.org/journals/policies/random-author-order/search?RandomAuthorsSearch%5Bsearch%5D=nayak" style="text-decoration:none;">randomized</a> order, indicated by <span style="font-size: smaller;">&#x24d0;</span> or <span style="font-size: smaller;">&#x24e1;</span>, respectively.
 If you are wondering why one would do this, see <a href="http://www.ams.org/profession/leaders/CultureStatement04.pdf" style="text-decoration:none;">this</a> article by the American Mathematical Society.
 
-## 📘 Papers
+<style>
+.toggle-btn {
+    padding: 12px 24px;
+    margin: 0 8px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    font-size: 16px;
+    font-weight: bold;
+}
+.toggle-btn.active {
+    background-color: #007bff;
+    box-shadow: 0 2px 4px rgba(0,123,255,0.3);
+}
+.toggle-btn:hover {
+    background-color: #0056b3;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+</style>
 
+<div style="text-align: center; margin: 30px 0;">
+<button id="btn-papers" class="toggle-btn active" onclick="showSection('papers')">📘 Papers</button>
+<button id="btn-thesis" class="toggle-btn" onclick="showSection('thesis')">🎓 Thesis</button>
+<button id="btn-tools" class="toggle-btn" onclick="showSection('tools')">🧰 Tools</button>
+</div>
+
+<div id="papers-section" class="section">
 ### under submission
 * **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
@@ -147,8 +176,9 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 <a href="https://doi.org/10.1145/3447928.3457210" style="text-decoration:none;font-family:'Times';">extended-abstract@HSCC'21</a> |
 <a href="{{ base_path }}/files/posters/highlights21.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
+</div>
 
-## 🎓 Thesis
+<div id="thesis-section" class="section" style="display: none;">
 * PhD thesis: **Permissive Assumptions in Logical Controller Synthesis for Cyber-Physical Systems** (2026) <br>
 [ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> |
 <a href="https://doi.org/10.26204/KLUEDO/13090" style="text-decoration:none;font-family:'Times';">link</a> ]
@@ -156,8 +186,9 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 * Master's thesis: **Adaptive Strategies for rLTL Game** (2021) <br>
 [ <a href="{{ base_path }}/files/thesis/masters-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
 
+</div>
 
-## 🧰 Tools
+<div id="tools-section" class="section" style="display: none;">
 * <b style="font-family:'Georgia'">UCLearn</b> : 
 **U**niversal **C**ontroller via **Learn**ing Prophecies
 <br>
@@ -176,5 +207,23 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 
 * <b style="font-family:'Georgia'">SImPA</b> : **S**ufficient, **Im**plementable, and **P**ermissive **A**ssumptions for synthesis <br>
 [ <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">GitLab</a> ]
+
+</div>
+
+<script>
+function showSection(section) {
+    // Hide all sections
+    document.getElementById('papers-section').style.display = 'none';
+    document.getElementById('thesis-section').style.display = 'none';
+    document.getElementById('tools-section').style.display = 'none';
+    // Show selected section
+    document.getElementById(section + '-section').style.display = 'block';
+    // Update button styles
+    document.getElementById('btn-papers').classList.remove('active');
+    document.getElementById('btn-thesis').classList.remove('active');
+    document.getElementById('btn-tools').classList.remove('active');
+    document.getElementById('btn-' + section).classList.add('active');
+}
+</script>
     
   

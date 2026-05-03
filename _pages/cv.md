@@ -111,8 +111,8 @@ Find the pdf version <a href="{{ base_path }}/files/CV.pdf" style="text-decorati
 * Data Mining and Machine Learning (2019)
 
 ### Teacher at Rtapalli Vidyapitha 
-* Calculus (2017-2018)
 * Elementary Number Theory (2025)
+* Calculus (2017-2018)
 
 ## Other Professional Activities
 * PC Member: HSCC RE 2024-2025
