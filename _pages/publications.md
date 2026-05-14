@@ -10,7 +10,7 @@ My <a href="https://en.wikipedia.org/wiki/Erd%C5%91s_number" style="text-decorat
 <style>
 .toggle-btn {
     padding: 12px 24px;
-    margin: 0 8px;
+    margin: 5px 8px;
     background-color: #6c757d;
     color: white;
     border: none;
@@ -185,7 +185,7 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 [ <a href="{{ base_path }}/files/thesis/phd-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> |
 <a href="https://doi.org/10.26204/KLUEDO/13090" style="text-decoration:none;font-family:'Times';">link</a> ]
 
-* Master's thesis: **Adaptive Strategies for rLTL Game** (2021) <br>
+* Master's thesis: **Adaptive Strategies for rLTL Games** (2021) <br>
 [ <a href="{{ base_path }}/files/thesis/masters-thesis.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
 
 </div>
