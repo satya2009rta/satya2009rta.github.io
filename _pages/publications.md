@@ -194,7 +194,8 @@ Satya Prakash Nayak, Daniel Neider, and Martin Zimmermann<br>
 * <b style="font-family:'Georgia'">UCLearn</b> : 
 **U**niversal **C**ontroller via **Learn**ing Prophecies
 <br>
-[ <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
+[ <a href="https://github.com/nimetz/Unicon" style="text-decoration:none;font-family:'Times';">GitHub</a> |
+<a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">Zenodo</a> ]
 
 * <b style="font-family:'Georgia'">rpg-STeLA</b> : 
 **r**eactive **p**rogram (infinite-state) **g**ame solver using **S**trategy **Te**mplate-based **L**ocalized **A**cceleration <br>
