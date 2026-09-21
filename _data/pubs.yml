@@ -4,7 +4,7 @@
 
 # ---------- UNDER SUBMISSION ----------
 - title: "Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop"
-  authors: "Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck"
+  authors: "Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schmuck"
   year: 2025
   status: "submission"
   order_flag: "alpha"
@@ -13,7 +13,7 @@
     - { label: "demo", url: "https://youtu.be/61thSZDj5Ks" }
 
 - title: "Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies"
-  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schmuck"
   year: 2025
   status: "submission"
   order_flag: "alpha"
@@ -23,7 +23,7 @@
 
 # ---------- 2025 ----------
 - title: "Universal Safety Controllers with Learned Prophecies"
-  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2025
   status: "published"
   order_flag: "alpha"
@@ -34,7 +34,7 @@
     - { label: "tool", url: "https://doi.org/10.5281/zenodo.17610622" }
 
 - title: "Quantitative Strategy Templates"
-  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schmuck"
   year: 2025
   status: "published"
   order_flag: "alpha"
@@ -44,7 +44,7 @@
     - { label: "arXiv", url: "https://arxiv.org/abs/2504.16528" }
 
 - title: "Synthesis of Universal Safety Controllers"
-  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2025
   status: "published"
   order_flag: "alpha"
@@ -55,7 +55,7 @@
     - { label: "tool", url: "https://doi.org/10.5281/zenodo.14627151" }
 
 - title: "Fair Quantitative Games"
-  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schmuck"
   year: 2025
   status: "published"
   order_flag: "alpha"
@@ -67,7 +67,7 @@
 
 # ---------- 2024 ----------
 - title: "Strategy Templates – Robust Certified Interfaces for Interacting Systems"
-  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2024
   status: "published"
   order_flag: "rand"
@@ -77,7 +77,7 @@
     - { label: "PDF", url: "{{ base_path }}/files/papers/atva24.pdf" }
 
 - title: "Localized Attractor Computations for Infinite-State Games"
-  authors: "Anne-Kathrin Schumck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak"
+  authors: "Anne-Kathrin Schmuck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak"
   year: 2024
   status: "published"
   order_flag: "rand"
@@ -88,7 +88,7 @@
     - { label: "tool", url: "https://gitlab.mpi-sws.org/sanayak/rpg-stela" }
 
 - title: "Most General Winning Secure Equilibria Synthesis in Graph Games"
-  authors: "Satya Prakash Nayak and Anne-Kathrin Schumck"
+  authors: "Satya Prakash Nayak and Anne-Kathrin Schmuck"
   year: 2024
   status: "published"
   order_flag: "alpha"
@@ -99,7 +99,7 @@
     - { label: "poster", url: "{{ base_path }}/files/posters/tacas24.pdf" }
 
 - title: "Context-triggered games for reactive synthesis over stochastic systems via control barrier certificates"
-  authors: "Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2024
   status: "published"
   venue: "HSCC'24"
@@ -107,7 +107,7 @@
     - { label: "HSCC'24", url: "https://doi.org/10.1145/3641513.3650136" }
 
 - title: "Contract-Based Distributed Logical Controller Synthesis"
-  authors: "Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak"
+  authors: "Ashwani Anand, Anne-Kathrin Schmuck, and Satya Prakash Nayak"
   year: 2024
   status: "published"
   order_flag: "rand"
@@ -120,7 +120,7 @@
     - { label: "poster", url: "{{ base_path }}/files/posters/hscc23-2.pdf" }
 
 - title: "Solving Two-Player Games under Progress Assumptions"
-  authors: "Anne-Kathrin Schumck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak"
+  authors: "Anne-Kathrin Schmuck, K. S. Thejaswini, Irmak Sağlam, and Satya Prakash Nayak"
   year: 2024
   status: "published"
   order_flag: "rand"
@@ -142,7 +142,7 @@
 
 # ---------- 2023 ----------
 - title: "Context-Triggered Abstraction-Based Control Design"
-  authors: "Satya Prakash Nayak*, Lucas Neves Egidio*, Matteo Della Rossa, Anne-Kathrin Schumck, and Raphaël Jungers"
+  authors: "Satya Prakash Nayak*, Lucas Neves Egidio*, Matteo Della Rossa, Anne-Kathrin Schmuck, and Raphaël Jungers"
   year: 2023
   status: "published"
   venue: "OJ-CSYS'23"
@@ -154,7 +154,7 @@
     - { label: "simulation", url: "https://cloud.mpi-sws.org/index.php/s/Yrf2dDzspTkYm88" }
 
 - title: "Synthesizing Permissive Winning Strategy Templates for Parity Games"
-  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2023
   status: "published"
   order_flag: "alpha"
@@ -165,7 +165,7 @@
     - { label: "tool", url: "https://github.com/satya2009rta/pestel" }
 
 - title: "Computing Adequately Permissive Assumptions for Synthesis"
-  authors: "Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck"
+  authors: "Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schmuck"
   year: 2023
   status: "published"
   order_flag: "alpha"

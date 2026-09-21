@@ -46,7 +46,7 @@ If you are wondering why one would do this, see <a href="http://www.ams.org/prof
 ### under submission
 * **Maximal Adaptation, Minimal Guidance: Permissive Reactive Robot Task Planning with Humans in the Loop** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
+Oz Gitelson, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schmuck <br>
 [ <a href="https://arxiv.org/abs/2510.12662" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://youtu.be/61thSZDj5Ks" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
@@ -59,14 +59,14 @@ Ashwani Anand, Christel Baier, Calvin Chau, Sascha Klüppelholz, Ali Mirzaei, Sa
 
 * **Follow the STARs: Dynamic ω-Regular Shielding of Learned Policies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schumck <br>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.65109/WLFP2035" style="text-decoration:none;font-family:'Times';">AAMAS'26</a> |
 <a href="https://arxiv.org/abs/2505.14689" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://ritamraha.github.io/MARG/" style="text-decoration:none;font-family:'Times';"> demo </a> ]
 
 * **Universal Safety Controllers with Learned Prophecies** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1609/aaai.v40i43.40940" style="text-decoration:none;font-family:'Times';">AAAI'26</a> |
 <a href="https://arxiv.org/abs/2511.11390" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.5281/zenodo.17610622" style="text-decoration:none;font-family:'Times';">tool</a> |
@@ -75,20 +75,20 @@ Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck 
 ### 2025
 * **Quantitative Strategy Templates** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-032-08707-2_4" style="text-decoration:none;font-family:'Times';">ATVA'25</a> |
 <a href="https://arxiv.org/abs/2504.16528" style="text-decoration:none;font-family:'Times';">arXiv</a> ]
 
 * **Synthesis of Universal Safety Controllers** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+Bernd Finkbeiner, Niklas Metzger, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-90653-4_9" style="text-decoration:none;font-family:'Times';">TACAS'25</a> |
 <a href="https://arxiv.org/abs/2501.18445" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://doi.org/10.5281/zenodo.14627151" style="text-decoration:none;font-family:'Times';">tool</a> ]
 
 * **Fair Quantitative Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schumck <br>
+Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-90897-2_16" style="text-decoration:none;font-family:'Times';">FoSSaCS'25</a> |
 <a href="https://arxiv.org/abs/2501.17255" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="{{ base_path }}/files/posters/fossacs25.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
@@ -97,7 +97,7 @@ Ashwani Anand, Satya Prakash Nayak, Ritam Raha, Irmak Sağlam, and Anne-Kathrin 
 ### 2024
 * **Strategy Templates – Robust Certified Interfaces for Interacting Systems** <br>
 <span style="font-size: smaller;">&#x24e1;</span>
-Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-78709-6_2" style="text-decoration:none;font-family:'Times';">ATVA'24 (invited)</a> |
 <a href="{{ base_path }}/files/papers/atva24.pdf" style="text-decoration:none;font-family:'Times';">PDF</a> ]
 
@@ -110,19 +110,19 @@ Anne-Kathrin Schmuck, Philippe Heim, Rayna Dimitrova, and Satya Prakash Nayak <b
 
 * **Most General Winning Secure Equilibria Synthesis in Graph Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Satya Prakash Nayak and Anne-Kathrin Schumck <br>
+Satya Prakash Nayak and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-57256-2_9" style="text-decoration:none;font-family:'Times';">TACAS'24</a> |
 <a href="https://arxiv.org/abs/2401.09957" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="{{ base_path }}/files/posters/tacas24.pdf" style="text-decoration:none;font-family:'Times';">poster</a> ]
 
 * **Context-triggered games for reactive synthesis over stochastic
 systems via control barrier certificates** <br> 
-Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+Ameneh Nejati, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1145/3641513.3650136" style="text-decoration:none;font-family:'Times';">HSCC'24</a> ]
 
 * **Contract-Based Distributed Logical Controller Synthesis** <br> 
 <span style="font-size: smaller;">&#x24e1;</span>
-Ashwani Anand, Anne-Kathrin Schumck, and Satya Prakash Nayak <br>
+Ashwani Anand, Anne-Kathrin Schmuck, and Satya Prakash Nayak <br>
 <b style="font-family:'Times New Roman'; color:red">HSCC'23 best poster award</b> <br>
 [ <a href="https://doi.org/10.1145/3641513.3650123" style="text-decoration:none;font-family:'Times';">HSCC'24</a> |
 <a href="https://arxiv.org/abs/2307.06212" style="text-decoration:none;font-family:'Times';">arXiv</a> |
@@ -148,7 +148,7 @@ Satya Prakash Nayak, Lucas Neves Egidio, Matteo Della Rossa, Anne-Kathrin Schmuc
 
 * **Synthesizing Permissive Winning Strategy Templates for Parity Games** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
+Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schmuck <br>
 [ <a href="https://doi.org/10.1007/978-3-031-37706-8_22" style="text-decoration:none;font-family:'Times';">CAV'23</a> |
 <a href="https://arxiv.org/abs/2305.14026" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://github.com/satya2009rta/pestel" style="text-decoration:none;font-family:'Times';">tool</a> ]
@@ -156,7 +156,7 @@ Ashwani Anand, Satya Prakash Nayak, and Anne-Kathrin Schumck <br>
 
 * **Computing Adequately Permissive Assumptions for Synthesis** <br>
 <span style="font-size: smaller;">&#x24d0;</span>
-Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schumck<br>
+Ashwani Anand, Kaushik Mallik, Satya Prakash Nayak, and Anne-Kathrin Schmuck<br>
 [ <a href="https://doi.org/10.1007/978-3-031-30820-8_15" style="text-decoration:none;font-family:'Times';">TACAS'23</a> |
 <a href="https://arxiv.org/abs/2301.07563" style="text-decoration:none;font-family:'Times';">arXiv</a> |
 <a href="https://gitlab.mpi-sws.org/kmallik/simpa" style="text-decoration:none;font-family:'Times';">tool</a> |
