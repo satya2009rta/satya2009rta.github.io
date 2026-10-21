@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {filterEvents,dateRange,viennaDay,viennaTime} from '../../vienna-events/filters.mjs';
+import {validateCatalog} from './catalog-validation.mjs';
+const c=JSON.parse(fs.readFileSync(new URL('../../vienna-events/events.json',import.meta.url)));
+validateCatalog(c,'2026-10-21');
+const base={period:'all',type:'all',saved:[],area:'all'};
+assert.equal(filterEvents(c.events,{...base,type:'indian'},'2026-10-21')[0].id,'utsav-20261107');
+assert.equal(filterEvents(c.events,{...base,type:'comedy'},'2026-10-21').length,2);
+assert.equal(filterEvents(c.events,{...base,type:'comedy',period:'week'},'2026-10-21').length,1);
+assert.equal(filterEvents(c.events,{...base,area:'nearby'},'2026-10-21').length,0);
+assert.equal(filterEvents(c.events,{...base,period:'custom',from:'2026-10-26',to:'2026-10-26',type:'festival'},'2026-10-21')[0].id,'am-himmel');
+assert.equal(filterEvents(c.events,{...base,period:'custom',from:'2026-11-01',to:'2026-10-22'},'2026-10-21').length,0);
+assert.equal(filterEvents(c.events,{...base,query:'NO SUCH EVENT'},'2026-10-21').length,0);
+assert.equal(filterEvents(c.events,{...base,savedOnly:true,saved:['glow']},'2026-10-21')[0].id,'glow');
+assert.equal(filterEvents(c.events,{...base,type:'dance',period:'today'},'2026-10-22','01:00')[0].id,'just-kicks');
+assert.equal(filterEvents(c.events,{...base,type:'dance',period:'today'},'2026-10-22','02:00').length,0);
+assert.deepEqual(dateRange('weekend','2026-10-25'),['2026-10-25','2026-10-25']);
+assert.equal(viennaDay(new Date('2026-10-24T22:30:00Z')),'2026-10-25');
+assert.equal(viennaTime(new Date('2026-10-25T23:30:00Z')),'00:30');
+function bad(edit){const d=structuredClone(c);edit(d.events[0]);assert.throws(()=>validateCatalog(d,'2026-10-21'));}
+bad(e=>e.type='talk');bad(e=>e.priceEur=10);bad(e=>{e.type='film';e.languageDependent=true;e.languageCode='unknown';});
+bad(e=>{e.languageDependent=true;e.languageCode='hi';});bad(e=>{e.area='nearby';e.trainMinutes=180;});bad(e=>e.url='javascript:alert(1)');bad(e=>e.checkedOn='2026-10-22');
+const paid=structuredClone(c);Object.assign(paid.events[0],{indian:true,type:'comedy',priceEur:25,priceLabel:'€25–€35',feesNote:'Booking fees included',bookingUrl:'https://example.org/tickets',languageDependent:true,languageCode:'hi-en'});validateCatalog(paid,'2026-10-21');
+assert.equal(filterEvents(paid.events,{...base,type:'indian'},'2026-10-21').length,2);
+console.log(`Validated ${c.events.length} event records, preference eligibility, paid Indian exceptions, language gates, nearby limits, filter combinations, overnight expiry and Vienna DST.`);

@@ -1,0 +1,46 @@
+---
+layout: null
+permalink: /vienna-events/
+sitemap: false
+---
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="description" content="Discover what’s happening in Vienna and nearby.">
+ <meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#174e3c">
+ <title>Vienna, for you — events in Vienna</title>
+ <link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+ <script type="module" src="app.mjs"></script>
+</head>
+<body>
+ <a class="skip" href="#events">Skip to events</a>
+ <header class="header wrap">
+  <a class="brand" href="./" aria-label="Vienna for you home"><span class="brand-symbol" aria-hidden="true">w<span>↗</span></span><span>vienna,<br><b>for you.</b></span></a>
+  <nav aria-label="Main navigation"><button class="nav-link active" id="exploreNav">Explore</button><button class="nav-link" id="savedNav">Saved <span id="savedCount">0</span></button><button class="nav-link" id="sourcesNav">Our sources <span aria-hidden="true">↗</span></button></nav>
+  <span class="private"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c-5 5-5 13 0 18 5-5 5-13 0-18z"/></svg> Vienna guide</span>
+ </header>
+ <main>
+  <section class="hero wrap" aria-labelledby="heroTitle">
+   <div class="hero-copy"><p class="eyebrow"><span></span> YOUR LITTLE GUIDE TO GOING OUT</p><h1 id="heroTitle">Good times.<br><em>Your kind of plans.</em></h1><p class="hero-description">Discover what’s happening in Vienna and nearby.</p><a class="hero-link" href="#events">Find something to do <span aria-hidden="true">↓</span></a></div>
+   <div class="postcard" aria-hidden="true"><div class="postcard-top"><span>WIEN IS ALWAYS A GOOD IDEA</span><span>48°12′ N<br>16°22′ E</span></div><div class="sun"></div><div class="poster-words">out of office.<br><i>into the city.</i></div><svg class="poster-lines" viewBox="0 0 560 180" fill="none"><path d="M-30 190C50-30 135-10 190 100S330 260 405 110 535 45 600 5"/><path d="M-30 210C50-10 135 10 190 120S330 280 405 130 535 65 600 25"/><path d="M-30 230C50 10 135 30 190 140S330 300 405 150 535 85 600 45"/></svg><div class="postcard-bottom"><span>YOUR CITY. YOUR PLANS.</span><span>GOOD PLANS. GOOD TIMES.</span></div></div>
+  </section>
+  <section class="finder wrap" id="events" aria-labelledby="finderTitle">
+   <div class="section-heading"><div><p class="eyebrow">LESS SCROLLING, MORE GOING</p><h2 id="finderTitle">What’s happening?</h2></div><span class="verified-label"><span class="check-icon">✓</span> <span id="scanLabel">Loading latest listings…</span></span></div>
+   <div class="filters">
+    <div class="filter-top"><div class="date-presets" role="group" aria-label="Event date"><button data-period="all" aria-pressed="true">All upcoming</button><button data-period="today" aria-pressed="false">Today</button><button data-period="week" aria-pressed="false">Next 7 days</button><button data-period="weekend" aria-pressed="false">This weekend</button><button data-period="custom" aria-pressed="false">Pick dates <span aria-hidden="true">⌄</span></button></div><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><span class="sr-only">Search events, venues or districts</span><input id="search" type="search" placeholder="Event, venue or district…" autocomplete="off"></label></div>
+    <div class="custom-dates" id="customDates" hidden><label>From <input id="dateFrom" type="date"></label><span aria-hidden="true">→</span><label>To <input id="dateTo" type="date"></label><p id="dateError" role="alert"></p></div>
+    <div class="filter-bottom"><div class="types" role="group" aria-label="Event type"><button data-type="all" aria-pressed="true">Everything</button><button data-type="music" aria-pressed="false">Live music</button><button data-type="festival" aria-pressed="false">Festivals</button><button data-type="dance" aria-pressed="false">Dance & nightlife</button><button data-type="film" aria-pressed="false">Film</button><button data-type="comedy" aria-pressed="false">Comedy</button><button data-type="theatre" aria-pressed="false">Theatre</button><button data-type="fireworks" aria-pressed="false">Fireworks</button><button data-type="indian" aria-pressed="false">Indian</button></div><label class="outdoor"><input id="outdoor" type="checkbox"><span class="toggle" aria-hidden="true"></span> Outdoors only</label></div>
+    <div class="preference-filters"><label>Where <select id="areaFilter"><option value="all">Vienna + nearby</option><option value="vienna">Vienna only</option><option value="nearby">Nearby</option></select></label></div>
+   </div>
+   <div class="results-top"><p id="resultCount" role="status" aria-live="polite"></p><div><span id="dateCaption"></span><button id="clearFilters" class="text-button" hidden>Reset filters ↺</button></div></div>
+   <div class="event-grid" id="eventGrid"></div>
+   <div class="empty" id="empty" hidden><div aria-hidden="true">↗</div><h3 id="emptyTitle">A quiet corner of the calendar.</h3><p id="emptyText">Try a wider date range or another event type. This is a curated selection, so more may be happening in the city.</p><button id="emptyReset" class="primary-button">Show all upcoming events</button></div>
+   <noscript><p class="notice">Enable JavaScript to use the filters. You can browse the <a href="https://www.mqw.at/de/programm/events/?tag=freier-eintritt">official MuseumsQuartier free events programme</a> directly.</p></noscript>
+   <aside class="freshness" id="freshness"><span class="freshness-icon" aria-hidden="true">↻</span><p><strong id="refreshTitle">Loading the latest event collection.</strong><span id="refreshStatus">Every listing keeps its own checked date. Always check the original page before heading out.</span><span id="scanNotes"></span></p><button id="reloadEvents">Reload listings ↻</button><button id="aboutSources">Our sources ↗</button></aside>
+  </section>
+  <section class="source-section wrap" id="sources" aria-labelledby="sourcesTitle"><div><p class="eyebrow">STRAIGHT FROM THE PEOPLE BEHIND IT</p><h2 id="sourcesTitle">Good sources.<br>Better plans.</h2><p>Official city listings, venue programmes and organisers first, with clearly labelled local announcements where useful. Admission, language, extras and booking notes stay visible.</p><p class="small">All times use Vienna local time (Europe/Vienna). This is a small entertainment-focused selection, not a complete city calendar.</p></div><div id="sourceList" class="source-list"></div></section>
+ </main>
+ <footer class="wrap"><a class="footer-brand" href="./">vienna, for you.</a><p>A little more city. A little more going out.</p><span>Vienna entertainment guide</span></footer>
+ <div class="toast" id="toast" role="status" aria-live="polite"></div>
+</body></html>

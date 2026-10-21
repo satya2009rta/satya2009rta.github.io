@@ -1,0 +1,81 @@
+{
+  "revision": "vienna-events-github-updater-v1-20261021",
+  "purpose": "Refresh the published Vienna entertainment finder through its GitHub JSON file, using verified public sources.",
+  "preferences": [
+    "Entertainment only: concerts, open-air and street festivals, cinema, theatre, stand-up comedy, club nights, parties, fireworks, distinctive live shows; include weekdays. Exclude talks, lectures, panels, networking, educational workshops and general art exhibitions.",
+    "Normally require genuinely free entry (EUR 0): no compulsory purchases, donations, paid memberships or discounts. Optional food and drinks are fine and must be labelled separately.",
+    "Exception: Indian entertainment, performances by Indian artists, and Indian cultural/community celebrations (Diwali, Holi, Navratri/Garba, Bollywood, music, dance, food festivals) may be paid. Verify and show current price or range, currency EUR, mandatory fees and booking URL. No other paid events.",
+    "For language-dependent events (cinema, theatre, comedy and dialogue-heavy shows), require explicitly confirmed English or advertised English subtitles. Hindi and Hindi-English also qualify for Indian performances. Never infer language from a translated listing. No language requirement for music, dancing, cultural celebrations, festivals and fireworks. Note unconfirmed spoken segments in mixed festivals.",
+    "Vienna first. Only exceptional large, especially appealing or unique nearby events within approximately two hours one way by train (API cap 130 minutes). Verify journey time, destination station, onward transfers and a travel source. Flag verifiable late-night return-train limits; state transport is extra. Do not add ordinary nearby events or speculate on transport."
+  ],
+  "search_window": "Search the next 60 days; look up to 120 days for major festivals, Indian touring artists and celebrations. Prioritize suitable events over quantity.",
+  "source_strategy": "Use web search, preferably current organiser, venue, official city/tourism or organiser booking pages. Seed source directory is in vienna-events/events.json. Search specifically for free English cinema/theatre/comedy, free concerts/festivals/parties/fireworks, and Indian cultural celebrations/stand-up/Bollywood. Look for exceptional nearby trips only when justified. Discovery aggregators are leads; verify admission, date and language from reliable original pages where possible. Clearly label source type if a named local community announcement is the only reliable public source. Exclude unconfirmed qualifying terms.",
+  "workflow": [
+    "Use the GitHub connector to access satya2009rta/satya2009rta.github.io. Read _maintenance/vienna-events/update-instructions.json, _maintenance/vienna-events/catalog-validation.mjs and vienna-events/events.json from main. Do not depend on a local checkout or prior chat state. The current file blob SHA from fetch_file is the concurrency token for writing.",
+    "Research current public organiser, venue, city and booking pages using web search. Search the next 60 days and up to 120 days for major festivals or Indian artists and celebrations. Follow all saved preferences and source-verification rules. Add matching new events, recheck accessible existing events, remove cancelled/ineligible/past occurrences, and preserve stable IDs. Update each checkedOn only after that source was actually checked. Keep unchecked future records with old checked dates and clearly note partial failures.",
+    "Build the replacement JSON by copying the current snapshot. Preserve schemaVersion and schedule. Assign revision to a new UUID and updatedAt to the save timestamp. Set lastScanAt only after a successful source search, not after a total search failure. Keep sources for every retained event. scanNotes should describe partial source failures or unverified matches honestly; do not claim complete coverage.",
+    "Validate the candidate with the saved catalog-validation.mjs function validateCatalog(candidate, current Vienna YYYY-MM-DD date) before uploading. The validator rejects non-Indian paid entries, missing price/fee/booking fields, unconfirmed dialogue languages and unverified nearby travel. JSON must be valid and within one megabyte. Preserve all unrelated website files.",
+    "Use GitHub update_file on main for path vienna-events/events.json, with complete replacement UTF-8 content, commit message Refresh verified Vienna event listings, and the exact current blob SHA. This one-file commit triggers the existing main-branch GitHub Pages build. Do not change repository visibility, publishing settings, academic pages or other files. Never put a Sites access token or API credential into this public repository.",
+    "Fetch the updated file through the connector and verify the new blob SHA and representative IDs, dates, admission terms and lastScanAt. If a SHA conflict occurs, reread and merge once before retrying. Do not overwrite another update or run competing writes for the same file.",
+    "Inspect the GitHub Pages build associated with the returned commit. On build failure report the failure. Once successful, verify the public events JSON at https://satya2009rta.github.io/vienna-events/events.json contains the saved revision (allow for deployment caching). Do not claim deployment success from a commit alone. On a transient public fetch failure, distinguish verified GitHub save from unverified published readback.",
+    "A successful scan with no new suitable events can still record lastScanAt and honest scanNotes. On total search failure retain previous data. Do not erase the collection simply because a source failed. Leave the separate Friday entertainment roundup unchanged. The private Sites copy is not the update target after this migration."
+  ],
+  "api": {
+    "repository": "satya2009rta/satya2009rta.github.io",
+    "branch": "main",
+    "read": "GitHub fetch_file: vienna-events/events.json",
+    "write": "GitHub update_file: same path, complete UTF-8 text with current blob SHA",
+    "published_readback": "https://satya2009rta.github.io/vienna-events/events.json",
+    "schedule": "Preserve schedule metadata. A ChatGPT task performs discovery and updates; GitHub Pages publishes the static file."
+  },
+  "event_schema": {
+    "id": "stable lowercase letters/digits/hyphens",
+    "title": "event name",
+    "subtitle": "short descriptor",
+    "type": "music | festival | dance | film | comedy | theatre | fireworks",
+    "tags": [
+      "short labels"
+    ],
+    "dates": [
+      "YYYY-MM-DD occurrence start dates, explicitly confirmed; do not infer recurring dates"
+    ],
+    "time": "HH:mm Vienna local time",
+    "timeEnd": "HH:mm or null when unpublished",
+    "timeEndDayOffset": "0 or 1 (1 for overnight finishing next day)",
+    "venue": "venue name",
+    "address": "address",
+    "district": "district or nearby town",
+    "setting": "indoor | outdoor | mixed",
+    "description": "short original English summary of appeal",
+    "details": "reservation, line-up and visit details",
+    "admission": "verified admission terms and optional extras",
+    "language": "verified event language, or state if unpublished; do not explain language eligibility",
+    "languageDependent": "boolean",
+    "languageCode": "en | en-subtitles | hi | hi-en | not-needed (Hindi allowed only for Indian events)",
+    "source": "exact matching name in sources array",
+    "url": "direct reliable HTTPS original event URL",
+    "checkedOn": "YYYY-MM-DD actual source check date in Europe/Vienna",
+    "priceEur": "number, 0 for free; lowest current admission price for paid Indian event",
+    "indian": "boolean, event/artist/cultural description rather than user identity",
+    "area": "vienna | nearby",
+    "availability": "current booking/waitlist caveat or See original page",
+    "extraUrl": "optional HTTPS corroborating link",
+    "extraLabel": "optional link label",
+    "priceLabel": "required if paid: exact verified price/range",
+    "feesNote": "required if paid: known mandatory fees; explicitly flag if included/not stated",
+    "bookingUrl": "required if paid: HTTPS booking URL",
+    "exceptional": "required true if nearby",
+    "trainMinutes": "required if nearby, verified approximate one-way train time (max130)",
+    "destinationStation": "required if nearby",
+    "travelNote": "required if nearby, appeal/route/transfers",
+    "returnNote": "required if nearby, verified return limit or explicitly not verified",
+    "travelSource": "required if nearby, HTTPS transport source"
+  },
+  "source_schema": {
+    "name": "unique matching source name",
+    "label": "Official venue / organiser booking / official city / local announcement, etc.",
+    "url": "HTTPS source directory or event URL",
+    "note": "what it verifies; be clear about source provenance"
+  },
+  "presentation": "Apply the preferences internally. Do not describe selection rules, exceptions, travel caps, language eligibility or reasons an event qualifies anywhere in user-facing text. Show factual event prices, languages, transport details and booking caveats normally. Keep scanNotes internal; put only plain search health or source-failure notices in statusNotes, never preference summaries or category-eligibility commentary. Preserve statusNotes as an array of strings, empty when there is nothing to report."
+}
