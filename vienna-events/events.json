@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "revision": "github-pages-draft-20261021",
-  "updatedAt": "2026-10-21T15:43:18.308Z",
+  "revision": "github-pages-live-1792611333322",
+  "updatedAt": "2026-10-21T19:35:33.322Z",
   "lastScanAt": "2026-10-21T15:43:18.311Z",
   "schedule": {
-    "enabled": false,
-    "label": "Daily at 08:00 Europe/Vienna — activation pending publication approval",
+    "enabled": true,
+    "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [],
