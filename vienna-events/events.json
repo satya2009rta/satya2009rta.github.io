@@ -1,14 +1,22 @@
 {
   "schemaVersion": 1,
-  "revision": "github-pages-live-1792611333322",
-  "updatedAt": "2026-10-21T19:35:33.322Z",
-  "lastScanAt": "2026-10-21T15:43:18.311Z",
+  "revision": "dc542cfc-83dd-4dd3-ad20-6d8b39b00df5",
+  "updatedAt": "2026-10-22T05:59:21Z",
+  "lastScanAt": "2026-10-22T05:57:55Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
-  "scanNotes": [],
+  "scanNotes": [
+    "2026-10-22: Searched the next 60 days, extending searches to February 2027 for major festivals and Indian performances. Coverage is partial; no complete-calendar claim.",
+    "Rechecked 16 existing listings through the Am Himmel, MuseumsQuartier, Charlie P’s, YesTicket and named UTSAV announcement pages. Added six individually verified English comedy shows and three Charlie P’s nightlife listings; added explicitly listed 12 December City Jam and Karawoke occurrences.",
+    "The two Stadt Wien event pages returned fetch errors. Retained their 2026-10-21 checkedOn values and existing admission information. The Alles im Fluss host programme was readable and corroborates 22 October at 19:00, but does not replace the failed city admission recheck.",
+    "Removed completed 21 October occurrences, including Just for Kicks, which finished at 02:00 on 22 October.",
+    "Some Comedy Pub pages initially showed old occurrences; added only six shows whose individual pages subsequently confirmed current exact dates and performance times. Uncensored and Funday detail pages remained unreadable and were not added.",
+    "Eventbrite returned rate limits; Universe and the Imperial brunch booking page did not expose usable contents. The mdw film listing timed out; mumok’s November student-day page has no published programme. No unverified cinema, theatre, Indian paid event or nearby trip was added.",
+    "Searches covered concerts, festivals, English cinema/theatre/comedy, parties, fireworks and Indian/Diwali/Bollywood entertainment. No new fully verified qualifying Indian event or nearby trip was found. Existing UTSAV listing remains verified."
+  ],
   "events": [
     {
       "id": "alles-im-fluss",
@@ -19,7 +27,6 @@
         "Festival"
       ],
       "dates": [
-        "2026-10-21",
         "2026-10-22"
       ],
       "time": "19:00",
@@ -28,8 +35,8 @@
       "address": "Meiselstraße 20, 1150 Wien",
       "district": "15th · Rudolfsheim-Fünfhaus",
       "setting": "indoor",
-      "description": "Two remaining evenings of live songs in a historic waterworks building.",
-      "details": "The festival runs 19–22 October. This finder shows the two remaining dates. See host Andre Blau’s programme for each evening’s artists.",
+      "description": "Live songs in a historic waterworks building.",
+      "details": "The festival runs 19–22 October. The remaining evening is 22 October; see the host’s programme for the artists.",
       "admission": "Free admission, confirmed by the city calendar.",
       "language": "Songs and spoken parts vary; English is not guaranteed.",
       "source": "Stadt Wien",
@@ -102,7 +109,7 @@
       "language": "No performance language specified; a market and outdoor festival.",
       "source": "Am Himmel",
       "url": "https://himmel.at/kuerbisfest/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -120,7 +127,8 @@
         "Kids & teens"
       ],
       "dates": [
-        "2026-10-24"
+        "2026-10-24",
+        "2026-12-12"
       ],
       "time": "16:00",
       "timeEnd": "20:00",
@@ -134,7 +142,7 @@
       "language": "Programme language not specified; the focus is dance.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/events/dschungel-wien/city-jam/20261024-1600/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -166,7 +174,7 @@
       "language": "Performance language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -184,7 +192,8 @@
         "Karaoke"
       ],
       "dates": [
-        "2026-10-31"
+        "2026-10-31",
+        "2026-12-12"
       ],
       "time": "21:00",
       "timeEnd": "23:30",
@@ -198,7 +207,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -230,7 +239,7 @@
       "language": "Programme language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/museumsquartier/winter-im-mq-2026/20261112-1830/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -262,7 +271,7 @@
         "MQ Tunes"
       ],
       "description": "Belle Fin plays the free winter music series at MuseumsQuartier.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -294,7 +303,7 @@
         "MQ Tunes"
       ],
       "description": "A free courtyard set from soulparlez, part of the winter programme.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -326,7 +335,7 @@
         "MQ Tunes"
       ],
       "description": "Catch Skofi at the MQ’s free Wednesday music series.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -358,7 +367,7 @@
         "MQ Tunes"
       ],
       "description": "An outdoor evening with RUHMER in the MQ courtyard.",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -395,7 +404,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -427,7 +436,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -442,7 +451,6 @@
         "Party"
       ],
       "dates": [
-        "2026-10-21",
         "2026-10-28"
       ],
       "time": "21:00",
@@ -460,7 +468,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -493,7 +501,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -525,7 +533,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -557,7 +565,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -589,11 +597,300 @@
       "languageCode": "not-needed",
       "source": "MeinBezirk · community announcement",
       "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
-      "checkedOn": "2026-10-21",
+      "checkedOn": "2026-10-22",
       "priceEur": 0,
       "indian": true,
       "area": "vienna",
       "availability": "Booking details not stated"
+    },
+    {
+      "id": "rock-n-roll-karaoke",
+      "title": "Rock ’n’ Roll Karaoke · DJ POT",
+      "subtitle": "Songs at Charlie P’s",
+      "type": "dance",
+      "tags": [
+        "Party"
+      ],
+      "dates": [
+        "2026-10-22",
+        "2026-10-29"
+      ],
+      "time": "21:30",
+      "timeEnd": "01:30",
+      "timeEndDayOffset": 1,
+      "venue": "Charlie P’s Irish Pub",
+      "address": "Währinger Straße 3, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "Pick a song and join the karaoke night.",
+      "details": "Finishes the following morning. Check the venue page for current arrangements.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Charlie P’s",
+      "url": "https://www.charlieps.at/en/events",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See venue page"
+    },
+    {
+      "id": "dj-soluka-20261025",
+      "title": "DJ Soluka",
+      "subtitle": "Sunday night at Charlie P’s",
+      "type": "dance",
+      "tags": [
+        "Party"
+      ],
+      "dates": [
+        "2026-10-25"
+      ],
+      "time": "22:00",
+      "timeEnd": "02:00",
+      "timeEndDayOffset": 1,
+      "venue": "Charlie P’s Irish Pub",
+      "address": "Währinger Straße 3, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "A Sunday DJ set at the Irish pub.",
+      "details": "Finishes the following morning. Check the venue page for current arrangements.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Charlie P’s",
+      "url": "https://www.charlieps.at/en/events",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See venue page"
+    },
+    {
+      "id": "medical-tuesday-20261027",
+      "title": "Medical Tuesday · DJ Baseman",
+      "subtitle": "Tuesday DJ night",
+      "type": "dance",
+      "tags": [
+        "Party"
+      ],
+      "dates": [
+        "2026-10-27"
+      ],
+      "time": "21:30",
+      "timeEnd": "02:00",
+      "timeEndDayOffset": 1,
+      "venue": "Charlie P’s Irish Pub",
+      "address": "Währinger Straße 3, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "Music and dancing with DJ Baseman.",
+      "details": "Finishes the following morning. Check the venue page for current arrangements.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Charlie P’s",
+      "url": "https://www.charlieps.at/en/events",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See venue page"
+    },
+    {
+      "id": "funny-bone-20261022",
+      "title": "Funny Bone",
+      "subtitle": "English stand-up open mic",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-22"
+      ],
+      "time": "20:30",
+      "timeEnd": "22:00",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "Comedians try new jokes and work on material in front of a live audience.",
+      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/funny-bone/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
+    },
+    {
+      "id": "comedy-factory-20261024",
+      "title": "Comedy Factory",
+      "subtitle": "English stand-up open mic",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-24"
+      ],
+      "time": "18:45",
+      "timeEnd": "20:15",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "Newcomers and experienced performers share an experimental English open mic.",
+      "details": "Doors 18:30; show 18:45. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/comedy-factory-english-comedy-open-mic/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
+    },
+    {
+      "id": "bomb-squad-20261024",
+      "title": "The Bomb Squad",
+      "subtitle": "English stand-up open mic",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-24"
+      ],
+      "time": "20:30",
+      "timeEnd": "22:00",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "Tito and Jacob host an unpredictable night of English stand-up.",
+      "details": "Doors 20:15; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/english-stand-up-comedy-open-mic-the-bomb-squad/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
+    },
+    {
+      "id": "icebreakers-20261026",
+      "title": "Icebreakers",
+      "subtitle": "English stand-up open mic",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-26"
+      ],
+      "time": "20:30",
+      "timeEnd": "22:00",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "A mix of first-time performers and experienced comics trying new material.",
+      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/open-mic-icebreakers/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
+    },
+    {
+      "id": "local-legends-20261027",
+      "title": "Local Legends",
+      "subtitle": "English stand-up showcase",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-27"
+      ],
+      "time": "20:30",
+      "timeEnd": "22:00",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "A showcase of local comedians performing longer, developed sets.",
+      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/showcase-local-legends/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
+    },
+    {
+      "id": "light-at-the-end-20261028",
+      "title": "The Light at the End",
+      "subtitle": "English stand-up open mic",
+      "type": "comedy",
+      "tags": [
+        "English"
+      ],
+      "dates": [
+        "2026-10-28"
+      ],
+      "time": "20:30",
+      "timeEnd": "22:00",
+      "timeEndDayOffset": 0,
+      "venue": "The Comedy Pub",
+      "address": "Kettenbrückengasse 7, 1050 Wien",
+      "district": "5th · Margareten",
+      "setting": "indoor",
+      "description": "An English open mic featuring new jokes and developing performers.",
+      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
+      "admission": "Free admission (€0). Donations are optional.",
+      "language": "English, confirmed by the venue.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "The Comedy Pub",
+      "url": "https://www.thecomedypub.at/events/the-light-at-the-end/",
+      "checkedOn": "2026-10-22",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Ticket availability not verified; see venue booking link"
     }
   ],
   "sources": [
@@ -638,7 +935,15 @@
       "label": "Local public announcement",
       "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
       "note": "Named community contributor’s UTSAV announcement; source type is shown rather than presented as an official venue listing."
+    },
+    {
+      "name": "The Comedy Pub",
+      "label": "Official venue programme",
+      "url": "https://www.thecomedypub.at/events/view/eng-free",
+      "note": "Individual venue pages confirm performance dates, show times, English language and free admission with optional donations. Booking services could not be read."
     }
   ],
-  "statusNotes": []
+  "statusNotes": [
+    "Some city-calendar pages could not be rechecked; their previous checked dates are retained. Some booking services were unavailable, so live ticket availability could not be verified."
+  ]
 }
