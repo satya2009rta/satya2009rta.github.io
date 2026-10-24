@@ -1,5 +1,5 @@
 let events=[],sources=[],catalog=null,loadError='',loading=false;
-import {filterEvents,viennaDay,viennaTime,dateRange} from './filters.mjs';
+import {filterEvents,viennaDay,viennaTime,dateRange} from './filters.mjs?v=20261024';
 const $=id=>document.getElementById(id);
 const esc=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const svg=path=>`<svg viewBox="0 0 24 24" aria-hidden="true">${path}</svg>`;
