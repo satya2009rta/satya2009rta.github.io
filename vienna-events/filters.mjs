@@ -18,12 +18,13 @@ export function dateRange(period,today,from='',to=''){
 export function filterEvents(events,state,today,localTime='00:00'){
   const [from,to]=dateRange(state.period,today,state.from,state.to);
   const query=(state.query||'').trim().toLocaleLowerCase();
+  const types=state.types??(!state.type||state.type==='all'?[]:[state.type]);
   return events.map(event=>({...event,matchingDates:event.dates.filter(day=>{
     const overnight=event.timeEndDayOffset===1;
     const ongoing=overnight&&shiftDay(day,1)===today&&localTime<(event.timeEnd||'00:00');
     const within=day>=today&&day>=from&&day<=to&&(day!==today||overnight||!event.timeEnd||event.timeEnd>localTime);
     return within||(ongoing&&today>=from&&today<=to);
   })}))
-    .filter(event=>event.matchingDates.length&&(!state.type||state.type==='all'||(state.type==='indian'?event.indian:event.type===state.type))&&(!state.outdoor||event.setting==='outdoor')&&(!state.area||state.area==='all'||event.area===state.area)&&(!state.savedOnly||state.saved.includes(event.id))&&(!query||[event.title,event.subtitle,event.venue,event.address,event.description,event.type,...event.tags].join(' ').toLocaleLowerCase().includes(query)))
+    .filter(event=>event.matchingDates.length&&(!types.length||types.some(type=>type==='indian'?event.indian:event.type===type))&&(!state.outdoor||event.setting==='outdoor')&&(!state.area||state.area==='all'||event.area===state.area)&&(!state.savedOnly||state.saved.includes(event.id))&&(!query||[event.title,event.subtitle,event.venue,event.address,event.description,event.type,...event.tags].join(' ').toLocaleLowerCase().includes(query)))
     .sort((a,b)=>(a.matchingDates[0]+a.time).localeCompare(b.matchingDates[0]+b.time)||a.title.localeCompare(b.title));
 }
