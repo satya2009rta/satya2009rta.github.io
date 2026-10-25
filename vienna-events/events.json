@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
-  "revision": "38b4d5dd-eda5-4ee9-aee5-a37ec2b98e1d",
-  "updatedAt": "2026-10-24T06:00:00.149Z",
-  "lastScanAt": "2026-10-24T06:00:00.149Z",
+  "revision": "b85a8974-309d-4b83-b318-31b3b4f58913",
+  "updatedAt": "2026-10-25T07:03:29.000Z",
+  "lastScanAt": "2026-10-25T07:03:29.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-24: Searched upcoming entertainment through 23 December and Indian events through February 2027. Partial coverage only; no recurring dates inferred.",
-    "Added three verified listings: Balcanto, its separately timed closing concert (6 November), and Mwita Mataro & Band (25 November). Dates, admission and locations confirmed by the festival and MQ organiser programmes.",
-    "Rechecked Am Himmel, City Jam, Glow (successful retry), Karawoke, all five retained MQ winter records, eight Charlie P’s records, three American Improv dates, Prater Halloween and UTSAV. Replaced obsolete MQ winter URLs with accessible individual event links.",
-    "MQ opening sources differ: individual page lists 18:00 with first music at 18:30; general programme and press text give 18:30. Both times are disclosed in the event details.",
-    "Removed the completed 23 October Happy Friday occurrence, which ended at 03:00 on 24 October. Its future occurrence and stable ID remain.",
-    "All three American Improv pages display both waiting-list notices and external Meetup booking links; Meetup availability was not verified. Updated November’s caveat accordingly.",
-    "Comedy Pub directory and Comedy Factory page were inaccessible; retained all five future Comedy Pub records with unchanged checked dates. The American Improv directory was inaccessible, but individual pages were checked successfully. mdw and Wintermarkt individual sources were not rechecked and retain prior checked dates.",
-    "The city Balcanto page returned 500; the official festival HTML and timetable supplied verification. Imperial brunch booking returned no usable contents; price and booking conditions could not be confirmed, so it was not added.",
-    "Searches for cinema/theatre, fireworks, Indian artists/celebrations and nearby events produced no further fully verified additions. No claim of complete coverage."
+    "2026-10-25: Searched upcoming entertainment through 24 December and Indian events through February 2027 using public search and organiser, venue, city and booking pages. Coverage is partial; no recurring dates inferred.",
+    "Added three verified Wintermarkt listings: Ferris Wheel illumination (20 November, 19:00–19:15), Aminata & the Astronauts (27 November, 19:00–20:30) and MO & Band (28 November, 19:00–20:30). Official individual pages confirm dates, hours and free admission.",
+    "Rechecked Am Himmel, City Jam, Glow, Karawoke, all six retained MQ winter records, seven future Charlie P’s records, three American Improv booking pages, UTSAV, Prater Halloween, three mdw concerts, three retained Wintermarkt concerts and both Balcanto listings. The Balcanto detail page was accessible on retry via the festival directory.",
+    "Removed completed 24 October occurrences from Am Himmel and City Jam, and removed Vintage Vintage, Comedy Factory and Bomb Squad records after their final occurrences ended. Changed City Jam’s source link to its verified 12 December occurrence, preserving its ID.",
+    "The Comedy Pub directory and three retained individual pages could not be read. Preserved their future records and previous checked dates. American Improv pages still show waiting lists and external booking links; Meetup availability was not verified. MQ opening-time caveat is retained.",
+    "City winter directory timed out; Margaretner Christmas concert page returned 500 on two attempts. Search excerpts alone were not used to create new listings. TU Wien Diwali has a date and venue but programme is under construction and admission terms were not verified; omitted pending details. VOLXkino lists no upcoming events.",
+    "Searches for cinema/theatre, Indian touring performances/celebrations, fireworks and nearby entertainment produced no further fully verified additions. No claim of complete coverage."
   ],
   "events": [
     {
@@ -29,7 +27,6 @@
         "Family-friendly"
       ],
       "dates": [
-        "2026-10-24",
         "2026-10-25",
         "2026-10-26"
       ],
@@ -45,7 +42,7 @@
       "language": "No performance language specified; a market and outdoor festival.",
       "source": "Am Himmel",
       "url": "https://himmel.at/kuerbisfest/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -63,7 +60,6 @@
         "Kids & teens"
       ],
       "dates": [
-        "2026-10-24",
         "2026-12-12"
       ],
       "time": "16:00",
@@ -77,8 +73,8 @@
       "admission": "Free admission, linked by the venue programme.",
       "language": "Programme language not specified; the focus is dance.",
       "source": "MuseumsQuartier Wien",
-      "url": "https://www.mqw.at/en/program/events/dschungel-wien/city-jam/20261024-1600/",
-      "checkedOn": "2026-10-24",
+      "url": "https://www.mqw.at/en/program/events/dschungel-wien/city-jam/20261212-1600/",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -110,7 +106,7 @@
       "language": "Performance language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -143,7 +139,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -175,7 +171,7 @@
       "language": "Programme language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/winter-im-mq/winter-in-mq-2026/20261112-1800/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -207,7 +203,7 @@
         "MQ Tunes"
       ],
       "description": "Belle Fin plays the free winter music series at MuseumsQuartier.",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -239,7 +235,7 @@
         "MQ Tunes"
       ],
       "description": "A free courtyard set from soulparlez, part of the winter programme.",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -271,7 +267,7 @@
         "MQ Tunes"
       ],
       "description": "Catch Skofi at the MQ’s free Wednesday music series.",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -303,7 +299,7 @@
         "MQ Tunes"
       ],
       "description": "An outdoor evening with RUHMER in the MQ courtyard.",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -340,7 +336,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -372,7 +368,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -404,7 +400,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -436,39 +432,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "See venue page"
-    },
-    {
-      "id": "vintage",
-      "title": "Vintage Vintage · DJ Mani",
-      "subtitle": "Free-entry nightlife",
-      "type": "dance",
-      "tags": [
-        "Party"
-      ],
-      "dates": [
-        "2026-10-24"
-      ],
-      "time": "22:00",
-      "timeEnd": "03:00",
-      "timeEndDayOffset": 1,
-      "venue": "Charlie P’s Irish Pub",
-      "address": "Währinger Straße 3, 1090 Wien",
-      "district": "9th · Alsergrund",
-      "setting": "indoor",
-      "description": "A Saturday party with DJ Mani behind the decks.",
-      "details": "Finishes the following morning. Follow the venue page for current arrangements.",
-      "admission": "Free entry. Optional food and drinks cost extra.",
-      "language": "Music and dancing.",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "source": "Charlie P’s",
-      "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -500,7 +464,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -532,7 +496,7 @@
       "languageCode": "not-needed",
       "source": "MeinBezirk · community announcement",
       "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": true,
       "area": "vienna",
@@ -564,7 +528,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -596,7 +560,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -628,75 +592,11 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "id": "comedy-factory-20261024",
-      "title": "Comedy Factory",
-      "subtitle": "English stand-up open mic",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-10-24"
-      ],
-      "time": "18:45",
-      "timeEnd": "20:15",
-      "timeEndDayOffset": 0,
-      "venue": "The Comedy Pub",
-      "address": "Kettenbrückengasse 7, 1050 Wien",
-      "district": "5th · Margareten",
-      "setting": "indoor",
-      "description": "Newcomers and experienced performers share an experimental English open mic.",
-      "details": "Doors 18:30; show 18:45. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
-      "admission": "Free admission (€0). Donations are optional.",
-      "language": "English, confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "The Comedy Pub",
-      "url": "https://www.thecomedypub.at/events/comedy-factory-english-comedy-open-mic/",
-      "checkedOn": "2026-10-22",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Ticket availability not verified; see venue booking link"
-    },
-    {
-      "id": "bomb-squad-20261024",
-      "title": "The Bomb Squad",
-      "subtitle": "English stand-up open mic",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-10-24"
-      ],
-      "time": "20:30",
-      "timeEnd": "22:00",
-      "timeEndDayOffset": 0,
-      "venue": "The Comedy Pub",
-      "address": "Kettenbrückengasse 7, 1050 Wien",
-      "district": "5th · Margareten",
-      "setting": "indoor",
-      "description": "Tito and Jacob host an unpredictable night of English stand-up.",
-      "details": "Doors 20:15; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
-      "admission": "Free admission (€0). Donations are optional.",
-      "language": "English, confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "The Comedy Pub",
-      "url": "https://www.thecomedypub.at/events/english-stand-up-comedy-open-mic-the-bomb-squad/",
-      "checkedOn": "2026-10-22",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Ticket availability not verified; see venue booking link"
     },
     {
       "id": "icebreakers-20261026",
@@ -800,7 +700,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -857,7 +757,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-25-11-26/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -889,7 +789,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-16-12-26/",
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -900,7 +800,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -932,7 +832,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -964,7 +864,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -996,7 +896,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1028,7 +928,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1060,7 +960,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-23",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1093,7 +993,7 @@
         "MQ Tunes"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1125,7 +1025,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1159,7 +1059,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-24",
+      "checkedOn": "2026-10-25",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1186,6 +1086,103 @@
       "extraLabel": "Festival timetable",
       "description": "Insingizi, VieVox, Samira and Daisy Hearts close Balcanto with a shared concert.",
       "details": "The festival lists the finale separately from its afternoon balcony performances."
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Wintermarkt"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-25",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "source": "Wintermarkt Prater Wien",
+      "language": "Song and hosting languages are not specified.",
+      "id": "aminata-astronauts-20261127",
+      "title": "Aminata & the Astronauts",
+      "subtitle": "Soul and pop beneath the Ferris Wheel",
+      "dates": [
+        "2026-11-27"
+      ],
+      "time": "19:00",
+      "timeEnd": "20:30",
+      "description": "Aminata brings her funk and soul voice to the Wintermarkt stage.",
+      "details": "A live concert at Riesenradplatz, with Wolfgang “Wolfo” Schmidt on keys.",
+      "url": "https://www.wintermarkt.at/en/events/details/aminata-the-astronauts-6-2026/"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Wintermarkt"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-25",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "source": "Wintermarkt Prater Wien",
+      "language": "Song and hosting languages are not specified.",
+      "id": "mo-band-20261128",
+      "title": "MO & Band",
+      "subtitle": "Pop songs at the winter stage",
+      "dates": [
+        "2026-11-28"
+      ],
+      "time": "19:00",
+      "timeEnd": "20:30",
+      "description": "Günter Mokesch and the Balaton Combo play MO hits, new songs and selected covers.",
+      "details": "The programme includes Send Me Roses and live improvisation. Spoken banter is part of the show; its language is not specified.",
+      "url": "https://www.wintermarkt.at/en/events/details/mo-band-5-2026/"
+    },
+    {
+      "type": "festival",
+      "tags": [
+        "Wintermarkt",
+        "Lights"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-25",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "source": "Wintermarkt Prater Wien",
+      "language": "Ceremony hosting language is not specified.",
+      "id": "ferris-wheel-illumination-20261120",
+      "title": "Giant Ferris Wheel · Winter illumination",
+      "subtitle": "The Wintermarkt lights switch on",
+      "dates": [
+        "2026-11-20"
+      ],
+      "time": "19:00",
+      "timeEnd": "19:15",
+      "description": "Watch the Giant Ferris Wheel light up for the start of the winter season.",
+      "details": "A short opening ceremony followed by Sam Brisbe & Friends at 19:15. Viewing the illumination is free; Ferris Wheel rides are separate.",
+      "url": "https://www.wintermarkt.at/en/events/details/vienna-giant-ferris-wheel-illumination-2026/"
     }
   ],
   "sources": [
@@ -1263,6 +1260,6 @@
     }
   ],
   "statusNotes": [
-    "The Comedy Pub programme could not be rechecked; previous checked dates are retained. Some booking details remain unverified. See individual listings for availability and the MQ opening-time discrepancy."
+    "The Comedy Pub listings could not be rechecked; previous checked dates are retained. Some city event pages were unavailable. External booking availability remains unverified for American Improv; see individual listings."
   ]
 }
