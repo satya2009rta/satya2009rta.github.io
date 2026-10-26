@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "revision": "b85a8974-309d-4b83-b318-31b3b4f58913",
-  "updatedAt": "2026-10-25T07:03:29.000Z",
-  "lastScanAt": "2026-10-25T07:03:29.000Z",
+  "revision": "ebcf8a32-6a54-48c1-9c62-5d777b2772e2",
+  "updatedAt": "2026-10-26T07:02:20.000Z",
+  "lastScanAt": "2026-10-26T07:02:20.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-25: Searched upcoming entertainment through 24 December and Indian events through February 2027 using public search and organiser, venue, city and booking pages. Coverage is partial; no recurring dates inferred.",
-    "Added three verified Wintermarkt listings: Ferris Wheel illumination (20 November, 19:00–19:15), Aminata & the Astronauts (27 November, 19:00–20:30) and MO & Band (28 November, 19:00–20:30). Official individual pages confirm dates, hours and free admission.",
-    "Rechecked Am Himmel, City Jam, Glow, Karawoke, all six retained MQ winter records, seven future Charlie P’s records, three American Improv booking pages, UTSAV, Prater Halloween, three mdw concerts, three retained Wintermarkt concerts and both Balcanto listings. The Balcanto detail page was accessible on retry via the festival directory.",
-    "Removed completed 24 October occurrences from Am Himmel and City Jam, and removed Vintage Vintage, Comedy Factory and Bomb Squad records after their final occurrences ended. Changed City Jam’s source link to its verified 12 December occurrence, preserving its ID.",
-    "The Comedy Pub directory and three retained individual pages could not be read. Preserved their future records and previous checked dates. American Improv pages still show waiting lists and external booking links; Meetup availability was not verified. MQ opening-time caveat is retained.",
-    "City winter directory timed out; Margaretner Christmas concert page returned 500 on two attempts. Search excerpts alone were not used to create new listings. TU Wien Diwali has a date and venue but programme is under construction and admission terms were not verified; omitted pending details. VOLXkino lists no upcoming events.",
-    "Searches for cinema/theatre, Indian touring performances/celebrations, fireworks and nearby entertainment produced no further fully verified additions. No claim of complete coverage."
+    "2026-10-26: Searched the next 60 days through 25 December and Indian performances/celebrations through February 2027. Public search, organiser, venue, city and booking pages supplied partial coverage.",
+    "Added SeeLightNight (12 November), Gioiello Ensemble (8 November), Alma Rosé memorial concert (3 November, free ticket required; live availability unverified), and the explicitly published Vintage Vintage date (7 November, preserving its established ID).",
+    "Added seven explicitly published occurrences to existing Charlie P’s records: Bits & Bites on 2 and 9 November; Medical Tuesday on 3 and 10 November; Just for Kicks on 4 November; karaoke on 5 November; Happy Friday on 6 November. No dates inferred from recurrence. The Halloween page now names DJ Soluka.",
+    "Removed the completed DJ Soluka occurrence, which ended early on 26 October, and the completed 25 October Am Himmel occurrence. Rechecked Am Himmel, Glow, Karawoke, UTSAV, Prater Halloween, the 28 October American Improv page and the six retained Charlie P’s records.",
+    "The Comedy Pub’s three individual pages could not be accessed. Their existing checked dates are unchanged. Other retained sources not rechecked also retain their dates. American Improv still displays a waiting-list notice and external Meetup booking; Meetup availability was not verified.",
+    "Alma Rosé Eventjet page loaded without usable live inventory; the venue explicitly confirms free entry with admission tickets. Ein Song für Wien is talks/workshops rather than a concert and was excluded. TU Wien Diwali programme remains under construction and admission terms are unverified, so it was not added.",
+    "Cinema/theatre, Indian touring and nearby/fireworks searches yielded no additional fully verified matches. Viennale’s event directory did not expose useful admission information; no listings were inferred. No claim of complete coverage."
   ],
   "events": [
     {
@@ -27,7 +27,6 @@
         "Family-friendly"
       ],
       "dates": [
-        "2026-10-25",
         "2026-10-26"
       ],
       "time": "10:00",
@@ -42,7 +41,7 @@
       "language": "No performance language specified; a market and outdoor festival.",
       "source": "Am Himmel",
       "url": "https://himmel.at/kuerbisfest/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -106,7 +105,7 @@
       "language": "Performance language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -139,7 +138,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -317,7 +316,9 @@
         "English"
       ],
       "dates": [
-        "2026-10-26"
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09"
       ],
       "time": "19:30",
       "timeEnd": "22:00",
@@ -336,7 +337,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -368,7 +369,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -383,7 +384,8 @@
         "Party"
       ],
       "dates": [
-        "2026-10-28"
+        "2026-10-28",
+        "2026-11-04"
       ],
       "time": "21:00",
       "timeEnd": "02:00",
@@ -400,7 +402,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -415,7 +417,8 @@
         "Party"
       ],
       "dates": [
-        "2026-10-30"
+        "2026-10-30",
+        "2026-11-06"
       ],
       "time": "22:00",
       "timeEnd": "03:00",
@@ -432,7 +435,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -456,7 +459,7 @@
       "address": "Währinger Straße 3, 1090 Wien",
       "district": "9th · Alsergrund",
       "setting": "indoor",
-      "description": "A Halloween party with a live DJ and themed food and drinks available to buy.",
+      "description": "A Halloween party with DJ Soluka, costumes and seasonal food and drink specials.",
       "details": "Finishes the following morning. Follow the venue page for current arrangements.",
       "admission": "Free entry. Optional food and drinks cost extra.",
       "language": "Music and dancing.",
@@ -464,7 +467,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -496,7 +499,7 @@
       "languageCode": "not-needed",
       "source": "MeinBezirk · community announcement",
       "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": true,
       "area": "vienna",
@@ -511,7 +514,8 @@
         "Party"
       ],
       "dates": [
-        "2026-10-29"
+        "2026-10-29",
+        "2026-11-05"
       ],
       "time": "21:30",
       "timeEnd": "01:30",
@@ -528,39 +532,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "See venue page"
-    },
-    {
-      "id": "dj-soluka-20261025",
-      "title": "DJ Soluka",
-      "subtitle": "Sunday night at Charlie P’s",
-      "type": "dance",
-      "tags": [
-        "Party"
-      ],
-      "dates": [
-        "2026-10-25"
-      ],
-      "time": "22:00",
-      "timeEnd": "02:00",
-      "timeEndDayOffset": 1,
-      "venue": "Charlie P’s Irish Pub",
-      "address": "Währinger Straße 3, 1090 Wien",
-      "district": "9th · Alsergrund",
-      "setting": "indoor",
-      "description": "A Sunday DJ set at the Irish pub.",
-      "details": "Finishes the following morning. Check the venue page for current arrangements.",
-      "admission": "Free entry. Optional food and drinks cost extra.",
-      "language": "Music and dancing.",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "source": "Charlie P’s",
-      "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -575,7 +547,9 @@
         "Party"
       ],
       "dates": [
-        "2026-10-27"
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10"
       ],
       "time": "21:30",
       "timeEnd": "02:00",
@@ -592,7 +566,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -700,7 +674,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-26",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1183,6 +1157,137 @@
       "description": "Watch the Giant Ferris Wheel light up for the start of the winter season.",
       "details": "A short opening ceremony followed by Sam Brisbe & Friends at 19:15. Viewing the illumination is free; Ferris Wheel rides are separate.",
       "url": "https://www.wintermarkt.at/en/events/details/vienna-giant-ferris-wheel-illumination-2026/"
+    },
+    {
+      "id": "vintage",
+      "title": "Vintage Vintage · DJ Mani",
+      "subtitle": "Free-entry nightlife",
+      "type": "dance",
+      "tags": [
+        "Party"
+      ],
+      "dates": [
+        "2026-11-07"
+      ],
+      "time": "22:00",
+      "timeEnd": "03:00",
+      "timeEndDayOffset": 1,
+      "venue": "Charlie P’s Irish Pub",
+      "address": "Währinger Straße 3, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "A late-night Saturday set with DJ Mani.",
+      "details": "Finishes the following morning. Follow the venue page for current arrangements.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Charlie P’s",
+      "url": "https://www.charlieps.at/en/events",
+      "checkedOn": "2026-10-26",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See venue page"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Classical"
+      ],
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-26",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "Unreserved seating",
+      "setting": "indoor",
+      "admission": "Free admission.",
+      "language": "Performance and hosting languages are not specified.",
+      "venue": "Kleiner Ehrbar Saal",
+      "address": "Mühlgasse 30, 1040 Wien",
+      "district": "4th · Wieden",
+      "source": "Ehrbar Saal",
+      "id": "gioiello-ensemble-20261108",
+      "title": "Gioiello Ensemble in Vienna",
+      "subtitle": "An afternoon at the piano",
+      "dates": [
+        "2026-11-08"
+      ],
+      "time": "13:30",
+      "description": "Six pianists play Debussy, Chopin, Piazzolla, Schubert and Beethoven, with four- and eight-hand pieces after the interval.",
+      "details": "Free choice of seats. Finishing time is not published.",
+      "url": "https://ehrbarsaal.at/konzerte/gioiello-ensemble-in-vienna/"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Classical"
+      ],
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-26",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "Free ticket required; availability unverified",
+      "setting": "indoor",
+      "admission": "Free admission with a numbered admission ticket.",
+      "language": "Performance and hosting languages are not specified.",
+      "venue": "Ehrbar Saal",
+      "address": "Mühlgasse 30, 1040 Wien",
+      "district": "4th · Wieden",
+      "source": "Ehrbar Saal",
+      "id": "alma-rose-20261103",
+      "title": "Alma Rosé · Memorial concert",
+      "subtitle": "Chamber music and song",
+      "dates": [
+        "2026-11-03"
+      ],
+      "time": "19:00",
+      "description": "A concert honouring Alma Rosé, featuring the Alma Rosé Quartet and baritone Simon Wallfisch.",
+      "details": "A free admission ticket is required through Eventjet. Live ticket availability could not be confirmed. Finishing time is not published.",
+      "url": "https://ehrbarsaal.at/konzerte/alma-rose-2/",
+      "extraUrl": "https://events.eventjet.at/e/gedenkkonzert-alma-rose/",
+      "extraLabel": "Free ticket booking"
+    },
+    {
+      "type": "festival",
+      "tags": [
+        "Lights",
+        "Family-friendly"
+      ],
+      "timeEnd": "20:00",
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-26",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "setting": "outdoor",
+      "admission": "Free admission.",
+      "language": "Spoken segments and reading language are not specified.",
+      "venue": "Seepark · Janis-Joplin-Promenade",
+      "address": "Janis-Joplin-Promenade, 1220 Wien",
+      "district": "22nd · Donaustadt",
+      "source": "Stadtteilmanagement Seestadt aspern",
+      "id": "seelightnight-20261112",
+      "title": "SeeLightNight",
+      "subtitle": "Lights, music and dancing by the lake",
+      "dates": [
+        "2026-11-12"
+      ],
+      "time": "17:00",
+      "description": "An evening of illuminated dance, a DJ, choir music and projections around the Seestadt lake.",
+      "details": "A closing light scene is scheduled for 19:55–20:00. The wider programme also includes a reading and hands-on activities.",
+      "url": "https://www.aspern-seestadt.at/seelightnight"
     }
   ],
   "sources": [
@@ -1257,9 +1362,21 @@
       "label": "Official festival programme",
       "url": "https://www.voicemania.at/programm-2026.html",
       "note": "The festival programme and downloadable timetable confirm Balcanto’s outdoor performances and closing concert, with dates, venues, hours and free admission."
+    },
+    {
+      "name": "Ehrbar Saal",
+      "label": "Official venue programme",
+      "url": "https://ehrbarsaal.at/konzerte-und-tickets/",
+      "note": "Individual concert pages confirm dates, venues, programmes and free admission; the Alma Rosé concert requires a free ticket."
+    },
+    {
+      "name": "Stadtteilmanagement Seestadt aspern",
+      "label": "Official organiser programme",
+      "url": "https://www.aspern-seestadt.at/seelightnight",
+      "note": "Confirms SeeLightNight’s date, hours, location, free entry and performance programme."
     }
   ],
   "statusNotes": [
-    "The Comedy Pub listings could not be rechecked; previous checked dates are retained. Some city event pages were unavailable. External booking availability remains unverified for American Improv; see individual listings."
+    "The Comedy Pub pages could not be rechecked; previous checked dates are retained. Live booking availability remains unverified for American Improv and the Alma Rosé concert. Other listings show their latest source-check dates."
   ]
 }
