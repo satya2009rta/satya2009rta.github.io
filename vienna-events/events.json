@@ -1,55 +1,23 @@
 {
   "schemaVersion": 1,
-  "revision": "ebcf8a32-6a54-48c1-9c62-5d777b2772e2",
-  "updatedAt": "2026-10-26T07:02:20.000Z",
-  "lastScanAt": "2026-10-26T07:02:20.000Z",
+  "revision": "a2d52d89-81c5-4281-b94c-a1c12929d773",
+  "updatedAt": "2026-10-27T07:01:36.000Z",
+  "lastScanAt": "2026-10-27T07:01:36.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-26: Searched the next 60 days through 25 December and Indian performances/celebrations through February 2027. Public search, organiser, venue, city and booking pages supplied partial coverage.",
-    "Added SeeLightNight (12 November), Gioiello Ensemble (8 November), Alma Rosé memorial concert (3 November, free ticket required; live availability unverified), and the explicitly published Vintage Vintage date (7 November, preserving its established ID).",
-    "Added seven explicitly published occurrences to existing Charlie P’s records: Bits & Bites on 2 and 9 November; Medical Tuesday on 3 and 10 November; Just for Kicks on 4 November; karaoke on 5 November; Happy Friday on 6 November. No dates inferred from recurrence. The Halloween page now names DJ Soluka.",
-    "Removed the completed DJ Soluka occurrence, which ended early on 26 October, and the completed 25 October Am Himmel occurrence. Rechecked Am Himmel, Glow, Karawoke, UTSAV, Prater Halloween, the 28 October American Improv page and the six retained Charlie P’s records.",
-    "The Comedy Pub’s three individual pages could not be accessed. Their existing checked dates are unchanged. Other retained sources not rechecked also retain their dates. American Improv still displays a waiting-list notice and external Meetup booking; Meetup availability was not verified.",
-    "Alma Rosé Eventjet page loaded without usable live inventory; the venue explicitly confirms free entry with admission tickets. Ein Song für Wien is talks/workshops rather than a concert and was excluded. TU Wien Diwali programme remains under construction and admission terms are unverified, so it was not added.",
-    "Cinema/theatre, Indian touring and nearby/fireworks searches yielded no additional fully verified matches. Viennale’s event directory did not expose useful admission information; no listings were inferred. No claim of complete coverage."
+    "2026-10-27: Searched upcoming entertainment through 26 December and Indian events/touring performances through February 2027. Public organiser, venue, city and booking sources supplied partial coverage.",
+    "Added two verified Wintermarkt concerts: Wurstfabrik, 29 November 19:00–20:30, and mdw Salsa Ensemble, 2 December 16:00–17:00. Individual official event pages confirm dates, times and free admission. Followed the old Wurstfabrik page’s link to the current 2026 event; no old-year details inferred.",
+    "Removed completed Am Himmel and Icebreakers records, and the completed 26 October occurrence of Bits & Bites, while preserving its stable ID and published November dates. Rechecked the seven remaining Charlie P’s records, Glow, Prater Halloween and American Improv’s 28 October booking page.",
+    "The two retained Comedy Pub individual pages were inaccessible; their previous checked dates are unchanged. The city International Advent Singing page returned 500 twice; did not add it from search excerpts alone. All other unrechecked future sources retain their previous checked dates.",
+    "American Improv still displays a waiting list and an external Meetup link; Meetup inventory was not verified. Previously recorded Alma Rosé booking caveat is retained; no live inventory recheck was made today.",
+    "Indian searches identified TU Wien Diwali and Sivananda leads. Sivananda’s organiser page restricts participation to pupils/members and uses donation-based admission; it was not added. TU Wien and Imperial brunch were not newly verified today. No unsupported prices or public-admission claims were inferred.",
+    "Searches for free English cinema/theatre, Indian touring artists, parties, fireworks and exceptional nearby events yielded no further fully verified additions. AERA’s LOL Vienna page did not establish free entry. No claim of complete coverage."
   ],
   "events": [
-    {
-      "id": "am-himmel",
-      "title": "Kürbisfest Am Himmel",
-      "subtitle": "An autumn escape above Vienna",
-      "type": "festival",
-      "tags": [
-        "Family-friendly"
-      ],
-      "dates": [
-        "2026-10-26"
-      ],
-      "time": "10:00",
-      "timeEnd": "18:00",
-      "venue": "Am Himmel · Himmelwiese",
-      "address": "Himmelstraße 125, 1190 Wien",
-      "district": "19th · Döbling",
-      "setting": "outdoor",
-      "description": "A pumpkin market, seasonal food and kite-making on the edge of the Vienna Woods.",
-      "details": "Runs on all three days, in all weather. The organiser recommends public transport because parking is limited.",
-      "admission": "Free entry. Food, purchases and optional activities may cost extra.",
-      "language": "No performance language specified; a market and outdoor festival.",
-      "source": "Am Himmel",
-      "url": "https://himmel.at/kuerbisfest/",
-      "checkedOn": "2026-10-26",
-      "indian": false,
-      "area": "vienna",
-      "priceEur": 0,
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "timeEndDayOffset": 0,
-      "availability": "See original page"
-    },
     {
       "id": "city-jam",
       "title": "City Jam",
@@ -105,7 +73,7 @@
       "language": "Performance language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -316,7 +284,6 @@
         "English"
       ],
       "dates": [
-        "2026-10-26",
         "2026-11-02",
         "2026-11-09"
       ],
@@ -337,7 +304,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -369,7 +336,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -402,7 +369,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -435,7 +402,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -467,7 +434,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -532,7 +499,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -566,43 +533,11 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "id": "icebreakers-20261026",
-      "title": "Icebreakers",
-      "subtitle": "English stand-up open mic",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-10-26"
-      ],
-      "time": "20:30",
-      "timeEnd": "22:00",
-      "timeEndDayOffset": 0,
-      "venue": "The Comedy Pub",
-      "address": "Kettenbrückengasse 7, 1050 Wien",
-      "district": "5th · Margareten",
-      "setting": "indoor",
-      "description": "A mix of first-time performers and experienced comics trying new material.",
-      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
-      "admission": "Free admission (€0). Donations are optional.",
-      "language": "English, confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "The Comedy Pub",
-      "url": "https://www.thecomedypub.at/events/open-mic-icebreakers/",
-      "checkedOn": "2026-10-22",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Ticket availability not verified; see venue booking link"
     },
     {
       "id": "local-legends-20261027",
@@ -674,7 +609,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1184,7 +1119,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-27",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1288,6 +1223,70 @@
       "description": "An evening of illuminated dance, a DJ, choir music and projections around the Seestadt lake.",
       "details": "A closing light scene is scheduled for 19:55–20:00. The wider programme also includes a reading and hands-on activities.",
       "url": "https://www.aspern-seestadt.at/seelightnight"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Wintermarkt"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-27",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "source": "Wintermarkt Prater Wien",
+      "language": "Song and hosting languages are not specified.",
+      "id": "mdw-salsa-20261202",
+      "title": "mdw Salsa Ensemble",
+      "subtitle": "Pop-up Advent concert",
+      "dates": [
+        "2026-12-02"
+      ],
+      "time": "16:00",
+      "timeEnd": "17:00",
+      "description": "The mdw Salsa Ensemble brings Latin rhythms to the winter stage beneath the Giant Ferris Wheel.",
+      "details": "Part of mdw’s pop-up Advent calendar, with performances around Vienna.",
+      "url": "https://www.wintermarkt.at/en/events/details/pop-up-advent-calendarmdw-salsa-ensembe-2026/"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Wintermarkt"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-10-27",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "source": "Wintermarkt Prater Wien",
+      "language": "Austropop songs; spoken hosting language is not specified.",
+      "id": "wurstfabrik-20261129",
+      "title": "Wurstfabrik",
+      "subtitle": "Austropop at Riesenradplatz",
+      "dates": [
+        "2026-11-29"
+      ],
+      "time": "19:00",
+      "timeEnd": "20:30",
+      "description": "A six-piece band plays Austrian pop spanning Wolfgang Ambros, Falco, Wanda and Bilderbuch.",
+      "details": "An outdoor concert in the Wintermarkt programme.",
+      "url": "https://www.wintermarkt.at/en/events/details/wurstfabrik-1-2026/"
     }
   ],
   "sources": [
@@ -1377,6 +1376,6 @@
     }
   ],
   "statusNotes": [
-    "The Comedy Pub pages could not be rechecked; previous checked dates are retained. Live booking availability remains unverified for American Improv and the Alma Rosé concert. Other listings show their latest source-check dates."
+    "The Comedy Pub pages and a city event page could not be rechecked. Previous checked dates are retained for unrechecked listings. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
   ]
 }
