@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "revision": "a2d52d89-81c5-4281-b94c-a1c12929d773",
-  "updatedAt": "2026-10-27T07:01:36.000Z",
-  "lastScanAt": "2026-10-27T07:01:36.000Z",
+  "revision": "f43f66d6-5a9c-4a95-9151-70ff08e8cfb9",
+  "updatedAt": "2026-10-28T07:05:33.000Z",
+  "lastScanAt": "2026-10-28T07:05:33.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-27: Searched upcoming entertainment through 26 December and Indian events/touring performances through February 2027. Public organiser, venue, city and booking sources supplied partial coverage.",
-    "Added two verified Wintermarkt concerts: Wurstfabrik, 29 November 19:00–20:30, and mdw Salsa Ensemble, 2 December 16:00–17:00. Individual official event pages confirm dates, times and free admission. Followed the old Wurstfabrik page’s link to the current 2026 event; no old-year details inferred.",
-    "Removed completed Am Himmel and Icebreakers records, and the completed 26 October occurrence of Bits & Bites, while preserving its stable ID and published November dates. Rechecked the seven remaining Charlie P’s records, Glow, Prater Halloween and American Improv’s 28 October booking page.",
-    "The two retained Comedy Pub individual pages were inaccessible; their previous checked dates are unchanged. The city International Advent Singing page returned 500 twice; did not add it from search excerpts alone. All other unrechecked future sources retain their previous checked dates.",
-    "American Improv still displays a waiting list and an external Meetup link; Meetup inventory was not verified. Previously recorded Alma Rosé booking caveat is retained; no live inventory recheck was made today.",
-    "Indian searches identified TU Wien Diwali and Sivananda leads. Sivananda’s organiser page restricts participation to pupils/members and uses donation-based admission; it was not added. TU Wien and Imperial brunch were not newly verified today. No unsupported prices or public-admission claims were inferred.",
-    "Searches for free English cinema/theatre, Indian touring artists, parties, fireworks and exceptional nearby events yielded no further fully verified additions. AERA’s LOL Vienna page did not establish free entry. No claim of complete coverage."
+    "2026-10-28: Searched upcoming entertainment through 27 December and Indian touring/cultural events through February 2027. Public search and primary organiser/venue/booking pages supplied partial coverage.",
+    "Added the Perchten Parade at Riesenradplatz on 29 November at 17:00. The official organiser page confirms the date, free entry, fenced viewing arrangements and expected 220-plus masks. Finishing time is unpublished.",
+    "Removed the completed Local Legends record and 27 October occurrences of Prater Halloween and Medical Tuesday; stable IDs and later occurrences are preserved. Rechecked the seven Charlie P’s records, Glow, Karawoke, Prater Halloween and tonight’s American Improv page. Other retained records keep their previous checked dates.",
+    "The Light at the End official page was inaccessible. Margaretner Christmas concert and the city autumn directory returned 500 errors. Kept the future Comedy Pub record with its previous checked date; did not add city events from search excerpts alone.",
+    "Discovered Bhajan Clubbing Austria on 1 November (Bollywood With Shalini / VAYU) through an organiser Eventbrite listing. Repeated direct booking-page reads failed, including a 429 rate-limit response. Eventbrite directory excerpts differ on minimum price (EUR 10.79 versus EUR 20.38), and current ticket categories/fees and full venue address were not confirmed; deferred rather than guessing. Recheck this lead next run.",
+    "TU Wien Diwali search excerpts and the fetched German organiser page differ on whether the programme is published. Admission remains unverified, and the indexed programme largely describes opening remarks and networking; no event added.",
+    "Further searches covered free English cinema/theatre/comedy, parties, concerts/festivals, nearby events and fireworks. Free film/art leads did not establish dialogue language and were not added. No claim of complete coverage."
   ],
   "events": [
     {
@@ -73,7 +73,7 @@
       "language": "Performance language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -106,7 +106,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-28",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -304,7 +304,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -336,7 +336,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -369,7 +369,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -402,7 +402,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -434,7 +434,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -499,7 +499,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -514,7 +514,6 @@
         "Party"
       ],
       "dates": [
-        "2026-10-27",
         "2026-11-03",
         "2026-11-10"
       ],
@@ -533,43 +532,11 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "id": "local-legends-20261027",
-      "title": "Local Legends",
-      "subtitle": "English stand-up showcase",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-10-27"
-      ],
-      "time": "20:30",
-      "timeEnd": "22:00",
-      "timeEndDayOffset": 0,
-      "venue": "The Comedy Pub",
-      "address": "Kettenbrückengasse 7, 1050 Wien",
-      "district": "5th · Margareten",
-      "setting": "indoor",
-      "description": "A showcase of local comedians performing longer, developed sets.",
-      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
-      "admission": "Free admission (€0). Donations are optional.",
-      "language": "English, confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "The Comedy Pub",
-      "url": "https://www.thecomedypub.at/events/showcase-local-legends/",
-      "checkedOn": "2026-10-22",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Ticket availability not verified; see venue booking link"
     },
     {
       "id": "light-at-the-end-20261028",
@@ -609,7 +576,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -621,7 +588,6 @@
       "subtitle": "Five afternoons of Halloween fun",
       "type": "festival",
       "dates": [
-        "2026-10-27",
         "2026-10-28",
         "2026-10-29",
         "2026-10-30",
@@ -1119,7 +1085,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-27",
+      "checkedOn": "2026-10-28",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1287,6 +1253,39 @@
       "description": "A six-piece band plays Austrian pop spanning Wolfgang Ambros, Falco, Wanda and Bilderbuch.",
       "details": "An outdoor concert in the Wintermarkt programme.",
       "url": "https://www.wintermarkt.at/en/events/details/wurstfabrik-1-2026/"
+    },
+    {
+      "id": "perchten-parade-20261129",
+      "title": "Perchten Parade",
+      "subtitle": "Masks and folklore in the Prater",
+      "type": "festival",
+      "tags": [
+        "Wintermarkt",
+        "Parade"
+      ],
+      "dates": [
+        "2026-11-29"
+      ],
+      "time": "17:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Wintermarkt · Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "setting": "outdoor",
+      "description": "More than 220 elaborate masks are expected at the Prater’s traditional Perchten parade.",
+      "details": "The organiser describes this as a family-friendly parade, though the costumes can be frightening. Watch from the fenced viewing areas and leave front spots for children and visitors needing assistance. Finishing time is not published.",
+      "admission": "Free entry. Optional food, drinks and rides cost extra.",
+      "language": "Spoken hosting language is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Wintermarkt Prater Wien",
+      "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
+      "checkedOn": "2026-10-28",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See original page"
     }
   ],
   "sources": [
@@ -1376,6 +1375,6 @@
     }
   ],
   "statusNotes": [
-    "The Comedy Pub pages and a city event page could not be rechecked. Previous checked dates are retained for unrechecked listings. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
+    "The Comedy Pub page, some city pages and a booking page could not be read. Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
   ]
 }
