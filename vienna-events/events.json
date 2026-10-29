@@ -1,21 +1,20 @@
 {
   "schemaVersion": 1,
-  "revision": "f43f66d6-5a9c-4a95-9151-70ff08e8cfb9",
-  "updatedAt": "2026-10-28T07:05:33.000Z",
-  "lastScanAt": "2026-10-28T07:05:33.000Z",
+  "revision": "32ee4c80-056a-45d9-b4eb-3ba9ca05c996",
+  "updatedAt": "2026-10-29T06:58:24.000Z",
+  "lastScanAt": "2026-10-29T06:58:24.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-28: Searched upcoming entertainment through 27 December and Indian touring/cultural events through February 2027. Public search and primary organiser/venue/booking pages supplied partial coverage.",
-    "Added the Perchten Parade at Riesenradplatz on 29 November at 17:00. The official organiser page confirms the date, free entry, fenced viewing arrangements and expected 220-plus masks. Finishing time is unpublished.",
-    "Removed the completed Local Legends record and 27 October occurrences of Prater Halloween and Medical Tuesday; stable IDs and later occurrences are preserved. Rechecked the seven Charlie P’s records, Glow, Karawoke, Prater Halloween and tonight’s American Improv page. Other retained records keep their previous checked dates.",
-    "The Light at the End official page was inaccessible. Margaretner Christmas concert and the city autumn directory returned 500 errors. Kept the future Comedy Pub record with its previous checked date; did not add city events from search excerpts alone.",
-    "Discovered Bhajan Clubbing Austria on 1 November (Bollywood With Shalini / VAYU) through an organiser Eventbrite listing. Repeated direct booking-page reads failed, including a 429 rate-limit response. Eventbrite directory excerpts differ on minimum price (EUR 10.79 versus EUR 20.38), and current ticket categories/fees and full venue address were not confirmed; deferred rather than guessing. Recheck this lead next run.",
-    "TU Wien Diwali search excerpts and the fetched German organiser page differ on whether the programme is published. Admission remains unverified, and the indexed programme largely describes opening remarks and networking; no event added.",
-    "Further searches covered free English cinema/theatre/comedy, parties, concerts/festivals, nearby events and fireworks. Free film/art leads did not establish dialogue language and were not added. No claim of complete coverage."
+    "2026-10-29: Searched the next 60 days through 28 December and Indian touring/cultural events through February 2027. Coverage is partial. No newly suitable events were fully verified today.",
+    "Removed completed Glow, American Improv’s 28 October record and The Light at the End, and removed the completed 28 October occurrences of Just for Kicks and Prater Halloween. Stable IDs and future occurrences are preserved.",
+    "Rechecked seven Charlie P’s records, Karawoke, Prater Halloween, six MQ winter listings and three mdw Early Music concerts. Dates, admission and venues remain consistent. MQ opening-time caveat is retained. Other future records keep their previous checked dates.",
+    "Retried Bhajan Clubbing Austria, 1 November at NordbahnSaal (Bruno-Marek-Allee 5, 1020 Wien), using the organiser’s Eventbrite event and profile. Search supplied the organiser’s advertised EUR 20.38 starting price, but direct event/profile pages returned 429 and live categories/mandatory fees were not verifiable; still deferred. Prior excerpts varied on starting prices. Keep this lead for another attempt before 1 November.",
+    "The city International Advent Singing page returned 500; no listing added from excerpts alone. Blickle Cinema’s official page confirms free admission generally but exposed no dated programme with confirmed dialogue language. Other cinema/theatre and nearby/fireworks searches yielded no further fully verified additions.",
+    "Wintermarkt’s directory was checked and supplied no new visible listings beyond retained records. No recurring dates inferred. Booking availability for American Improv’s future dates and Alma Rosé was not rechecked and existing caveats are retained."
   ],
   "events": [
     {
@@ -51,38 +50,6 @@
       "availability": "See original page"
     },
     {
-      "id": "glow",
-      "title": "Glow, Speed, Moisture",
-      "subtitle": "Marianna Angel × Katharina Höglinger",
-      "type": "music",
-      "tags": [
-        "Performance"
-      ],
-      "dates": [
-        "2026-10-28"
-      ],
-      "time": "18:30",
-      "timeEnd": null,
-      "venue": "MQ Raum D",
-      "address": "Museumsplatz 1, 1070 Wien",
-      "district": "7th · Neubau",
-      "setting": "indoor",
-      "description": "An evening of live music and art, centred on a concert by Marianna Angel.",
-      "details": "A collaboration with artist Katharina Höglinger, bringing Angel’s piano, composition and improvisation practice into the gallery.",
-      "admission": "Free admission. Finishing time not published.",
-      "language": "Performance language not specified.",
-      "source": "MuseumsQuartier Wien",
-      "url": "https://www.mqw.at/de/programm/events/mq-raum-d/glow-speed-moisture/20261028-1830/",
-      "checkedOn": "2026-10-28",
-      "indian": false,
-      "area": "vienna",
-      "priceEur": 0,
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "timeEndDayOffset": 0,
-      "availability": "See original page"
-    },
-    {
       "id": "karawoke",
       "title": "Karawoke",
       "subtitle": "A karaoke night with Tayla Myree",
@@ -106,7 +73,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -138,7 +105,7 @@
       "language": "Programme language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/winter-im-mq/winter-in-mq-2026/20261112-1800/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -170,7 +137,7 @@
         "MQ Tunes"
       ],
       "description": "Belle Fin plays the free winter music series at MuseumsQuartier.",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -202,7 +169,7 @@
         "MQ Tunes"
       ],
       "description": "A free courtyard set from soulparlez, part of the winter programme.",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -234,7 +201,7 @@
         "MQ Tunes"
       ],
       "description": "Catch Skofi at the MQ’s free Wednesday music series.",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -266,7 +233,7 @@
         "MQ Tunes"
       ],
       "description": "An outdoor evening with RUHMER in the MQ courtyard.",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -304,43 +271,11 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "Reservation recommended"
-    },
-    {
-      "id": "american-improv-20261028",
-      "title": "American Improv · Stage Time",
-      "subtitle": "Free English improv comedy",
-      "type": "comedy",
-      "tags": [
-        "Waiting list"
-      ],
-      "dates": [
-        "2026-10-28"
-      ],
-      "time": "19:30",
-      "timeEnd": "20:30",
-      "timeEndDayOffset": 0,
-      "venue": "Café Aera",
-      "address": "Gonzagagasse 11, 1010 Wien",
-      "district": "1st · Innere Stadt",
-      "setting": "indoor",
-      "description": "Spontaneous comedy scenes made up from audience suggestions, performed by the American Improv community.",
-      "details": "YesTicket displays a waiting-list notice and directs bookings to Meetup. Live availability on Meetup has not been verified; a seat is not guaranteed.",
-      "admission": "Free for audience members. Waiting-list notice shown; follow the external booking link.",
-      "language": "English, explicitly confirmed by the organiser.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "American Improv",
-      "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-28-10-26/",
-      "checkedOn": "2026-10-28",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Waiting list shown; external booking — places unverified"
     },
     {
       "id": "just-kicks",
@@ -351,7 +286,6 @@
         "Party"
       ],
       "dates": [
-        "2026-10-28",
         "2026-11-04"
       ],
       "time": "21:00",
@@ -369,7 +303,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -402,7 +336,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -434,7 +368,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -499,7 +433,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -532,43 +466,11 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "id": "light-at-the-end-20261028",
-      "title": "The Light at the End",
-      "subtitle": "English stand-up open mic",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-10-28"
-      ],
-      "time": "20:30",
-      "timeEnd": "22:00",
-      "timeEndDayOffset": 0,
-      "venue": "The Comedy Pub",
-      "address": "Kettenbrückengasse 7, 1050 Wien",
-      "district": "5th · Margareten",
-      "setting": "indoor",
-      "description": "An English open mic featuring new jokes and developing performers.",
-      "details": "Doors 20:00; show 20:30. Finish is approximate. The venue links to ticket booking; live ticket availability could not be checked.",
-      "admission": "Free admission (€0). Donations are optional.",
-      "language": "English, confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "The Comedy Pub",
-      "url": "https://www.thecomedypub.at/events/the-light-at-the-end/",
-      "checkedOn": "2026-10-22",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Ticket availability not verified; see venue booking link"
     },
     {
       "tags": [
@@ -576,7 +478,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -588,7 +490,6 @@
       "subtitle": "Five afternoons of Halloween fun",
       "type": "festival",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31"
@@ -675,7 +576,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -707,7 +608,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -739,7 +640,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -868,7 +769,7 @@
         "MQ Tunes"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1085,7 +986,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-28",
+      "checkedOn": "2026-10-29",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1375,6 +1276,6 @@
     }
   ],
   "statusNotes": [
-    "The Comedy Pub page, some city pages and a booking page could not be read. Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
+    "A city event page and Eventbrite booking pages could not be read. Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
   ]
 }
