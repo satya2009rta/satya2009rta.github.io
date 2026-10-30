@@ -1,20 +1,22 @@
 {
   "schemaVersion": 1,
-  "revision": "32ee4c80-056a-45d9-b4eb-3ba9ca05c996",
-  "updatedAt": "2026-10-29T06:58:24.000Z",
-  "lastScanAt": "2026-10-29T06:58:24.000Z",
+  "revision": "15ee65ff-dd20-4047-a786-a27da0af1f1a",
+  "updatedAt": "2026-10-30T07:00:11.000Z",
+  "lastScanAt": "2026-10-30T07:00:11.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-29: Searched the next 60 days through 28 December and Indian touring/cultural events through February 2027. Coverage is partial. No newly suitable events were fully verified today.",
-    "Removed completed Glow, American Improv’s 28 October record and The Light at the End, and removed the completed 28 October occurrences of Just for Kicks and Prater Halloween. Stable IDs and future occurrences are preserved.",
-    "Rechecked seven Charlie P’s records, Karawoke, Prater Halloween, six MQ winter listings and three mdw Early Music concerts. Dates, admission and venues remain consistent. MQ opening-time caveat is retained. Other future records keep their previous checked dates.",
-    "Retried Bhajan Clubbing Austria, 1 November at NordbahnSaal (Bruno-Marek-Allee 5, 1020 Wien), using the organiser’s Eventbrite event and profile. Search supplied the organiser’s advertised EUR 20.38 starting price, but direct event/profile pages returned 429 and live categories/mandatory fees were not verifiable; still deferred. Prior excerpts varied on starting prices. Keep this lead for another attempt before 1 November.",
-    "The city International Advent Singing page returned 500; no listing added from excerpts alone. Blickle Cinema’s official page confirms free admission generally but exposed no dated programme with confirmed dialogue language. Other cinema/theatre and nearby/fireworks searches yielded no further fully verified additions.",
-    "Wintermarkt’s directory was checked and supplied no new visible listings beyond retained records. No recurring dates inferred. Booking availability for American Improv’s future dates and Alma Rosé was not rechecked and existing caveats are retained."
+    "2026-10-30: Searched upcoming entertainment through 29 December and Indian touring/cultural events through 27 February 2027. Coverage is partial. Added the newly verified Hufak film screening on 4 November at Fortuna Kino; the university announcement explicitly confirms free admission and German films with English subtitles.",
+    "Removed the completed 29 October occurrences of Rock’n’Roll Karaoke and Prater Halloween. Preserved stable IDs and all future occurrences.",
+    "Rechecked all seven Charlie P’s records, Karawoke, Prater Halloween, UTSAV and both Balcanto records. Their retained dates, times, admission and venue information remain consistent. Balcanto’s detail page initially failed but was read successfully by following the festival programme link. Other future records keep their previous checked dates.",
+    "Bhajan Clubbing Austria remains a lead for 1 November, 16:00–18:30 at NordbahnSaal, Bruno-Marek-Allee 5, 1020 Wien, organised by Bollywood With Shalini. Eventbrite event and organiser profile both returned 429. Public search excerpts again supplied a EUR 10.79 lead while the previous scan found EUR 20.38; live ticket categories and mandatory fees could not be verified, so no event was added.",
+    "City detail pages for Konzert zum Nikolaustag and Margaretner Weihnachtskonzert returned 500. Both remain unverified leads; no additions were made from search excerpts alone.",
+    "Filmakademie Wien’s Werkschau programme was accessible and confirms free screenings, but the required film-language/subtitle information was not published there. Its party location and programme are still to be announced. Dialogbüro Vienna’s Self-Portrait screening page was read after an initial timeout; its event is labelled English, but film-specific subtitles were not explicitly stated. DALA’s page did not explicitly confirm admission. These leads were not added.",
+    "MQ’s winter overview and Tunes directory were read, but individual MQ winter concert pages were not rechecked today. No additional performance dates were inferred. Wider cinema, theatre, Indian entertainment and nearby-event searches produced no other fully verified additions.",
+    "Live booking availability for American Improv’s future shows and the Alma Rosé concert was not rechecked; their existing caveats remain."
   ],
   "events": [
     {
@@ -73,7 +75,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -271,7 +273,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -303,7 +305,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -336,7 +338,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -368,7 +370,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -400,7 +402,7 @@
       "languageCode": "not-needed",
       "source": "MeinBezirk · community announcement",
       "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": true,
       "area": "vienna",
@@ -415,7 +417,6 @@
         "Party"
       ],
       "dates": [
-        "2026-10-29",
         "2026-11-05"
       ],
       "time": "21:30",
@@ -433,7 +434,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -466,7 +467,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -478,7 +479,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -490,7 +491,6 @@
       "subtitle": "Five afternoons of Halloween fun",
       "type": "festival",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31"
       ],
@@ -801,7 +801,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -835,7 +835,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -986,7 +986,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-10-30",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1187,6 +1187,38 @@
       "indian": false,
       "area": "vienna",
       "availability": "See original page"
+    },
+    {
+      "id": "hufak-screening-20261104",
+      "title": "Hufak film screening",
+      "subtitle": "Maraude & Nördlich von Libyen",
+      "type": "film",
+      "tags": [
+        "Documentary"
+      ],
+      "dates": [
+        "2026-11-04"
+      ],
+      "time": "20:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Fortuna Kino",
+      "address": "Favoritenstraße 147, 1100 Wien",
+      "district": "10th · Favoriten",
+      "setting": "indoor",
+      "description": "Two documentaries explore different approaches to helping refugees.",
+      "details": "Hufak presents Anna Mielke’s Maraude (11 minutes) and Luise Müller’s Nördlich von Libyen (60 minutes). The screening launches a separate material-donation collection for SOS Balkanroute. Finishing time is not published.",
+      "admission": "Free admission.",
+      "language": "Both films are in German with English subtitles.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Universität für angewandte Kunst Wien",
+      "url": "https://www.dieangewandte.at/en/news/detail?artikel_id=1793072537769",
+      "checkedOn": "2026-10-30",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See organiser’s announcement"
     }
   ],
   "sources": [
@@ -1273,9 +1305,16 @@
       "label": "Official organiser programme",
       "url": "https://www.aspern-seestadt.at/seelightnight",
       "note": "Confirms SeeLightNight’s date, hours, location, free entry and performance programme."
+    },
+    {
+      "name": "Universität für angewandte Kunst Wien",
+      "label": "Official university event announcement",
+      "url": "https://www.dieangewandte.at/en/news/detail?artikel_id=1793072537769",
+      "note": "Confirms Hufak’s screening date, time, venue, free admission and English subtitles for both films."
     }
   ],
   "statusNotes": [
-    "A city event page and Eventbrite booking pages could not be read. Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
+    "Eventbrite booking pages and two city event pages could not be read.",
+    "Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
   ]
 }
