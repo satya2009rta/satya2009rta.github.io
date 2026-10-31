@@ -1,22 +1,20 @@
 {
   "schemaVersion": 1,
-  "revision": "15ee65ff-dd20-4047-a786-a27da0af1f1a",
-  "updatedAt": "2026-10-30T07:00:11.000Z",
-  "lastScanAt": "2026-10-30T07:00:11.000Z",
+  "revision": "0c160495-4b18-445a-a2a5-a07b8fcaf8db",
+  "updatedAt": "2026-10-31T07:03:34.000Z",
+  "lastScanAt": "2026-10-31T07:03:34.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-10-30: Searched upcoming entertainment through 29 December and Indian touring/cultural events through 27 February 2027. Coverage is partial. Added the newly verified Hufak film screening on 4 November at Fortuna Kino; the university announcement explicitly confirms free admission and German films with English subtitles.",
-    "Removed the completed 29 October occurrences of Rock’n’Roll Karaoke and Prater Halloween. Preserved stable IDs and all future occurrences.",
-    "Rechecked all seven Charlie P’s records, Karawoke, Prater Halloween, UTSAV and both Balcanto records. Their retained dates, times, admission and venue information remain consistent. Balcanto’s detail page initially failed but was read successfully by following the festival programme link. Other future records keep their previous checked dates.",
-    "Bhajan Clubbing Austria remains a lead for 1 November, 16:00–18:30 at NordbahnSaal, Bruno-Marek-Allee 5, 1020 Wien, organised by Bollywood With Shalini. Eventbrite event and organiser profile both returned 429. Public search excerpts again supplied a EUR 10.79 lead while the previous scan found EUR 20.38; live ticket categories and mandatory fees could not be verified, so no event was added.",
-    "City detail pages for Konzert zum Nikolaustag and Margaretner Weihnachtskonzert returned 500. Both remain unverified leads; no additions were made from search excerpts alone.",
-    "Filmakademie Wien’s Werkschau programme was accessible and confirms free screenings, but the required film-language/subtitle information was not published there. Its party location and programme are still to be announced. Dialogbüro Vienna’s Self-Portrait screening page was read after an initial timeout; its event is labelled English, but film-specific subtitles were not explicitly stated. DALA’s page did not explicitly confirm admission. These leads were not added.",
-    "MQ’s winter overview and Tunes directory were read, but individual MQ winter concert pages were not rechecked today. No additional performance dates were inferred. Wider cinema, theatre, Indian entertainment and nearby-event searches produced no other fully verified additions.",
-    "Live booking availability for American Improv’s future shows and the Alma Rosé concert was not rechecked; their existing caveats remain."
+    "2026-10-31: Searched upcoming entertainment through 30 December and Indian touring/cultural events through 28 February 2027. Coverage is partial. Added Silent Ecologies (29 November, 15:00–18:00) and Party Modern (29 November, 18:00–21:30) after reading MUK’s individual organiser pages; both confirm free admission and limited places.",
+    "Removed completed 30 October occurrences of Happy Friday and Prater Halloween. Preserved stable IDs and future dates. Rechecked seven Charlie P’s records, Prater Halloween and Karawoke against accessible venue/organiser pages; no additional dates inferred.",
+    "The Alma Rosé venue page was inaccessible, but its linked Eventjet organiser booking listing confirms 3 November, 19:00–21:00, Ehrbar Saal and EUR 0 tickets. Added the published finishing time. The seat-map page exposes no readable live availability, so the booking caveat and prior venue-page checked date are retained.",
+    "American Improv’s YesTicket page and Bhajan Clubbing Austria’s Eventbrite event page were inaccessible. Bhajan Clubbing remains an unlisted 1 November lead at NordbahnSaal: current live prices and mandatory fees could not be verified. Prior search excerpts disagreed on starting price. No paid listing was added from incomplete booking information.",
+    "Read 48er-Tandler’s 12 November Pandora’s Box screening announcement, which confirms free entry but does not specify English intertitles/subtitles. Not added. Wider cinema/theatre, Indian touring and nearby/fireworks searches yielded no other fully verified additions. No nearby travel was assumed.",
+    "All other future records retain their prior checked dates. MQ winter directory and press search results were reviewed but individual winter concert sources were not rechecked. Public JSON readback was unverified in the preceding run; this update will be checked again after the Pages build."
   ],
   "events": [
     {
@@ -75,7 +73,7 @@
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -273,7 +271,7 @@
       "url": "https://www.charlieps.at/en/events",
       "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
       "extraLabel": "Comedy programme",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -305,7 +303,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -320,7 +318,6 @@
         "Party"
       ],
       "dates": [
-        "2026-10-30",
         "2026-11-06"
       ],
       "time": "22:00",
@@ -338,7 +335,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -370,7 +367,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -434,7 +431,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -467,7 +464,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -479,7 +476,7 @@
         "Halloween"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -491,7 +488,6 @@
       "subtitle": "Five afternoons of Halloween fun",
       "type": "festival",
       "dates": [
-        "2026-10-30",
         "2026-10-31"
       ],
       "time": "14:00",
@@ -986,7 +982,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-10-31",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1029,7 +1025,7 @@
       "tags": [
         "Classical"
       ],
-      "timeEnd": null,
+      "timeEnd": "21:00",
       "timeEndDayOffset": 0,
       "checkedOn": "2026-10-26",
       "priceEur": 0,
@@ -1053,7 +1049,7 @@
       ],
       "time": "19:00",
       "description": "A concert honouring Alma Rosé, featuring the Alma Rosé Quartet and baritone Simon Wallfisch.",
-      "details": "A free admission ticket is required through Eventjet. Live ticket availability could not be confirmed. Finishing time is not published.",
+      "details": "A free admission ticket is required through Eventjet. The booking listing gives a 21:00 finishing time; live seat availability could not be confirmed.",
       "url": "https://ehrbarsaal.at/konzerte/alma-rose-2/",
       "extraUrl": "https://events.eventjet.at/e/gedenkkonzert-alma-rose/",
       "extraLabel": "Free ticket booking"
@@ -1219,6 +1215,70 @@
       "indian": false,
       "area": "vienna",
       "availability": "See organiser’s announcement"
+    },
+    {
+      "dates": [
+        "2026-11-29"
+      ],
+      "type": "music",
+      "tags": [
+        "Wien Modern"
+      ],
+      "timeEndDayOffset": 0,
+      "venue": "Otto Wagner Areal · Pavillon 10",
+      "address": "Baumgartner Höhe 1, 1140 Wien",
+      "district": "14th · Penzing",
+      "setting": "indoor",
+      "admission": "Free admission. Places are limited.",
+      "language": "Performance and hosting languages are not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "checkedOn": "2026-10-31",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Limited capacity; see organiser’s page",
+      "source": "MUK · Musik und Kunst Privatuniversität der Stadt Wien",
+      "id": "silent-ecologies-20261129",
+      "title": "Silent Ecologies",
+      "subtitle": "Contemporary music at the Otto Wagner Areal",
+      "time": "15:00",
+      "timeEnd": "18:00",
+      "description": "MUK musicians turn Pavilion 10 into an acoustic landscape of contemporary compositions and improvisation.",
+      "details": "Curated by Helga Arias for Wien Modern and MUK. The concert flows into Party Modern at 18:00.",
+      "url": "https://muk.ac.at/veranstaltung/mukowa-x-wien-modern-silent-ecologies.html"
+    },
+    {
+      "dates": [
+        "2026-11-29"
+      ],
+      "type": "music",
+      "tags": [
+        "Wien Modern"
+      ],
+      "timeEndDayOffset": 0,
+      "venue": "Otto Wagner Areal · Pavillon 10",
+      "address": "Baumgartner Höhe 1, 1140 Wien",
+      "district": "14th · Penzing",
+      "setting": "indoor",
+      "admission": "Free admission. Places are limited.",
+      "language": "Performance and hosting languages are not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "checkedOn": "2026-10-31",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "Limited capacity; see organiser’s page",
+      "source": "MUK · Musik und Kunst Privatuniversität der Stadt Wien",
+      "id": "party-modern-20261129",
+      "title": "Party Modern · MUK@OWA",
+      "subtitle": "Electronics, improvisation and beats",
+      "time": "18:00",
+      "timeEnd": "21:30",
+      "description": "An evening of electronic music, ambient sounds, turntablism and live improvisation.",
+      "details": "Follows Silent Ecologies in the same pavilion. Performers include Veronica Klavžar on electric harp, DUSKND on hyperflute, and MUK students and teachers.",
+      "url": "https://muk.ac.at/veranstaltung/party-modern-muk-at-owa.html"
     }
   ],
   "sources": [
@@ -1311,10 +1371,16 @@
       "label": "Official university event announcement",
       "url": "https://www.dieangewandte.at/en/news/detail?artikel_id=1793072537769",
       "note": "Confirms Hufak’s screening date, time, venue, free admission and English subtitles for both films."
+    },
+    {
+      "name": "MUK · Musik und Kunst Privatuniversität der Stadt Wien",
+      "label": "Official university organiser programme",
+      "url": "https://muk.ac.at/veranstaltung/mukowa-x-wien-modern-silent-ecologies.html",
+      "note": "Individual event pages confirm Silent Ecologies and Party Modern dates, hours, venue, performers, free admission and limited capacity."
     }
   ],
   "statusNotes": [
-    "Eventbrite booking pages and two city event pages could not be read.",
-    "Unrechecked listings retain their previous checked dates. Live booking availability remains unverified for American Improv and the Alma Rosé concert."
+    "Some organiser and booking pages could not be read. Unrechecked listings retain their previous checked dates.",
+    "Live booking availability remains unverified for American Improv and the Alma Rosé concert."
   ]
 }
