@@ -9,3 +9,5 @@ Daily discovery is performed by the existing ChatGPT website-refresh task. After
 Files in this `_maintenance` directory are source maintenance material; Jekyll excludes underscore-prefixed directories from ordinary web output.
 
 Run `node _maintenance/vienna-events/check-catalog.mjs` to validate current data. `node _maintenance/vienna-events/validate.mjs` checks the initial migrated dataset and filter regressions. `node --check vienna-events/app.mjs` checks browser syntax.
+
+Museum visits use the `museum` category. `hoursByWeekday` overrides the displayed and expiry times for the first matching date (0=Sunday). `timeLabel` shows split opening slots. Dates remain explicit and exclude verified closures; no recurrence is generated in the browser. `museumGuide` is a separate undated reference directory. Run `node _maintenance/vienna-events/check-museums.mjs` for museum/date/filter checks. The daily updater reads the saved museum instructions and preserves the directory.

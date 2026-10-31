@@ -1,4 +1,4 @@
-export const eventTypes=['music','festival','dance','film','comedy','theatre','fireworks'];
+export const eventTypes=['music','festival','dance','film','comedy','theatre','fireworks','museum'];
 const dayPattern=/^\d{4}-\d{2}-\d{2}$/;
 const isDay=v=>typeof v==='string'&&dayPattern.test(v)&&new Date(v+'T12:00:00Z').toISOString().slice(0,10)===v;
 const https=v=>{try{const u=new URL(v);return u.protocol==='https:'&&!u.username&&!u.password;}catch{return false;}};
@@ -15,6 +15,11 @@ export function validateCatalog(data,today){
   if(!isDay(e.checkedOn)||e.checkedOn>today)throw new Error(`${e.id}: invalid checked date`);
   if(!/^([01]\d|2[0-3]):[0-5]\d$/.test(e.time)||e.timeEnd&&!/^([01]\d|2[0-3]):[0-5]\d$/.test(e.timeEnd)||![0,1].includes(e.timeEndDayOffset))throw new Error(`${e.id}: invalid time`);
   if(e.timeEnd&&e.timeEnd<=e.time&&e.timeEndDayOffset!==1)throw new Error(`${e.id}: end before start`);
+  if(e.timeLabel!==undefined&&(typeof e.timeLabel!=='string'||e.timeLabel.length>150))throw new Error(`${e.id}: invalid time label`);
+  if(e.hoursByWeekday!==undefined){
+   if(!e.hoursByWeekday||typeof e.hoursByWeekday!=='object'||Array.isArray(e.hoursByWeekday))throw new Error(`${e.id}: invalid opening hours`);
+   for(const [day,hours] of Object.entries(e.hoursByWeekday))if(!/^[0-6]$/.test(day)||!hours||!/^([01]\d|2[0-3]):[0-5]\d$/.test(hours.time)||!/^([01]\d|2[0-3]):[0-5]\d$/.test(hours.timeEnd)||hours.timeEnd<=hours.time)throw new Error(`${e.id}: invalid daily hours`);
+  }
   if(typeof e.indian!=='boolean'||typeof e.languageDependent!=='boolean'||!Number.isFinite(e.priceEur)||e.priceEur<0)throw new Error(`${e.id}: incomplete eligibility`);
   if(e.priceEur>0&&(!e.indian||!e.priceLabel||!e.feesNote||!https(e.bookingUrl)))throw new Error(`${e.id}: paid events must be verified Indian exceptions with price, fees and booking URL`);
   if(['film','comedy','theatre'].includes(e.type)&&!e.languageDependent)throw new Error(`${e.id}: dialogue events need confirmed language`);
@@ -22,6 +27,10 @@ export function validateCatalog(data,today){
   if(!['vienna','nearby'].includes(e.area))throw new Error(`${e.id}: invalid location`);
   if(e.area==='nearby'&&(!e.exceptional||!Number.isFinite(e.trainMinutes)||e.trainMinutes>130||e.trainMinutes<=0||!e.destinationStation||!e.travelNote||!e.returnNote||!https(e.travelSource)))throw new Error(`${e.id}: unverified nearby trip`);
   if(!https(e.url)||e.extraUrl&&!https(e.extraUrl)||!data.sources.some(s=>s.name===e.source))throw new Error(`${e.id}: invalid source`);
+ }
+ if(data.museumGuide){
+  const g=data.museumGuide;
+  if(!isDay(g.checkedOn)||g.checkedOn>today||!['districtUrl','directoryUrl','closuresUrl'].every(k=>https(g[k]))||!['otherFree','closures'].every(k=>Array.isArray(g[k])&&g[k].every(v=>typeof v==='string'&&v.length<=500)))throw new Error('Invalid museum guide');
  }
  return data;
 }
