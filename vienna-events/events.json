@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "195cf620-dbba-48f1-a71f-09977555341c",
-  "updatedAt": "2026-11-01T06:57:42.046Z",
+  "revision": "5cce64ad-c97b-4e2c-82a7-33b92f615aea",
+  "updatedAt": "2026-11-01T15:43:57.436Z",
   "lastScanAt": "2026-11-01T06:57:42.046Z",
   "schedule": {
     "enabled": true,
@@ -241,41 +241,6 @@
       "languageCode": "not-needed",
       "timeEndDayOffset": 0,
       "availability": "See original page"
-    },
-    {
-      "id": "bits-bites-20261026",
-      "title": "Bits & Bites · English comedy",
-      "subtitle": "Monday open-mic laughs",
-      "type": "comedy",
-      "tags": [
-        "English"
-      ],
-      "dates": [
-        "2026-11-02",
-        "2026-11-09"
-      ],
-      "time": "19:30",
-      "timeEnd": "22:00",
-      "timeEndDayOffset": 0,
-      "venue": "Charlie P’s Irish Pub",
-      "address": "Währinger Straße 3, 1090 Wien",
-      "district": "9th · Alsergrund",
-      "setting": "indoor",
-      "description": "Experienced comedians test new material alongside first-time performers at an English stand-up open mic.",
-      "details": "Doors open at 19:00. The venue recommends reserving a place through its official event page.",
-      "admission": "Free entry, no cover charge. Food and drinks are optional purchases.",
-      "language": "English, explicitly confirmed by the venue.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "Charlie P’s",
-      "url": "https://www.charlieps.at/en/events",
-      "extraUrl": "https://www.charlieps.at/en/stand-up-comedy",
-      "extraLabel": "Comedy programme",
-      "checkedOn": "2026-11-01",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "availability": "Reservation recommended"
     },
     {
       "id": "just-kicks",
