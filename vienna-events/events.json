@@ -1,20 +1,19 @@
 {
   "schemaVersion": 1,
-  "revision": "dacad00c-6875-4bd1-b71d-df5f461ea2c5",
-  "updatedAt": "2026-11-03T07:01:00.000Z",
-  "lastScanAt": "2026-11-03T07:01:00.000Z",
+  "revision": "93f1848d-5a83-4081-9695-9ff2330cb8b1",
+  "updatedAt": "2026-11-04T06:59:02.000Z",
+  "lastScanAt": "2026-11-04T06:59:02.000Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-03: Searched upcoming entertainment through 2 January 2027, with Indian touring/cultural searches through early March. Coverage remains partial. Added seven individually verified mdw recitals: Baroque on Stage on 25 November (15:00 and 19:00), 26 November (15:00), 16 December (15:00 and 19:00), 17 December (15:00), and baroque flute on 17 December (19:00). Original pages confirm dates, 90-minute slots, Festsaal Seilerstätte and free entry.",
-    "Added the organiser-confirmed New Year’s Eve stage programme at Riesenradplatz on 31 December, 18:00–02:00 next day, with free entry, DJ/band timetable and entry restrictions. Market opening is noon. City Silvesterpfad page failed (500); no inferred city-wide listing or fireworks added.",
-    "Rechecked UTSAV’s community announcement, SeeLightNight’s official programme, the first three MQ winter programme dates, Wintermarkt opening illumination/three opening concerts and mdw salsa, and three existing mdw Seilerstätte recitals. Rechecked Hufak’s 4 November screening: free, English subtitles, Fortuna Kino, 20:00. Both American Improv YesTicket pages retain waiting-list notices; external availability remains unverified.",
-    "Rechecked Wien Museum admission/regular hours and musa hours; extended each normal opening rule to 2 January only. Removed completed 2 November museum occurrences. Rechecked HGM closures/free Sundays, Secession free Wednesdays, Leopold PORR Night, Kunsthalle November/December free Sundays and both-location admission/hours, Jewish Museum Happy Friday, hdgö Thursday/Human Rights Day admission, Belvedere dated free evenings and ticket-release dates. Horten 10 December slots remain sold out. No other unrechecked museum dates were extended.",
-    "Rechecked Alszeilenmarkt’s 28 November free show and Prater’s 29 November free parade. Böhmischer Prater exposes its date/time but its free-entry text remains behind Mehr anzeigen; prior checked date retained. City free-museum directory failed (500), district directory is readable, Wien Museum’s location directory supplies no usable closure detail; museumGuide remains unchanged.",
-    "Alma Rosé and VOICE MANIA event pages were inaccessible. Their records retain earlier checked dates and booking caveats. Queer Museum film discovery did not yield a readable original page with verified subtitles. Wiener Lichtblicke pages describe guided/participatory light-art walks without verified English spoken content; no listing added. Indian and nearby discovery produced no additional fully verified matching event. mdw Stille Acht appears in search but its opened calendar page does not expose matching details, so it was not added. All other retained records keep their previous checked dates."
+    "2026-11-04: Searched upcoming entertainment through 3 January 2027 and Indian touring/cultural events through early March. Coverage remains partial. Added the original-page-confirmed free Le Stagioni Ossequiose concert on 12 November, 19:00–20:30, Neuer Konzertsaal am Rennweg, Rennweg 8.",
+    "Rechecked Charlie P’s dated venue programme, adding explicitly published 12 November karaoke and 13 November Happy Friday occurrences. Rechecked City Jam and Karawoke; replaced Karawoke’s October URL with the direct 12 December occurrence URL. Rechecked three retained mdw concerts, Aminata & the Astronauts, MO & Band, Gioiello Ensemble, Silent Ecologies and Party Modern. VOICE MANIA’s detailed opening programme is readable again and confirms both 6 November records.",
+    "Removed completed 3 November occurrences, including the Alma Rosé record. Extended Wien Museum’s normal opening rule and six first-Sunday museum records to 3 January 2027 after checking institution-specific hours, free-entry rules and holiday closures. Beethoven locations retain lunch-break notes. Rechecked Secession free Wednesdays, Leopold PORR Nights, Jewish Museum Happy Friday, hdgö Thursdays/Human Rights Day, and Belvedere reservation release dates. Horten 10 December slots remain sold out. No unrechecked museum date arrays were extended.",
+    "Alszeilenmarkt and Prater parade sources were readable and rechecked. Böhmischer Prater still exposes date/time but its full admission description is collapsed; checkedOn retained. City free-museum directory failed (500); district-museum directory is readable. museumGuide remains unchanged because its full directory/closure set was not reverified.",
+    "Wurstfabrik’s individual Wintermarkt page was inaccessible; its record retains its previous checked date. Dialogbüro’s homepage advertises 11 November for Self-Portrait Along the Borderline, while the individual page says 13 November; it was not added due to the conflicting dates. Filmakademie screening discovery did not confirm language for a dated programme. Indian, English theatre/cinema and exceptional nearby discovery yielded no other fully verified additions. Unrechecked records, including other museum sources and booking services, retain their prior checked dates."
   ],
   "events": [
     {
@@ -40,7 +39,7 @@
       "language": "Programme language not specified; the focus is dance.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/events/dschungel-wien/city-jam/20261212-1600/",
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-11-04",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -71,8 +70,8 @@
       "admission": "Free admission. Free ticket booking encouraged by the organiser.",
       "language": "Programme language not specified; check song and hosting details.",
       "source": "MuseumsQuartier Wien",
-      "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261031-2100/",
-      "checkedOn": "2026-10-31",
+      "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261212-2100/",
+      "checkedOn": "2026-11-04",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -267,7 +266,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -282,7 +281,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-06"
+        "2026-11-06",
+        "2026-11-13"
       ],
       "time": "22:00",
       "timeEnd": "03:00",
@@ -299,7 +299,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -346,7 +346,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-05"
+        "2026-11-05",
+        "2026-11-12"
       ],
       "time": "21:30",
       "timeEnd": "01:30",
@@ -363,7 +364,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -378,7 +379,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-10"
       ],
       "time": "21:30",
@@ -396,7 +396,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -471,7 +471,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -503,7 +503,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -535,7 +535,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-29",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -696,7 +696,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -730,7 +730,7 @@
         "A cappella"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-30",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -764,7 +764,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -796,7 +796,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-25",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -881,7 +881,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-02",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -894,7 +894,7 @@
       ],
       "timeEnd": null,
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-26",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -918,40 +918,6 @@
       "description": "Six pianists play Debussy, Chopin, Piazzolla, Schubert and Beethoven, with four- and eight-hand pieces after the interval.",
       "details": "Free choice of seats. Finishing time is not published.",
       "url": "https://ehrbarsaal.at/konzerte/gioiello-ensemble-in-vienna/"
-    },
-    {
-      "type": "music",
-      "tags": [
-        "Classical"
-      ],
-      "timeEnd": "21:00",
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-10-26",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "Free ticket required; availability unverified",
-      "setting": "indoor",
-      "admission": "Free admission with a numbered admission ticket.",
-      "language": "Performance and hosting languages are not specified.",
-      "venue": "Ehrbar Saal",
-      "address": "Mühlgasse 30, 1040 Wien",
-      "district": "4th · Wieden",
-      "source": "Ehrbar Saal",
-      "id": "alma-rose-20261103",
-      "title": "Alma Rosé · Memorial concert",
-      "subtitle": "Chamber music and song",
-      "dates": [
-        "2026-11-03"
-      ],
-      "time": "19:00",
-      "description": "A concert honouring Alma Rosé, featuring the Alma Rosé Quartet and baritone Simon Wallfisch.",
-      "details": "A free admission ticket is required through Eventjet. The booking listing gives a 21:00 finishing time; live seat availability could not be confirmed.",
-      "url": "https://ehrbarsaal.at/konzerte/alma-rose-2/",
-      "extraUrl": "https://events.eventjet.at/e/gedenkkonzert-alma-rose/",
-      "extraLabel": "Free ticket booking"
     },
     {
       "type": "festival",
@@ -1078,7 +1044,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1135,7 +1101,7 @@
       "language": "Performance and hosting languages are not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-10-31",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1167,7 +1133,7 @@
       "language": "Performance and hosting languages are not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-10-31",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1191,7 +1157,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -1240,7 +1205,8 @@
         "2026-12-29",
         "2026-12-30",
         "2026-12-31",
-        "2027-01-02"
+        "2027-01-02",
+        "2027-01-03"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1257,7 +1223,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1288,7 +1254,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -1305,7 +1272,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1320,7 +1287,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "10:00",
       "timeEnd": "17:00",
@@ -1337,7 +1305,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/roemermuseum",
-      "checkedOn": "2026-11-01",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1352,7 +1320,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "10:00",
       "timeEnd": "17:00",
@@ -1369,7 +1338,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/uhrenmuseum",
-      "checkedOn": "2026-11-01",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1384,7 +1353,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "10:00",
       "timeEnd": "17:00",
@@ -1401,7 +1371,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/beethoven_museum",
-      "checkedOn": "2026-11-01",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1417,7 +1387,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "10:00",
       "timeEnd": "17:00",
@@ -1434,7 +1405,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/beethoven_pasqualatihaus",
-      "checkedOn": "2026-11-01",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1450,7 +1421,8 @@
         "First Sunday of the month"
       ],
       "dates": [
-        "2026-12-06"
+        "2026-12-06",
+        "2027-01-03"
       ],
       "time": "09:00",
       "timeEnd": "17:00",
@@ -1467,7 +1439,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1500,7 +1472,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1533,7 +1505,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1132/7329",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1637,7 +1609,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1669,7 +1641,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1706,7 +1678,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1738,7 +1710,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1770,7 +1742,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1802,7 +1774,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-11122026",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1834,7 +1806,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1849,7 +1821,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -1931,7 +1902,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -1993,7 +1963,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -2069,7 +2038,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-08",
         "2026-11-10",
         "2026-11-15",
@@ -2156,7 +2124,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-03",
         "2026-11-04",
         "2026-11-05",
         "2026-11-06",
@@ -2224,7 +2191,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-04",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2735,6 +2702,38 @@
       "indian": false,
       "area": "vienna",
       "availability": "See original page"
+    },
+    {
+      "tags": [
+        "Live music"
+      ],
+      "timeEndDayOffset": 0,
+      "checkedOn": "2026-11-04",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "availability": "See original page",
+      "type": "music",
+      "setting": "indoor",
+      "admission": "Free admission.",
+      "language": "Performance language and any spoken introductions are not specified.",
+      "source": "mdw · Early Music Department",
+      "id": "le-stagioni-ossequiose-20261112",
+      "title": "Le Stagioni Ossequiose",
+      "subtitle": "Antonio Draghi in concert",
+      "dates": [
+        "2026-11-12"
+      ],
+      "time": "19:00",
+      "timeEnd": "20:30",
+      "venue": "Neuer Konzertsaal am Rennweg",
+      "address": "Rennweg 8, 1030 Wien",
+      "district": "3rd · Landstraße",
+      "description": "Singers and harpsichords perform Antonio Draghi’s music with a libretto by Nicolò Minato.",
+      "details": "Directed by Erich Traxler. The concert is listed as a public event; reservation arrangements are not stated.",
+      "url": "https://mdw.ac.at/altemusik/event/konzert-le-staggioni-ossequiose/"
     }
   ],
   "sources": [
@@ -2938,8 +2937,8 @@
     }
   ],
   "statusNotes": [
-    "Some venue and city pages could not be read. Unrechecked listings retain their previous checked dates.",
-    "Remaining places remain unverified for Diversity Ball Dance, American Improv and the Alma Rosé concert."
+    "Some organiser and city pages could not be read. Unrechecked listings retain their previous checked dates.",
+    "Remaining places are unverified for Diversity Ball Dance and American Improv."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
