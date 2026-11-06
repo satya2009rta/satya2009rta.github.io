@@ -1,20 +1,19 @@
 {
   "schemaVersion": 1,
-  "revision": "f20e78ba-5978-4c61-94e3-fef0007b7f5d",
-  "updatedAt": "2026-11-05T07:04:06.396Z",
-  "lastScanAt": "2026-11-05T07:04:06.396Z",
+  "revision": "f2e75b4d-384f-4205-8869-96cc743d2ee7",
+  "updatedAt": "2026-11-06T07:06:29Z",
+  "lastScanAt": "2026-11-06T07:06:29Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-05: Searched upcoming entertainment through 4 January 2027, with Indian touring/cultural discovery through early March. Partial coverage. Added International Advent Singing at Vienna City Hall: twelve explicitly published dates across 27–29 November, 4–6, 11–13 and 18–20 December, 15:30–19:00, free admission. The Austrian Foreign Ministry announcement reproduces the city's four concert-date ranges and half-hour performance slots; the city directory corroborates the venue and Lichtenfelsgasse entrance.",
-    "Rechecked the older soulparlez, Skofi and RUHMER MQ concert pages, mdw’s 9 December recorder recital, Diversity Ball Dance and Queertactics Festival Party. Diversity Ball’s event details remain confirmed, but registration capacity was not checked. No inferred entertainment dates were added.",
-    "Rechecked Geldmuseum, DÖW permanent exhibition and Simon Wiesenthal Museum admission/hours. Extended the two latter weekday rules only to 4 January; no extension for unrechecked sources. Removed completed 4 November occurrences, including Just for Kicks and Hufak screening. Rechecked Secession free Wednesdays, Leopold PORR Nights, Jewish Museum Happy Friday, Belvedere ticket-release dates and Horten’s sold-out 10 December slots.",
-    "City of Vienna free-museum directory and Fire Brigade Museum page failed (500). District-museum directory was readable; Wien Museum location directory did not provide useful closure information. museumGuide and its checked date remain unchanged. Wien Museum general admission is readable, but individual location hours were not rechecked, so those event checked dates were retained.",
-    "Alszeilenmarkt’s dated show was rechecked. Prater parade date/time was readable, but the full admission section was not reverified; its checked date was retained. Böhmischer Prater still exposes date/time with its full admission text collapsed; checked date retained. Wurstfabrik’s individual page remained inaccessible.",
-    "hdgö’s detailed admission lookup timed out; its records retain previous checked dates. Kunsthalle’s December free-Sunday page was readable but other retained dates/location hours were not fully rechecked; both records retain their checked dates. Wider cinema/theatre, Indian and nearby discovery produced no additional fully verified matching listing. American Improv and other booking services were not rechecked; their existing availability caveats remain."
+    "2026-11-06: Searched entertainment through 5 January 2027 and Indian touring/cultural listings into early March; partial coverage. Added the 10 November Villa Vida screening (English audio, free), 17 November FREIES KINO shorts (English subtitles, free box-office numbered tickets), 31 December Silvesterpfad and 1 January Prater concert broadcast. City tourism’s 2026 Silvesterpfad date is explicit; the organiser FAQ still displays the previous New Year, so no unverified current line-up is included.",
+    "Rechecked Charlie P’s dated calendar and added explicitly published Vintage Vintage on 14 November and Medical Tuesday on 17 November. Rechecked MQ winter opening, SeeLightNight, Gioiello Ensemble and the two American Improv YesTicket pages, which still display waiting lists; external booking capacity was not verified. Other entertainment records retain their previous checked dates.",
+    "Rechecked Wien Museum general free admission and Karlsplatz hours; extended its permanent collection through 5 January. Rechecked musa hours and free admission, adding 3 and 5 January while conservatively retaining the holiday omissions. Geldmuseum free admission and Tue–Fri hours were checked and extended to 5 January with public-holiday, Christmas and Silvester exclusions. Rechecked HGM, Secession, Leopold PORR rule, Kunsthalle November/December dates plus general admission/hours, Jewish Museum Happy Friday/hours, hdgö ordinary Thursday and Human Rights Day rules, Belvedere release dates and Horten sold-out December slots. No new hdgö holiday dates were inferred; special calendar detail was not available. Individual Wien Museum branch hours, DÖW and Wiesenthal were not rechecked.",
+    "City free-museum directory and Fire Brigade Museum returned 500 errors. District museum directory was readable; Wien Museum location directory did not provide sufficient closure information to renew museumGuide. Preserve museumGuide and its 31 October checked date. VOICE MANIA’s event detail URL and Wurstfabrik’s individual page were inaccessible; retained future records keep previous checked dates.",
+    "Rechecked Alszeilenmarkt’s explicit 28 November free show and Prater’s German page with 29 November time/free admission. Böhmischer Prater still exposes date/time with admission text collapsed, so its checked date was retained. Oberlaa remains unconfirmed. Discovery for free English theatre/improv, Indian entertainment/comedians and nearby events produced no other fully verified additions. TU Wien Diwali lead is talks/networking and was excluded; Indian paid-cinema discovery lacked verified current prices. Removed completed 5 November occurrences without changing unrechecked checked dates."
   ],
   "events": [
     {
@@ -104,7 +103,7 @@
       "language": "Programme language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/winter-im-mq/winter-in-mq-2026/20261112-1800/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -268,7 +267,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -315,7 +314,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-12"
       ],
       "time": "21:30",
@@ -333,7 +331,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -348,7 +346,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-10"
+        "2026-11-10",
+        "2026-11-17"
       ],
       "time": "21:30",
       "timeEnd": "02:00",
@@ -365,7 +364,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -397,7 +396,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-25-11-26/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -429,7 +428,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-16-12-26/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -833,7 +832,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-07"
+        "2026-11-07",
+        "2026-11-14"
       ],
       "time": "22:00",
       "timeEnd": "03:00",
@@ -850,7 +850,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -863,7 +863,7 @@
       ],
       "timeEnd": null,
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -896,7 +896,7 @@
       ],
       "timeEnd": "20:00",
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1013,13 +1013,13 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See original page",
-      "extraUrl": "https://www.wintermarkt.at/winterabenteuer/perchtenlauf",
-      "extraLabel": "Organiser’s parade details"
+      "extraUrl": "https://www.wintermarkt.at/winterabenteuer/perchtenlauf/",
+      "extraLabel": "Full parade and admission information"
     },
     {
       "dates": [
@@ -1094,7 +1094,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -1142,7 +1141,8 @@
         "2026-12-30",
         "2026-12-31",
         "2027-01-02",
-        "2027-01-03"
+        "2027-01-03",
+        "2027-01-05"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1159,7 +1159,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1208,7 +1208,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1375,7 +1375,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1407,7 +1407,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1422,7 +1422,6 @@
         "First Thursday evening"
       ],
       "dates": [
-        "2026-11-05",
         "2026-12-03"
       ],
       "time": "18:00",
@@ -1440,7 +1439,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1132/7329",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1475,7 +1474,7 @@
       "languageCode": "not-needed",
       "source": "Kunsthalle Wien",
       "url": "https://kunsthallewien.at/en/event/free-sunday-10",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1510,7 +1509,7 @@
       "languageCode": "not-needed",
       "source": "Kunsthalle Wien",
       "url": "https://kunsthallewien.at/en/event/free-sunday-10",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1544,7 +1543,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1576,7 +1575,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1591,7 +1590,6 @@
         "Thursday evenings"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-12",
         "2026-11-19",
         "2026-11-26",
@@ -1613,7 +1611,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1645,7 +1643,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1677,7 +1675,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1709,7 +1707,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-11122026",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1741,7 +1739,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1756,7 +1754,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-07",
         "2026-11-08",
@@ -1802,7 +1799,9 @@
         "2026-12-27",
         "2026-12-29",
         "2026-12-30",
-        "2027-01-02"
+        "2027-01-02",
+        "2027-01-03",
+        "2027-01-05"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -1812,14 +1811,14 @@
       "district": "1st · Innere Stadt",
       "setting": "indoor",
       "description": "Changing exhibitions of Viennese contemporary art near the Rathaus, including the Startgalerie.",
-      "details": "Free exhibition entry. Regular hours Tuesday to Sunday 10:00–18:00; closed Mondays. The Artothek lending service has different hours and fees. Christmas Eve and Christmas Day are omitted from the dated selection.",
+      "details": "Free exhibition entry. Regular hours Tuesday to Sunday 10:00–18:00; closed Mondays, 24 and 31 December. The Artothek lending service has different hours and fees. Christmas Day and New Year’s Day are omitted pending confirmed holiday arrangements.",
       "admission": "Exhibitions and Startgalerie free. Art loans are a separate service.",
       "language": "Self-guided museum visit; check the original page for available text and audio languages.",
       "languageDependent": false,
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/musa",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1836,7 +1835,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-10",
         "2026-11-11",
@@ -1864,7 +1862,8 @@
         "2026-12-22",
         "2026-12-23",
         "2026-12-29",
-        "2026-12-30"
+        "2026-12-30",
+        "2027-01-05"
       ],
       "time": "09:00",
       "timeEnd": "17:00",
@@ -1881,7 +1880,7 @@
       "languageCode": "not-needed",
       "source": "Oesterreichische Nationalbank",
       "url": "https://www.oenb.at/die-oenb/geldmuseum.html",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1896,7 +1895,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
@@ -2057,7 +2055,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-05",
         "2026-11-06",
         "2026-11-09",
         "2026-11-10",
@@ -2124,7 +2121,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2630,11 +2627,13 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/veranstaltungen/details/silvester-am-riesenradplatz-2-2026/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-06",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "See original page"
+      "availability": "See original page",
+      "extraUrl": "https://www.wintermarkt.at/silvester/neujahr/",
+      "extraLabel": "New Year programme and visitor information"
     },
     {
       "tags": [
@@ -2713,6 +2712,144 @@
       "indian": false,
       "area": "vienna",
       "availability": "See original announcement"
+    },
+    {
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "checkedOn": "2026-11-06",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "lesbian-space-princess-20261110",
+      "title": "Lesbian Space Princess · Sapphic Film Series",
+      "subtitle": "Animated sci-fi comedy at Villa Vida",
+      "type": "film",
+      "tags": [
+        "Cinema",
+        "English"
+      ],
+      "dates": [
+        "2026-11-10"
+      ],
+      "time": "19:00",
+      "timeEnd": "21:30",
+      "venue": "Villa Vida Café",
+      "address": "Linke Wienzeile 102, 1060 Wien",
+      "district": "6th · Mariahilf",
+      "description": "A runaway princess crosses the galaxy in a queer animated adventure about romance, friendship and finding confidence.",
+      "details": "The venue lists the evening as 19:00–21:30. Everyone who respects the space is welcome. Adult humour, strong language, sexual references and animated violence. Wheelchair-accessible venue and toilet.",
+      "admission": "Free screening. Optional café purchases cost extra.",
+      "language": "English original audio; subtitles advertised in English or German.",
+      "languageDependent": true,
+      "languageCode": "en",
+      "source": "Villa Vida Café",
+      "url": "https://villavida.at/event/sapphic-film-series-lesbian-space-princess/",
+      "availability": "Free entry; check the venue page for current arrangements"
+    },
+    {
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "checkedOn": "2026-11-06",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "freies-kino-short-films-20261117",
+      "title": "FREIES KINO · Austrian Film Award shorts",
+      "subtitle": "Four nominated and prize-winning short films",
+      "type": "film",
+      "tags": [
+        "Cinema",
+        "English subtitles"
+      ],
+      "dates": [
+        "2026-11-17"
+      ],
+      "time": "20:00",
+      "timeEnd": null,
+      "venue": "Stadtkino im Künstlerhaus",
+      "address": "Akademiestraße 13, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "description": "An evening of Austrian short cinema, including Night of Passage, Ever After, Stampfer Dreams and Die letzten Menschen.",
+      "details": "Free numbered admission tickets are distributed at the evening box office. Kurt Brazda hosts conversations with the filmmakers; the language of those discussions is not stated. Finishing time is unpublished.",
+      "admission": "Free entry with a numbered ticket from the evening box office.",
+      "language": "Films in their original versions with English subtitles. Discussion language not specified.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Österreichische Filmakademie",
+      "url": "https://www.oesterreichische-filmakademie.at/projekte/kurzfilm-screening-freies-kino-2026",
+      "extraUrl": "https://spoe-bildung.at/2026/10/30/30-oktober-2026-terminvorschau-herzliche-einladung-zum-kurzfilm-screening-beim-freien-kino-am-17-november-2026-um-20-uhr-stadtkino-im-kunstlerhaus-1010-wien/",
+      "extraLabel": "Public screening announcement",
+      "availability": "Collect a free numbered ticket at the evening box office; capacity not guaranteed"
+    },
+    {
+      "timeEndDayOffset": 1,
+      "setting": "outdoor",
+      "checkedOn": "2026-11-06",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "silvesterpfad-20261231",
+      "title": "Wiener Silvesterpfad",
+      "subtitle": "New Year’s Eve across the city centre",
+      "type": "festival",
+      "tags": [
+        "New Year’s Eve",
+        "Music",
+        "Dancing"
+      ],
+      "dates": [
+        "2026-12-31"
+      ],
+      "time": "14:00",
+      "timeEnd": "02:00",
+      "venue": "Vienna city centre · multiple outdoor locations",
+      "address": "Freyung, Am Hof, Graben, Stephansplatz, Kärntner Straße and Neuer Markt, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "description": "Celebrate the turn of the year along Vienna’s outdoor music and dancing trail.",
+      "details": "WienTourismus lists 31 December 2026, 14:00–02:00. Check the programme for current stages and performers before setting out.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing; spoken programme languages not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "WienTourismus",
+      "url": "https://www.wien.info/de/aktuell/veranstaltungen/wiener-silvesterpfad-2024-1046670",
+      "availability": "Public outdoor event; see the current programme"
+    },
+    {
+      "timeEndDayOffset": 0,
+      "setting": "outdoor",
+      "checkedOn": "2026-11-06",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "prater-new-year-concert-20270101",
+      "title": "New Year’s Concert · Prater live broadcast",
+      "subtitle": "Vienna Philharmonic on the outdoor LED wall",
+      "type": "music",
+      "tags": [
+        "New Year",
+        "Classical music",
+        "Live broadcast"
+      ],
+      "dates": [
+        "2027-01-01"
+      ],
+      "time": "11:00",
+      "timeEnd": null,
+      "venue": "Wintermarkt am Riesenradplatz",
+      "address": "Riesenradplatz, 1020 Wien",
+      "district": "2nd · Leopoldstadt",
+      "description": "Start the year with the Vienna Philharmonic’s New Year’s Concert broadcast beside the Giant Ferris Wheel.",
+      "details": "The Wintermarkt advertises its LED-wall broadcast from 11:00 on 1 January 2027. This is an outdoor transmission of the concert from the Musikverein. Finishing time is unpublished.",
+      "admission": "Free entry. Optional food, drinks and attractions cost extra.",
+      "language": "Orchestral music; broadcast commentary language not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Wintermarkt Prater Wien",
+      "url": "https://www.wintermarkt.at/en/new-years-eve/new-year/",
+      "extraUrl": "https://www.wintermarkt.at/silvester/neujahr/",
+      "extraLabel": "Programme and visitor information",
+      "availability": "See the organiser’s current programme"
     }
   ],
   "sources": [
@@ -2919,11 +3056,30 @@
       "label": "Official government event announcement",
       "url": "https://www.bmeia.gv.at/en/austrian-embassy-copenhagen/events/detail/44th-international-advent-singing-in-vienna",
       "note": "Publishes the 2026 City Hall choir dates, daily hours, performance slots and free admission."
+    },
+    {
+      "name": "Villa Vida Café",
+      "label": "Official venue programme",
+      "url": "https://villavida.at/events/",
+      "note": "Confirms the film screening’s date, evening hours, free entry, English audio and subtitle information."
+    },
+    {
+      "name": "Österreichische Filmakademie",
+      "label": "Official film academy announcement",
+      "url": "https://www.oesterreichische-filmakademie.at/projekte/kurzfilm-screening-freies-kino-2026",
+      "note": "Confirms the four short films, date, start time, English subtitles, free entry and evening box-office ticket arrangement."
+    },
+    {
+      "name": "WienTourismus",
+      "label": "Official city tourism calendar",
+      "url": "https://www.wien.info/de/aktuell/veranstaltungen/wiener-silvesterpfad-2024-1046670",
+      "note": "Lists the 31 December 2026 Silvesterpfad date and hours; describes the city-centre route and free admission."
     }
   ],
   "statusNotes": [
-    "Some organiser and museum pages could not be read or timed out. Unrechecked listings retain their previous checked dates.",
-    "Remaining places are unverified for Diversity Ball Dance and American Improv."
+    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. The VOICE MANIA detail page and Wurstfabrik concert page were also inaccessible.",
+    "Böhmischer Prater’s full admission text could not be retrieved. Unrechecked listings retain their previous checked dates.",
+    "Remaining places are unverified for Diversity Ball Dance and American Improv; YesTicket currently shows a waiting list for both American Improv dates."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
