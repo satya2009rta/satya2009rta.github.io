@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "revision": "f2e75b4d-384f-4205-8869-96cc743d2ee7",
-  "updatedAt": "2026-11-06T07:06:29Z",
-  "lastScanAt": "2026-11-06T07:06:29Z",
+  "revision": "f24611ce-a8f6-4698-b015-12ae24f554bf",
+  "updatedAt": "2026-11-07T07:01:04Z",
+  "lastScanAt": "2026-11-07T07:01:04Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-06: Searched entertainment through 5 January 2027 and Indian touring/cultural listings into early March; partial coverage. Added the 10 November Villa Vida screening (English audio, free), 17 November FREIES KINO shorts (English subtitles, free box-office numbered tickets), 31 December Silvesterpfad and 1 January Prater concert broadcast. City tourism’s 2026 Silvesterpfad date is explicit; the organiser FAQ still displays the previous New Year, so no unverified current line-up is included.",
-    "Rechecked Charlie P’s dated calendar and added explicitly published Vintage Vintage on 14 November and Medical Tuesday on 17 November. Rechecked MQ winter opening, SeeLightNight, Gioiello Ensemble and the two American Improv YesTicket pages, which still display waiting lists; external booking capacity was not verified. Other entertainment records retain their previous checked dates.",
-    "Rechecked Wien Museum general free admission and Karlsplatz hours; extended its permanent collection through 5 January. Rechecked musa hours and free admission, adding 3 and 5 January while conservatively retaining the holiday omissions. Geldmuseum free admission and Tue–Fri hours were checked and extended to 5 January with public-holiday, Christmas and Silvester exclusions. Rechecked HGM, Secession, Leopold PORR rule, Kunsthalle November/December dates plus general admission/hours, Jewish Museum Happy Friday/hours, hdgö ordinary Thursday and Human Rights Day rules, Belvedere release dates and Horten sold-out December slots. No new hdgö holiday dates were inferred; special calendar detail was not available. Individual Wien Museum branch hours, DÖW and Wiesenthal were not rechecked.",
-    "City free-museum directory and Fire Brigade Museum returned 500 errors. District museum directory was readable; Wien Museum location directory did not provide sufficient closure information to renew museumGuide. Preserve museumGuide and its 31 October checked date. VOICE MANIA’s event detail URL and Wurstfabrik’s individual page were inaccessible; retained future records keep previous checked dates.",
-    "Rechecked Alszeilenmarkt’s explicit 28 November free show and Prater’s German page with 29 November time/free admission. Böhmischer Prater still exposes date/time with admission text collapsed, so its checked date was retained. Oberlaa remains unconfirmed. Discovery for free English theatre/improv, Indian entertainment/comedians and nearby events produced no other fully verified additions. TU Wien Diwali lead is talks/networking and was excluded; Indian paid-cinema discovery lacked verified current prices. Removed completed 5 November occurrences without changing unrechecked checked dates."
+    "2026-11-07: Searched upcoming entertainment through 6 January and Indian touring/cultural discovery through early March; partial coverage. Added NAMES: Spirits in Complexity on 13 November, 20:00–approximately 21:00, free with registration, and the public Teresa Hackel masterclass closing concert on 21 November, 15:00–16:00, free. The NAMES Eventim Light service redirected to an inaccessible queue; capacity is unverified.",
+    "Rechecked the mdw 24 November and 15 December harpsichord recitals and 26 November cello recital. Corrected Prater New Year’s Concert broadcast to the individual event URL and its published 13:30 finish. Removed completed 6 November dates, including both Balcanto cards. Other entertainment sources retain their prior checked dates.",
+    "Rechecked Römermuseum, Uhrenmuseum and both Beethoven locations, including admission, Sunday hours, holiday closures and lunch breaks. HGM first-Sunday admission and closures rechecked. Rechecked Secession’s first-Wednesday rule and holiday hours; extended to 6 January with explicitly published 10:00–18:00 holiday hours. Leopold’s old November link returned 404; replaced with the verified 3 December PORR Night page. Rechecked hdgö ordinary admission and Human Rights Day rules, without inferring special holiday evenings. Horten December slots remain sold out.",
+    "Belvedere release-date pages, Kunsthalle November free-Sunday page and Jewish Museum Happy Friday rule were readable, but full retained date/hour coverage was not rechecked; their checked dates remain unchanged. No extension for other unrechecked museum sources. City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory was readable; museumGuide remains unchanged because its full source set was not reverified.",
+    "Alszeilenmarkt and Prater parade date/time/free admission rechecked. Böhmischer Prater date/time visible but full admission text remains behind the collapsed description, so its checked date is retained. Oberlaa remains unconfirmed. LUX Preview Days’ remaining films advertise German subtitles, so no addition. The Wien Modern overview misleadingly labels some paid events free: individual PHACE and PRST party pages give EUR prices, so neither was added. Wider English theatre, Indian-comedian/cultural and nearby discovery produced no other fully verified additions."
   ],
   "events": [
     {
@@ -249,7 +249,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-13"
       ],
       "time": "22:00",
@@ -661,74 +660,6 @@
     {
       "type": "music",
       "tags": [
-        "A cappella"
-      ],
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "See original page",
-      "setting": "outdoor",
-      "admission": "Free admission.",
-      "language": "Song and hosting languages are not specified.",
-      "id": "balcanto-20261106",
-      "title": "Balcanto & A Cappella To Go",
-      "subtitle": "Voices across the city centre",
-      "dates": [
-        "2026-11-06"
-      ],
-      "time": "14:00",
-      "timeEnd": "17:00",
-      "venue": "City-centre balconies and streets",
-      "address": "Kohlmarkt, Graben and Neuer Markt, 1010 Wien",
-      "district": "1st · Innere Stadt",
-      "source": "VOICE MANIA · Theater am Spittelberg",
-      "url": "https://www.voicemania.at/programm-2026/detailprogramm/2026/events.html",
-      "extraUrl": "https://www.theateramspittelberg.at/fileadmin/Voicemania/Balcanto_2026_-_Zeitplan.pdf",
-      "extraLabel": "Performance timetable",
-      "description": "Vocal ensembles perform short unamplified sets from balconies and around the old town.",
-      "details": "Follow the timetable between locations. The programme spans pop, jazz, folk and classical singing."
-    },
-    {
-      "type": "music",
-      "tags": [
-        "A cappella"
-      ],
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "See original page",
-      "setting": "indoor",
-      "admission": "Free admission.",
-      "language": "Song and hosting languages are not specified.",
-      "id": "balcanto-finale-20261106",
-      "title": "Balcanto · Closing concert",
-      "subtitle": "An evening of a cappella",
-      "dates": [
-        "2026-11-06"
-      ],
-      "time": "17:30",
-      "timeEnd": "19:30",
-      "venue": "INTERSPAR am Schottentor",
-      "address": "Schottengasse 6–8, 1010 Wien",
-      "district": "1st · Innere Stadt",
-      "source": "VOICE MANIA · Theater am Spittelberg",
-      "url": "https://www.voicemania.at/programm-2026/detailprogramm/2026/events.html",
-      "extraUrl": "https://www.theateramspittelberg.at/fileadmin/Voicemania/Balcanto_2026_-_Zeitplan.pdf",
-      "extraLabel": "Festival timetable",
-      "description": "Insingizi, VieVox, Samira and Daisy Hearts close Balcanto with a shared concert.",
-      "details": "The festival lists the finale separately from its afternoon balcony performances."
-    },
-    {
-      "type": "music",
-      "tags": [
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
@@ -1013,7 +944,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1094,7 +1025,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-07",
         "2026-11-08",
         "2026-11-10",
@@ -1241,7 +1171,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/roemermuseum",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1274,7 +1204,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/uhrenmuseum",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1307,7 +1237,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/beethoven_museum",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1341,7 +1271,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/beethoven_pasqualatihaus",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1375,7 +1305,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1390,7 +1320,8 @@
         "First Wednesday of the month"
       ],
       "dates": [
-        "2026-12-02"
+        "2026-12-02",
+        "2027-01-06"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -1400,14 +1331,14 @@
       "district": "1st · Innere Stadt",
       "setting": "indoor",
       "description": "See Klimt’s Beethoven Frieze and the current contemporary exhibitions near Karlsplatz.",
-      "details": "The museum publishes 4 November and 2 December as free Wednesdays. During exhibition installation, only the Beethoven Frieze may be accessible. Audio guides and optional guided tours have separate fees.",
+      "details": "Free admission on the first Wednesday of each month. The museum explicitly lists 2 December and publishes 10:00–18:00 opening on 6 January. During exhibition installation, only the Beethoven Frieze may be accessible. Optional audio guides and tours cost extra.",
       "admission": "Free museum entry for everyone. Optional audio guides and tours cost extra.",
       "language": "Self-guided museum visit; check the original page for available text and audio languages.",
       "languageDependent": false,
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1438,14 +1369,12 @@
       "languageDependent": false,
       "languageCode": "not-needed",
       "source": "Leopold Museum",
-      "url": "https://www.leopoldmuseum.org/de/besuch/programm/1132/7329",
-      "checkedOn": "2026-11-06",
+      "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "See original page",
-      "extraUrl": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "extraLabel": "3 December PORR Night"
+      "availability": "See original page"
     },
     {
       "id": "kunsthalle-mq-free-sunday",
@@ -1611,7 +1540,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1643,7 +1572,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1739,7 +1668,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1754,7 +1683,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-07",
         "2026-11-08",
         "2026-11-10",
@@ -1835,7 +1763,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -1895,7 +1822,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -2055,7 +1981,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-06",
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
@@ -2121,7 +2046,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2207,7 +2132,7 @@
       "languageCode": "not-needed",
       "source": "mdw · Early Music Department",
       "url": "https://mdw.ac.at/altemusik/event/studienkonzert-cembalo-37/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2239,7 +2164,7 @@
       "languageCode": "not-needed",
       "source": "mdw · Early Music Department",
       "url": "https://mdw.ac.at/altemusik/event/studienkonzert-violoncello-3/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2303,7 +2228,7 @@
       "languageCode": "not-needed",
       "source": "mdw · Early Music Department",
       "url": "https://mdw.ac.at/altemusik/event/studienkonzert-cembalo-38/",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2818,7 +2743,7 @@
     {
       "timeEndDayOffset": 0,
       "setting": "outdoor",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-07",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2835,21 +2760,86 @@
         "2027-01-01"
       ],
       "time": "11:00",
-      "timeEnd": null,
+      "timeEnd": "13:30",
       "venue": "Wintermarkt am Riesenradplatz",
       "address": "Riesenradplatz, 1020 Wien",
       "district": "2nd · Leopoldstadt",
       "description": "Start the year with the Vienna Philharmonic’s New Year’s Concert broadcast beside the Giant Ferris Wheel.",
-      "details": "The Wintermarkt advertises its LED-wall broadcast from 11:00 on 1 January 2027. This is an outdoor transmission of the concert from the Musikverein. Finishing time is unpublished.",
+      "details": "The organiser’s individual event page gives 11:00–13:30 on 1 January 2027. Watch the Vienna Philharmonic’s New Year’s Concert from the Musikverein on the outdoor LED wall at Riesenradplatz.",
       "admission": "Free entry. Optional food, drinks and attractions cost extra.",
       "language": "Orchestral music; broadcast commentary language not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
-      "url": "https://www.wintermarkt.at/en/new-years-eve/new-year/",
+      "url": "https://www.wintermarkt.at/veranstaltungen/details/liveuebertragung-neujahrskonzert-5-2027/",
       "extraUrl": "https://www.wintermarkt.at/silvester/neujahr/",
       "extraLabel": "Programme and visitor information",
       "availability": "See the organiser’s current programme"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Concert"
+      ],
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "language": "Instrumental and electronic music; spoken introductions not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "checkedOn": "2026-11-07",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "teresa-hackel-closing-concert-20261121",
+      "title": "Teresa Hackel masterclass · Closing concert",
+      "subtitle": "Performances by the masterclass participants",
+      "dates": [
+        "2026-11-21"
+      ],
+      "time": "15:00",
+      "timeEnd": "16:00",
+      "venue": "mdw Bankettsaal",
+      "address": "Anton-von-Webern-Platz 1, 1030 Wien",
+      "district": "3rd · Landstraße",
+      "description": "Hear the participants in Teresa Hackel’s masterclass in a public afternoon concert.",
+      "details": "The Early Music Department publishes a one-hour closing concert at the mdw campus. See the organiser page for programme updates.",
+      "admission": "Free admission to the concert.",
+      "source": "mdw · Early Music Department",
+      "url": "https://mdw.ac.at/altemusik/event/abschlusskonzert-masterclass-teresa-hackel/",
+      "availability": "See the organiser page"
+    },
+    {
+      "type": "music",
+      "tags": [
+        "Concert"
+      ],
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "language": "Instrumental and electronic music; spoken introductions not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "checkedOn": "2026-11-07",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "names-spirits-in-complexity-20261113",
+      "title": "NAMES · Spirits in Complexity",
+      "subtitle": "Künstliche Naturen · Wien Modern",
+      "dates": [
+        "2026-11-13"
+      ],
+      "time": "20:00",
+      "timeEnd": "21:00",
+      "venue": "mdw Klangtheater",
+      "address": "Anton-von-Webern-Platz 1, 1030 Wien",
+      "district": "3rd · Landstraße",
+      "description": "Contemporary ensemble music, installations and live electronics explore artificial natures.",
+      "details": "The programme includes works by Patrik Lechner, Marco Döttlinger, Thomas Grill and Angélica Castelló. Approximate finishing time 21:00. Registration is required through the organiser’s Eventim Light link; the booking service could not be read.",
+      "admission": "Free admission; advance registration required.",
+      "source": "Wien Modern",
+      "url": "https://www.wienmodern.at/2026-names-spirits-in-complexity-de-4530",
+      "bookingUrl": "https://www.eventim-light.com/at/a/65d46d6cf2623b018ebe7486/e/6aba49dc6095a69cdcc7849f",
+      "availability": "Registration required; remaining places unverified"
     }
   ],
   "sources": [
@@ -3074,12 +3064,18 @@
       "label": "Official city tourism calendar",
       "url": "https://www.wien.info/de/aktuell/veranstaltungen/wiener-silvesterpfad-2024-1046670",
       "note": "Lists the 31 December 2026 Silvesterpfad date and hours; describes the city-centre route and free admission."
+    },
+    {
+      "name": "Wien Modern",
+      "label": "Official festival programme",
+      "url": "https://www.wienmodern.at/",
+      "note": "Individual performance pages confirm concert date, hours, venue, programme and admission; booking capacity is shown separately."
     }
   ],
   "statusNotes": [
-    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. The VOICE MANIA detail page and Wurstfabrik concert page were also inaccessible.",
-    "Böhmischer Prater’s full admission text could not be retrieved. Unrechecked listings retain their previous checked dates.",
-    "Remaining places are unverified for Diversity Ball Dance and American Improv; YesTicket currently shows a waiting list for both American Improv dates."
+    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Böhmischer Prater’s full admission text was not retrievable.",
+    "The NAMES registration service could not be read; remaining places are unverified. Booking capacity was not rechecked for Diversity Ball Dance or American Improv.",
+    "Unrechecked listings retain their previous checked dates."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
