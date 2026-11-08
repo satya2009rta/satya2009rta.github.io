@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "revision": "f24611ce-a8f6-4698-b015-12ae24f554bf",
-  "updatedAt": "2026-11-07T07:01:04Z",
-  "lastScanAt": "2026-11-07T07:01:04Z",
+  "revision": "4ad90b75-7022-493f-a602-dc8b8e55ab47",
+  "updatedAt": "2026-11-08T07:03:25Z",
+  "lastScanAt": "2026-11-08T07:03:25Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-07: Searched upcoming entertainment through 6 January and Indian touring/cultural discovery through early March; partial coverage. Added NAMES: Spirits in Complexity on 13 November, 20:00–approximately 21:00, free with registration, and the public Teresa Hackel masterclass closing concert on 21 November, 15:00–16:00, free. The NAMES Eventim Light service redirected to an inaccessible queue; capacity is unverified.",
-    "Rechecked the mdw 24 November and 15 December harpsichord recitals and 26 November cello recital. Corrected Prater New Year’s Concert broadcast to the individual event URL and its published 13:30 finish. Removed completed 6 November dates, including both Balcanto cards. Other entertainment sources retain their prior checked dates.",
-    "Rechecked Römermuseum, Uhrenmuseum and both Beethoven locations, including admission, Sunday hours, holiday closures and lunch breaks. HGM first-Sunday admission and closures rechecked. Rechecked Secession’s first-Wednesday rule and holiday hours; extended to 6 January with explicitly published 10:00–18:00 holiday hours. Leopold’s old November link returned 404; replaced with the verified 3 December PORR Night page. Rechecked hdgö ordinary admission and Human Rights Day rules, without inferring special holiday evenings. Horten December slots remain sold out.",
-    "Belvedere release-date pages, Kunsthalle November free-Sunday page and Jewish Museum Happy Friday rule were readable, but full retained date/hour coverage was not rechecked; their checked dates remain unchanged. No extension for other unrechecked museum sources. City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory was readable; museumGuide remains unchanged because its full source set was not reverified.",
-    "Alszeilenmarkt and Prater parade date/time/free admission rechecked. Böhmischer Prater date/time visible but full admission text remains behind the collapsed description, so its checked date is retained. Oberlaa remains unconfirmed. LUX Preview Days’ remaining films advertise German subtitles, so no addition. The Wien Modern overview misleadingly labels some paid events free: individual PHACE and PRST party pages give EUR prices, so neither was added. Wider English theatre, Indian-comedian/cultural and nearby discovery produced no other fully verified additions."
+    "2026-11-08: Researched upcoming entertainment through 7 January and Indian touring/cultural discovery into early March; partial coverage. Added the Jewish Museum’s 8 November open day as two location-specific self-guided visits: both sites free, no registration, ordinary Sunday hours 10:00–18:00. Added Self-Portrait Along the Borderline on 11 November at 18:30; the organiser homepage and individual page now agree on 11 November, with Georgian audio/English subtitles and free entry. Registration is advertised but capacity was not checked; discussion language and finish are unpublished.",
+    "Added It was Daym at Reigen on 10 December, 20:30–23:30. The venue confirms date, hours and address, while the established IG-JAZZ Wien programme explicitly confirms free admission. Performer line-up remains unpublished. Mirror Project film admission/date are readable but language details remain unconfirmed, so it was not added. Zeppelin’s current Indian touring overview and wider searches produced no new verified Vienna/nearby match; Munich and western Europe dates were not added.",
+    "Rechecked Belle Fin and Mwita Mataro individual MQ pages. Rechecked Alszeilenmarkt and Prater parade date/time/free admission. Böhmischer Prater full admission description remains collapsed; checked date preserved. Wurstfabrik individual page was inaccessible. Removed completed 7 November UTSAV and Vintage occurrence. Other unrechecked future entertainment retains its dates and previous checked dates.",
+    "Rechecked Wien Museum Karlsplatz admission and hours, musa admission/hours, Secession free-Wednesday rule, December Leopold PORR Night, hdgö Thursday/Human Rights Day admission, Jewish Museum Happy Friday/hours, Horten sold-out December slots and November Belvedere release date. Extended Karlsplatz and musa recurring dates through 7 January using published opening rules; retained existing Christmas/New Year omissions. Rechecked DÖW permanent exhibition weekday hours/free entry and VWI September–June weekday hours/free entry; extended through 7 January with 6 January holiday excluded. Added hdgö 7 January ordinary Thursday only, without inferring December holiday evenings.",
+    "HGM and Kunsthalle December free-Sunday pages were accessible but not all retained dates/hours were fully reverified; checked dates retained. City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory readable; museumGuide remains unchanged because its full source set was not reverified. No extensions to unrechecked museum sources. Existing booking-release, sold-out and waiting-list caveats preserved."
   ],
   "events": [
     {
@@ -135,7 +135,7 @@
         "MQ Tunes"
       ],
       "description": "Belle Fin plays the free winter music series at MuseumsQuartier.",
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-08",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -271,38 +271,6 @@
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "id": "utsav-20261107",
-      "title": "UTSAV 2026",
-      "subtitle": "Indian music, dance & community celebration",
-      "type": "festival",
-      "tags": [
-        "Indian culture"
-      ],
-      "dates": [
-        "2026-11-07"
-      ],
-      "time": "17:00",
-      "timeEnd": null,
-      "timeEndDayOffset": 0,
-      "venue": "VHS Floridsdorf",
-      "address": "Angererstraße 14, 1210 Wien",
-      "district": "21st · Floridsdorf",
-      "setting": "indoor",
-      "description": "An Indian cultural evening with dance and music, plus optional Indian food during the interval.",
-      "details": "The local community announcement also lists sketches and a tombola. Spoken-language details and finishing time are not published.",
-      "admission": "Free entry is explicitly stated. Food and tombola purchases are optional.",
-      "language": "Languages of sketches are unconfirmed.",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "source": "MeinBezirk · community announcement",
-      "url": "https://www.meinbezirk.at/event/floridsdorf/c-brauchtum-kultur/kulturveranstaltung-utsav-2026_e3983699",
-      "checkedOn": "2026-11-03",
-      "priceEur": 0,
-      "indian": true,
-      "area": "vienna",
-      "availability": "Booking details not stated"
     },
     {
       "id": "rock-n-roll-karaoke",
@@ -631,7 +599,7 @@
         "MQ Tunes"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -763,7 +731,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-14"
       ],
       "time": "22:00",
@@ -944,7 +911,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1025,7 +992,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-10",
         "2026-11-11",
@@ -1072,7 +1038,9 @@
         "2026-12-31",
         "2027-01-02",
         "2027-01-03",
-        "2027-01-05"
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1089,7 +1057,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1138,7 +1106,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1338,7 +1306,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1370,7 +1338,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1472,7 +1440,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1504,7 +1472,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1523,7 +1491,8 @@
         "2026-11-19",
         "2026-11-26",
         "2026-12-03",
-        "2026-12-17"
+        "2026-12-17",
+        "2027-01-07"
       ],
       "time": "18:00",
       "timeEnd": "20:00",
@@ -1540,7 +1509,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1572,7 +1541,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1604,7 +1573,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1668,7 +1637,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1683,7 +1652,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-07",
         "2026-11-08",
         "2026-11-10",
         "2026-11-11",
@@ -1729,7 +1697,9 @@
         "2026-12-30",
         "2027-01-02",
         "2027-01-03",
-        "2027-01-05"
+        "2027-01-05",
+        "2027-01-06",
+        "2027-01-07"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -1746,7 +1716,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/musa",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1857,7 +1827,9 @@
         "2026-12-28",
         "2026-12-29",
         "2026-12-30",
-        "2027-01-04"
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-07"
       ],
       "time": "09:00",
       "timeEnd": "17:00",
@@ -1874,7 +1846,7 @@
       "languageCode": "not-needed",
       "source": "DÖW",
       "url": "https://www.doew.at/oeffnungszeiten",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2016,7 +1988,9 @@
         "2026-12-28",
         "2026-12-29",
         "2026-12-30",
-        "2027-01-04"
+        "2027-01-04",
+        "2027-01-05",
+        "2027-01-07"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -2033,7 +2007,7 @@
       "languageCode": "not-needed",
       "source": "Vienna Wiesenthal Institute",
       "url": "https://museum.vwi.ac.at/besuch-planen",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2046,7 +2020,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-08",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2840,6 +2814,138 @@
       "url": "https://www.wienmodern.at/2026-names-spirits-in-complexity-de-4530",
       "bookingUrl": "https://www.eventim-light.com/at/a/65d46d6cf2623b018ebe7486/e/6aba49dc6095a69cdcc7849f",
       "availability": "Registration required; remaining places unverified"
+    },
+    {
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "checkedOn": "2026-11-08",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "self-portrait-borderline-20261111",
+      "title": "Self-Portrait Along the Borderline",
+      "subtitle": "Documentary screening at Dialogbüro Vienna",
+      "type": "film",
+      "tags": [
+        "Cinema",
+        "English subtitles"
+      ],
+      "dates": [
+        "2026-11-11"
+      ],
+      "time": "18:30",
+      "timeEnd": null,
+      "venue": "Dialogbüro Vienna",
+      "address": "Eßlinggasse 9/6, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "description": "Anna Dziapshipa’s personal documentary revisits family archives and an abandoned home in Abkhazia.",
+      "details": "The film runs 52 minutes. A discussion with Anna Dziapshipa and Tamta Khalvashi follows; its language and the evening’s finishing time are not published. The organiser advertises registration; check its page for arrangements.",
+      "admission": "Free admission. Registration advertised by the organiser.",
+      "language": "Georgian with English subtitles. Discussion language not specified.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Dialogbüro Vienna",
+      "url": "https://dialogbuero-vienna.at/events/self-portrait-along-the-borderline",
+      "availability": "Check the organiser’s registration arrangements; remaining places unverified"
+    },
+    {
+      "timeEndDayOffset": 0,
+      "setting": "indoor",
+      "checkedOn": "2026-11-08",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "id": "it-was-daym-20261210",
+      "title": "It was Daym · In-Memoriam Concert",
+      "subtitle": "Musical companions remember Karin Daym",
+      "type": "music",
+      "tags": [
+        "Live music",
+        "Tribute concert"
+      ],
+      "dates": [
+        "2026-12-10"
+      ],
+      "time": "20:30",
+      "timeEnd": "23:30",
+      "venue": "Reigen Live",
+      "address": "Hadikgasse 62, 1140 Wien",
+      "district": "14th · Penzing",
+      "description": "Musicians from Karin Daym’s circle gather for an evening honouring the Vienna blues singer.",
+      "details": "The venue lists 20:30–23:30. The line-up is still to be announced. IG-JAZZ Wien explicitly lists free admission for this performance.",
+      "admission": "Free admission, confirmed by IG-JAZZ Wien’s concert programme. Optional food and drinks cost extra.",
+      "language": "Live music; spoken introductions not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Reigen Live · IG-JAZZ Wien",
+      "url": "https://www.reigen.at/event/it-was-daym-in-memoriam-konzert/",
+      "extraUrl": "https://www.ig-jazz.at/live/reigen.php",
+      "extraLabel": "Concert and admission listing",
+      "availability": "See the venue page for current arrangements"
+    },
+    {
+      "id": "jewish-museum-open-day-20261108",
+      "title": "Jewish Museum Dorotheergasse · Open Day",
+      "subtitle": "Free museum day",
+      "type": "museum",
+      "tags": [
+        "Open day"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "time": "10:00",
+      "timeEnd": "18:00",
+      "timeEndDayOffset": 0,
+      "venue": "Jewish Museum Dorotheergasse",
+      "address": "Dorotheergasse 11, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "setting": "indoor",
+      "description": "Explore the museum’s permanent and temporary exhibitions during its open day.",
+      "details": "The museum confirms free entry at both locations on 8 November, with no registration needed. This listing is for a self-guided visit; the organiser page also lists optional tours and activities.",
+      "admission": "Free museum admission. No registration required.",
+      "language": "Self-guided museum visit; check the original page for available text and audio languages.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Jüdisches Museum Wien",
+      "url": "https://jmw.at/events/tag_der_offenen_tuer_1",
+      "checkedOn": "2026-11-08",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No registration necessary"
+    },
+    {
+      "id": "judenplatz-open-day-20261108",
+      "title": "Museum Judenplatz · Open Day",
+      "subtitle": "Free museum day",
+      "type": "museum",
+      "tags": [
+        "Open day"
+      ],
+      "dates": [
+        "2026-11-08"
+      ],
+      "time": "10:00",
+      "timeEnd": "18:00",
+      "timeEndDayOffset": 0,
+      "venue": "Museum Judenplatz",
+      "address": "Judenplatz 8, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "setting": "indoor",
+      "description": "Explore the museum’s permanent and temporary exhibitions during its open day.",
+      "details": "The museum confirms free entry at both locations on 8 November, with no registration needed. This listing is for a self-guided visit; the organiser page also lists optional tours and activities.",
+      "admission": "Free museum admission. No registration required.",
+      "language": "Self-guided museum visit; check the original page for available text and audio languages.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Jüdisches Museum Wien",
+      "url": "https://jmw.at/events/tag_der_offenen_tuer_1",
+      "checkedOn": "2026-11-08",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No registration necessary"
     }
   ],
   "sources": [
@@ -3070,12 +3176,24 @@
       "label": "Official festival programme",
       "url": "https://www.wienmodern.at/",
       "note": "Individual performance pages confirm concert date, hours, venue, programme and admission; booking capacity is shown separately."
+    },
+    {
+      "name": "Dialogbüro Vienna",
+      "label": "Official organiser announcement",
+      "url": "https://dialogbuero-vienna.at/events/self-portrait-along-the-borderline",
+      "note": "Confirms screening date, start time, address, Georgian audio with English subtitles and free admission."
+    },
+    {
+      "name": "Reigen Live · IG-JAZZ Wien",
+      "label": "Venue and jazz association programme",
+      "url": "https://www.reigen.at/event/it-was-daym-in-memoriam-konzert/",
+      "note": "Reigen confirms the concert date, hours and address; IG-JAZZ Wien explicitly confirms free admission."
     }
   ],
   "statusNotes": [
-    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Böhmischer Prater’s full admission text was not retrievable.",
-    "The NAMES registration service could not be read; remaining places are unverified. Booking capacity was not rechecked for Diversity Ball Dance or American Improv.",
-    "Unrechecked listings retain their previous checked dates."
+    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Wurstfabrik’s individual concert page was inaccessible.",
+    "Böhmischer Prater’s full admission description could not be retrieved. Unrechecked listings retain their previous checked dates.",
+    "Remaining places were not verified for Dialogbüro’s screening, NAMES, Diversity Ball Dance or American Improv."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
