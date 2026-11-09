@@ -1,19 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": "4ad90b75-7022-493f-a602-dc8b8e55ab47",
-  "updatedAt": "2026-11-08T07:03:25Z",
-  "lastScanAt": "2026-11-08T07:03:25Z",
+  "revision": "25cbc40f-845c-436a-bd8c-363fedea3568",
+  "updatedAt": "2026-11-09T07:03:25.966255Z",
+  "lastScanAt": "2026-11-09T07:03:25.966255Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-08: Researched upcoming entertainment through 7 January and Indian touring/cultural discovery into early March; partial coverage. Added the Jewish Museum’s 8 November open day as two location-specific self-guided visits: both sites free, no registration, ordinary Sunday hours 10:00–18:00. Added Self-Portrait Along the Borderline on 11 November at 18:30; the organiser homepage and individual page now agree on 11 November, with Georgian audio/English subtitles and free entry. Registration is advertised but capacity was not checked; discussion language and finish are unpublished.",
-    "Added It was Daym at Reigen on 10 December, 20:30–23:30. The venue confirms date, hours and address, while the established IG-JAZZ Wien programme explicitly confirms free admission. Performer line-up remains unpublished. Mirror Project film admission/date are readable but language details remain unconfirmed, so it was not added. Zeppelin’s current Indian touring overview and wider searches produced no new verified Vienna/nearby match; Munich and western Europe dates were not added.",
-    "Rechecked Belle Fin and Mwita Mataro individual MQ pages. Rechecked Alszeilenmarkt and Prater parade date/time/free admission. Böhmischer Prater full admission description remains collapsed; checked date preserved. Wurstfabrik individual page was inaccessible. Removed completed 7 November UTSAV and Vintage occurrence. Other unrechecked future entertainment retains its dates and previous checked dates.",
-    "Rechecked Wien Museum Karlsplatz admission and hours, musa admission/hours, Secession free-Wednesday rule, December Leopold PORR Night, hdgö Thursday/Human Rights Day admission, Jewish Museum Happy Friday/hours, Horten sold-out December slots and November Belvedere release date. Extended Karlsplatz and musa recurring dates through 7 January using published opening rules; retained existing Christmas/New Year omissions. Rechecked DÖW permanent exhibition weekday hours/free entry and VWI September–June weekday hours/free entry; extended through 7 January with 6 January holiday excluded. Added hdgö 7 January ordinary Thursday only, without inferring December holiday evenings.",
-    "HGM and Kunsthalle December free-Sunday pages were accessible but not all retained dates/hours were fully reverified; checked dates retained. City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory readable; museumGuide remains unchanged because its full source set was not reverified. No extensions to unrechecked museum sources. Existing booking-release, sold-out and waiting-list caveats preserved."
+    "2026-11-09: Partial upcoming-event search through 8 January, with wider Indian touring/cultural discovery into early March. Added Los destellos (14 November, 16:00–18:00) and O corno (27 November, 18:00–20:00) from individual Belvedere pages: free event tickets required and English subtitles confirmed. Booking links advertised; live remaining capacity not independently confirmed. Broader Indian-event searches and Zeppelin’s touring overview yielded no additional verified local match. Oberlaa remains unconfirmed for 2026 admission and was not added.",
+    "Rechecked MQ opening, Il Riposo, Villa Vida film, FREIES KINO, SeeLightNight, Diversity Ball Dance and both American Improv dates. YesTicket still shows waiting-list notices and external booking. Rechecked Alszeilenmarkt and Prater parade date/time/free admission. Böhmischer Prater date/time readable but full admission description remains collapsed; kept its old checked date. Wurstfabrik individual page remains inaccessible. Removed completed 8 November concert and Jewish Museum open-day records, and pruned past recurring dates.",
+    "Rechecked Wien Museum Karlsplatz admission/hours and first-Sunday rule; extended permanent collection to 8 January while retaining existing holiday omissions. Rechecked HGM, Secession, Leopold PORR Night, Jewish Museum Happy Friday, hdgö, Horten and November Belvedere ticket release. Extended Leopold to 7 January using explicit first-Thursday 18:00–21:00 rule. Horten December slots remain sold out; November Belvedere booking opens 13 November. Kunsthalle November MQ and December both-location pages and opening-hours page read; updated MQ checked date, retained Karlsplatz combined-record checked date because November location coverage was not fully reconfirmed.",
+    "City free-museum directory and Fire Brigade Museum failed with 500 errors. District-museum directory and Wien Museum locations were readable, but museumGuide’s full source set was not reverified, so it remains unchanged. Musa page’s admission section did not expose full terms; retained its old checked date. Unrechecked future events and museum sources retain previous checked dates; no coverage-completeness claim."
   ],
   "events": [
     {
@@ -103,7 +102,7 @@
       "language": "Programme language not specified.",
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/en/program/winter-im-mq/winter-in-mq-2026/20261112-1800/",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -363,7 +362,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-25-11-26/",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -395,7 +394,7 @@
       "languageCode": "en",
       "source": "American Improv",
       "url": "https://www.yesticket.org/event/en/american-improv-stage-time-free-english-comedy-night-16-12-26/",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -406,7 +405,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -755,38 +754,6 @@
       "availability": "See venue page"
     },
     {
-      "type": "music",
-      "tags": [
-        "Classical"
-      ],
-      "timeEnd": null,
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-06",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "Unreserved seating",
-      "setting": "indoor",
-      "admission": "Free admission.",
-      "language": "Performance and hosting languages are not specified.",
-      "venue": "Kleiner Ehrbar Saal",
-      "address": "Mühlgasse 30, 1040 Wien",
-      "district": "4th · Wieden",
-      "source": "Ehrbar Saal",
-      "id": "gioiello-ensemble-20261108",
-      "title": "Gioiello Ensemble in Vienna",
-      "subtitle": "An afternoon at the piano",
-      "dates": [
-        "2026-11-08"
-      ],
-      "time": "13:30",
-      "description": "Six pianists play Debussy, Chopin, Piazzolla, Schubert and Beethoven, with four- and eight-hand pieces after the interval.",
-      "details": "Free choice of seats. Finishing time is not published.",
-      "url": "https://ehrbarsaal.at/konzerte/gioiello-ensemble-in-vienna/"
-    },
-    {
       "type": "festival",
       "tags": [
         "Lights",
@@ -794,7 +761,7 @@
       ],
       "timeEnd": "20:00",
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -911,7 +878,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -992,7 +959,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -1040,7 +1006,8 @@
         "2027-01-03",
         "2027-01-05",
         "2027-01-06",
-        "2027-01-07"
+        "2027-01-07",
+        "2027-01-08"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1057,7 +1024,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1106,7 +1073,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1273,7 +1240,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-07",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1306,7 +1273,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1321,7 +1288,8 @@
         "First Thursday evening"
       ],
       "dates": [
-        "2026-12-03"
+        "2026-12-03",
+        "2027-01-07"
       ],
       "time": "18:00",
       "timeEnd": "21:00",
@@ -1338,7 +1306,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1371,7 +1339,7 @@
       "languageCode": "not-needed",
       "source": "Kunsthalle Wien",
       "url": "https://kunsthallewien.at/en/event/free-sunday-10",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1440,7 +1408,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1472,7 +1440,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1509,7 +1477,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1541,7 +1509,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1573,7 +1541,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1637,7 +1605,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1652,7 +1620,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -1867,7 +1834,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-08",
         "2026-11-10",
         "2026-11-15",
         "2026-11-17",
@@ -2020,7 +1986,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2219,7 +2185,7 @@
       "language": "Music and dancing; announcement language not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2615,7 +2581,7 @@
     {
       "timeEndDayOffset": 0,
       "setting": "indoor",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2648,7 +2614,7 @@
     {
       "timeEndDayOffset": 0,
       "setting": "indoor",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2884,68 +2850,70 @@
       "availability": "See the venue page for current arrangements"
     },
     {
-      "id": "jewish-museum-open-day-20261108",
-      "title": "Jewish Museum Dorotheergasse · Open Day",
-      "subtitle": "Free museum day",
-      "type": "museum",
+      "id": "los-destellos-20261114",
+      "title": "Spanish Film Days · Los destellos",
+      "subtitle": "Cinema at Belvedere 21",
+      "type": "film",
       "tags": [
-        "Open day"
+        "Cinema",
+        "English subtitles"
       ],
       "dates": [
-        "2026-11-08"
+        "2026-11-14"
       ],
-      "time": "10:00",
+      "time": "16:00",
       "timeEnd": "18:00",
       "timeEndDayOffset": 0,
-      "venue": "Jewish Museum Dorotheergasse",
-      "address": "Dorotheergasse 11, 1010 Wien",
-      "district": "1st · Innere Stadt",
+      "venue": "Blickle Kino · Belvedere 21",
+      "address": "Arsenalstraße 1, 1030 Wien",
+      "district": "3rd · Landstraße",
       "setting": "indoor",
-      "description": "Explore the museum’s permanent and temporary exhibitions during its open day.",
-      "details": "The museum confirms free entry at both locations on 8 November, with no registration needed. This listing is for a self-guided visit; the organiser page also lists optional tours and activities.",
-      "admission": "Free museum admission. No registration required.",
-      "language": "Self-guided museum visit; check the original page for available text and audio languages.",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "source": "Jüdisches Museum Wien",
-      "url": "https://jmw.at/events/tag_der_offenen_tuer_1",
-      "checkedOn": "2026-11-08",
+      "description": "Pilar Palomero’s drama follows a family reunited as a daughter and her mother care for her terminally ill father.",
+      "details": "The film runs 101 minutes within the advertised two-hour event slot. A free event ticket is required; any remaining seats may be offered at the venue subject to availability. Check the ticket link for current capacity.",
+      "admission": "Free admission (€0). Free event ticket required; remaining seats subject to availability.",
+      "language": "Spanish original version with English subtitles.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Belvedere",
+      "url": "https://www.belvedere.at/event/spanische-filmtage-los-destellos",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "No registration necessary"
+      "availability": "Free ticket link advertised; remaining capacity not independently confirmed"
     },
     {
-      "id": "judenplatz-open-day-20261108",
-      "title": "Museum Judenplatz · Open Day",
-      "subtitle": "Free museum day",
-      "type": "museum",
+      "id": "o-corno-20261127",
+      "title": "Spanish Film Days · O corno",
+      "subtitle": "Cinema at Belvedere 21",
+      "type": "film",
       "tags": [
-        "Open day"
+        "Cinema",
+        "English subtitles"
       ],
       "dates": [
-        "2026-11-08"
+        "2026-11-27"
       ],
-      "time": "10:00",
-      "timeEnd": "18:00",
+      "time": "18:00",
+      "timeEnd": "20:00",
       "timeEndDayOffset": 0,
-      "venue": "Museum Judenplatz",
-      "address": "Judenplatz 8, 1010 Wien",
-      "district": "1st · Innere Stadt",
+      "venue": "Blickle Kino · Belvedere 21",
+      "address": "Arsenalstraße 1, 1030 Wien",
+      "district": "3rd · Landstraße",
       "setting": "indoor",
-      "description": "Explore the museum’s permanent and temporary exhibitions during its open day.",
-      "details": "The museum confirms free entry at both locations on 8 November, with no registration needed. This listing is for a self-guided visit; the organiser page also lists optional tours and activities.",
-      "admission": "Free museum admission. No registration required.",
-      "language": "Self-guided museum visit; check the original page for available text and audio languages.",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "source": "Jüdisches Museum Wien",
-      "url": "https://jmw.at/events/tag_der_offenen_tuer_1",
-      "checkedOn": "2026-11-08",
+      "description": "Jaione Camborda’s drama follows a midwife fleeing Galicia in 1971 along a smuggling route to Portugal.",
+      "details": "The film runs 105 minutes within the advertised two-hour event slot. A free event ticket is required; any remaining seats may be offered at the venue subject to availability. Check the ticket link for current capacity.",
+      "admission": "Free admission (€0). Free event ticket required; remaining seats subject to availability.",
+      "language": "Galician and Portuguese original version with English subtitles.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Belvedere",
+      "url": "https://www.belvedere.at/event/spanische-filmtage-o-corno",
+      "checkedOn": "2026-11-09",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "No registration necessary"
+      "availability": "Free ticket link advertised; remaining capacity not independently confirmed"
     }
   ],
   "sources": [
@@ -3091,7 +3059,7 @@
       "name": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
       "label": "Official museum",
-      "note": "Dated Free Friday Nights, free time-slot tickets and booking release dates."
+      "note": "Official event pages confirm Free Friday Night dates and ticket-release details, plus Spanish Film Days dates, hours, free event tickets and English subtitles."
     },
     {
       "name": "Heidi Horten Collection",
@@ -3193,7 +3161,7 @@
   "statusNotes": [
     "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Wurstfabrik’s individual concert page was inaccessible.",
     "Böhmischer Prater’s full admission description could not be retrieved. Unrechecked listings retain their previous checked dates.",
-    "Remaining places were not verified for Dialogbüro’s screening, NAMES, Diversity Ball Dance or American Improv."
+    "Remaining places were not independently confirmed for the new Belvedere film screenings, Dialogbüro’s screening, NAMES or Diversity Ball Dance. American Improv’s booking pages show waiting-list notices."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
