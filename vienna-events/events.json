@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": "25cbc40f-845c-436a-bd8c-363fedea3568",
-  "updatedAt": "2026-11-09T07:03:25.966255Z",
-  "lastScanAt": "2026-11-09T07:03:25.966255Z",
+  "revision": "3834d1d1-4917-4c9b-8170-98e56753fae7",
+  "updatedAt": "2026-11-10T07:06:28.613056Z",
+  "lastScanAt": "2026-11-10T07:06:28.613056Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-09: Partial upcoming-event search through 8 January, with wider Indian touring/cultural discovery into early March. Added Los destellos (14 November, 16:00–18:00) and O corno (27 November, 18:00–20:00) from individual Belvedere pages: free event tickets required and English subtitles confirmed. Booking links advertised; live remaining capacity not independently confirmed. Broader Indian-event searches and Zeppelin’s touring overview yielded no additional verified local match. Oberlaa remains unconfirmed for 2026 admission and was not added.",
-    "Rechecked MQ opening, Il Riposo, Villa Vida film, FREIES KINO, SeeLightNight, Diversity Ball Dance and both American Improv dates. YesTicket still shows waiting-list notices and external booking. Rechecked Alszeilenmarkt and Prater parade date/time/free admission. Böhmischer Prater date/time readable but full admission description remains collapsed; kept its old checked date. Wurstfabrik individual page remains inaccessible. Removed completed 8 November concert and Jewish Museum open-day records, and pruned past recurring dates.",
-    "Rechecked Wien Museum Karlsplatz admission/hours and first-Sunday rule; extended permanent collection to 8 January while retaining existing holiday omissions. Rechecked HGM, Secession, Leopold PORR Night, Jewish Museum Happy Friday, hdgö, Horten and November Belvedere ticket release. Extended Leopold to 7 January using explicit first-Thursday 18:00–21:00 rule. Horten December slots remain sold out; November Belvedere booking opens 13 November. Kunsthalle November MQ and December both-location pages and opening-hours page read; updated MQ checked date, retained Karlsplatz combined-record checked date because November location coverage was not fully reconfirmed.",
-    "City free-museum directory and Fire Brigade Museum failed with 500 errors. District-museum directory and Wien Museum locations were readable, but museumGuide’s full source set was not reverified, so it remains unchanged. Musa page’s admission section did not expose full terms; retained its old checked date. Unrechecked future events and museum sources retain previous checked dates; no coverage-completeness claim."
+    "2026-11-10: Partial entertainment discovery through 9 January, with major/Indian touring and cultural searches into early March. Added Man of Marble on 11 November and Man of Iron on 16 December from the co-organiser’s dated Wajda series pages: original versions with English subtitles (OmeU), free admission, no registration and 19:00 film starts. University source corroborates the November screening and room. November end times differ between organiser calendar (21:00 block end) and university programme (22:00 evening end); timeEnd left null. December exact film end also left null.",
+    "Added Just for Kicks with DJ Mani on 18 November, 21:00–02:00, and added individually published 19 November karaoke and 20 November Happy Friday occurrences. Rechecked all four existing Charlie P’s party listings, soulparlez, RUHMER, L’Humanità Redenta, Le Stagioni Ossequiose and Queertactics party. Rechecked the Wintermarkt directory’s opening illumination and first three concerts, and both Alszeilenmarkt/Prater parades. Wurstfabrik individual page inaccessible; old checked date retained. Böhmischer Prater date/time retrieved but admission description still collapsed; checked date retained. Christmas parade search result was for 2025 and was not added. Oberlaa admission remains unverified for 2026.",
+    "Rechecked Wien Museum admission/hours and first-Sunday rule; extended permanent-collection dates to 9 January using published opening rules and retained existing holiday omissions. Rechecked HGM, Secession, Leopold, Jewish Museum, hdgö, December Belvedere ticket release and Horten programme. December Belvedere free slots release 4 December; Horten 10 December slots still labelled sold out. Kunsthalle December page accessible but retained combined-record checked dates because November and all location/date terms were not fully reverified. No extensions to unrechecked museum records.",
+    "City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory readable; full museumGuide source set not reverified, so guide preserved unchanged. University’s old event URL returned 404; current /s/ page was successfully read. Other unrechecked future listings keep their old checked dates. Wider Indian-event and Zeppelin touring searches yielded no additional verified local match. Search coverage remains partial."
   ],
   "events": [
     {
@@ -166,7 +166,7 @@
         "MQ Tunes"
       ],
       "description": "A free courtyard set from soulparlez, part of the winter programme.",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-10",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -230,7 +230,7 @@
         "MQ Tunes"
       ],
       "description": "An outdoor evening with RUHMER in the MQ courtyard.",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-10",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -248,7 +248,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-13"
+        "2026-11-13",
+        "2026-11-20"
       ],
       "time": "22:00",
       "timeEnd": "03:00",
@@ -265,7 +266,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -280,7 +281,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-19"
       ],
       "time": "21:30",
       "timeEnd": "01:30",
@@ -297,7 +299,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -330,7 +332,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -437,7 +439,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -501,7 +503,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -533,7 +535,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -565,7 +567,7 @@
         "Wintermarkt"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -695,7 +697,7 @@
         "Lights"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-03",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -747,7 +749,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -878,7 +880,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1007,7 +1009,8 @@
         "2027-01-05",
         "2027-01-06",
         "2027-01-07",
-        "2027-01-08"
+        "2027-01-08",
+        "2027-01-09"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1024,7 +1027,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1073,7 +1076,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1240,7 +1243,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1273,7 +1276,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1306,7 +1309,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1408,7 +1411,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1440,7 +1443,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1477,7 +1480,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1509,7 +1512,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1573,7 +1576,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-11122026",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1605,7 +1608,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1759,7 +1762,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -1919,7 +1921,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-09",
         "2026-11-10",
         "2026-11-11",
         "2026-11-12",
@@ -1986,7 +1987,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2218,7 +2219,7 @@
       "language": "Music and dancing; announcement language not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-05",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2505,7 +2506,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-10",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2914,6 +2915,108 @@
       "indian": false,
       "area": "vienna",
       "availability": "Free ticket link advertised; remaining capacity not independently confirmed"
+    },
+    {
+      "id": "just-for-kicks-20261118",
+      "title": "Just for Kicks · DJ Mani",
+      "subtitle": "Radio 88.6 at Charlie P’s",
+      "type": "dance",
+      "tags": [
+        "Party"
+      ],
+      "dates": [
+        "2026-11-18"
+      ],
+      "time": "21:00",
+      "timeEnd": "02:00",
+      "timeEndDayOffset": 1,
+      "venue": "Charlie P’s Irish Pub",
+      "address": "Währinger Straße 3, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "DJ Mani plays hits in Charlie P’s Cellar Bar.",
+      "details": "The venue’s dated programme lists 21:00–02:00, finishing the following morning. Optional food and drinks cost extra.",
+      "admission": "Free entry. Optional food and drinks cost extra.",
+      "language": "Music and dancing.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "Charlie P’s",
+      "url": "https://www.charlieps.at/en/events",
+      "checkedOn": "2026-11-10",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "See venue page",
+      "extraUrl": "https://www.charlieps.at/en/just-for-kicks",
+      "extraLabel": "DJ night details"
+    },
+    {
+      "id": "man-of-marble-20261111",
+      "title": "Człowiek z marmuru · Man of Marble",
+      "subtitle": "Andrzej Wajda film retrospective",
+      "type": "film",
+      "tags": [
+        "Cinema",
+        "English subtitles"
+      ],
+      "dates": [
+        "2026-11-11"
+      ],
+      "time": "19:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "University of Vienna · Institute of Slavic Studies, SR 6",
+      "address": "Spitalgasse 2, Hof 3, first floor, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "Watch a classic by Andrzej Wajda in a film series marking the director’s centenary.",
+      "details": "The film begins at 19:00 in Seminar Room 6. The broader evening starts at 18:30 with introductory activities; their language is not specified. No registration is required. The film’s exact finishing time is not confirmed. The organiser calendar ends the block at 21:00, while the university programme ends the evening at 22:00; check on arrival.",
+      "admission": "Free entry. No advance registration required.",
+      "language": "Polish original version with English subtitles (advertised as OmeU). Introductory segments’ language is not specified.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Bilinguales Wien · Wajda film series",
+      "url": "https://dwujezycznywieden.com/wydarzenia/100-lat-andrzeja-wajdy-film-literatura-jezyk-4/2026-11-11/",
+      "checkedOn": "2026-11-10",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No registration required; seating capacity not published",
+      "extraUrl": "https://slawistik.univie.ac.at/s/ii-tagung-der-oesterreichischen-polonistinnen",
+      "extraLabel": "University film programme"
+    },
+    {
+      "id": "man-of-iron-20261216",
+      "title": "Człowiek z żelaza · Man of Iron",
+      "subtitle": "Andrzej Wajda film retrospective",
+      "type": "film",
+      "tags": [
+        "Cinema",
+        "English subtitles"
+      ],
+      "dates": [
+        "2026-12-16"
+      ],
+      "time": "19:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "University of Vienna · Institute of Slavic Studies, SR 6",
+      "address": "Spitalgasse 2, Hof 3, first floor, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "Watch a classic by Andrzej Wajda in a film series marking the director’s centenary.",
+      "details": "The film begins at 19:00 in Seminar Room 6. The broader evening starts at 18:30 with introductory activities; their language is not specified. No registration is required. The film’s exact finishing time is not confirmed.",
+      "admission": "Free entry. No advance registration required.",
+      "language": "Polish original version with English subtitles (advertised as OmeU). Introductory segments’ language is not specified.",
+      "languageDependent": true,
+      "languageCode": "en-subtitles",
+      "source": "Bilinguales Wien · Wajda film series",
+      "url": "https://dwujezycznywieden.com/wydarzenia/100-lat-andrzeja-wajdy-film-literatura-jezyk-4/2026-12-16/",
+      "checkedOn": "2026-11-10",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No registration required; seating capacity not published"
     }
   ],
   "sources": [
@@ -3156,12 +3259,18 @@
       "label": "Venue and jazz association programme",
       "url": "https://www.reigen.at/event/it-was-daym-in-memoriam-konzert/",
       "note": "Reigen confirms the concert date, hours and address; IG-JAZZ Wien explicitly confirms free admission."
+    },
+    {
+      "name": "Bilinguales Wien · Wajda film series",
+      "label": "Organiser programme with university corroboration",
+      "url": "https://dwujezycznywieden.com/wydarzenia/100-lat-andrzeja-wajdy-film-literatura-jezyk-4/2026-11-11/",
+      "note": "Bilinguales Wien lists the November and December screenings, 19:00 film starts, English-subtitled original versions (OmeU), free admission and no registration. The University of Vienna independently confirms the November screening."
     }
   ],
   "statusNotes": [
     "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Wurstfabrik’s individual concert page was inaccessible.",
     "Böhmischer Prater’s full admission description could not be retrieved. Unrechecked listings retain their previous checked dates.",
-    "Remaining places were not independently confirmed for the new Belvedere film screenings, Dialogbüro’s screening, NAMES or Diversity Ball Dance. American Improv’s booking pages show waiting-list notices."
+    "Remaining places were not rechecked for ticketed screenings, NAMES, Diversity Ball Dance or American Improv. See each listing’s booking and waiting-list notes."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
