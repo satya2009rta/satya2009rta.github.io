@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "revision": "3834d1d1-4917-4c9b-8170-98e56753fae7",
-  "updatedAt": "2026-11-10T07:06:28.613056Z",
-  "lastScanAt": "2026-11-10T07:06:28.613056Z",
+  "revision": "d65b1b44-9948-46f0-b526-66434f528e84",
+  "updatedAt": "2026-11-11T07:03:09.499265Z",
+  "lastScanAt": "2026-11-11T07:03:09.499265Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-10: Partial entertainment discovery through 9 January, with major/Indian touring and cultural searches into early March. Added Man of Marble on 11 November and Man of Iron on 16 December from the co-organiser’s dated Wajda series pages: original versions with English subtitles (OmeU), free admission, no registration and 19:00 film starts. University source corroborates the November screening and room. November end times differ between organiser calendar (21:00 block end) and university programme (22:00 evening end); timeEnd left null. December exact film end also left null.",
-    "Added Just for Kicks with DJ Mani on 18 November, 21:00–02:00, and added individually published 19 November karaoke and 20 November Happy Friday occurrences. Rechecked all four existing Charlie P’s party listings, soulparlez, RUHMER, L’Humanità Redenta, Le Stagioni Ossequiose and Queertactics party. Rechecked the Wintermarkt directory’s opening illumination and first three concerts, and both Alszeilenmarkt/Prater parades. Wurstfabrik individual page inaccessible; old checked date retained. Böhmischer Prater date/time retrieved but admission description still collapsed; checked date retained. Christmas parade search result was for 2025 and was not added. Oberlaa admission remains unverified for 2026.",
-    "Rechecked Wien Museum admission/hours and first-Sunday rule; extended permanent-collection dates to 9 January using published opening rules and retained existing holiday omissions. Rechecked HGM, Secession, Leopold, Jewish Museum, hdgö, December Belvedere ticket release and Horten programme. December Belvedere free slots release 4 December; Horten 10 December slots still labelled sold out. Kunsthalle December page accessible but retained combined-record checked dates because November and all location/date terms were not fully reverified. No extensions to unrechecked museum records.",
-    "City free-museum directory and Fire Brigade Museum returned 500 errors. District-museum directory readable; full museumGuide source set not reverified, so guide preserved unchanged. University’s old event URL returned 404; current /s/ page was successfully read. Other unrechecked future listings keep their old checked dates. Wider Indian-event and Zeppelin touring searches yielded no additional verified local match. Search coverage remains partial."
+    "2026-11-11: Partial entertainment discovery through 10 January, plus wider Indian touring/cultural searches into early March. Added four verified mdw Pop-up Adventkalender concerts: City Hall opening 30 November at 18:00; Duo Roséwa at Café Landtmann 1 December at 16:00 (approximately 40 minutes); Kostner con Spirito at Bezirksmuseum Mariahilf 6 December at 11:30; Freedom Square & Voices4u at IKEA Wien Nord 22 December at 16:00. Individual official pages confirm free entry. City Hall requires registration and says its link will follow; other three require no registration. Other finish times left null.",
+    "Rechecked today’s Diversity Ball Dance and Dialogbüro screening, plus Silent Ecologies and Party Modern. Remaining booking capacity was not checked. Rechecked Alszeilenmarkt and Prater parades. Expanded Böhmischer Prater’s Mehr anzeigen in the live organiser page and confirmed 13 December 17:00–18:30, free entry and voluntary charity donations; advanced its checked date. Wurstfabrik individual page remains inaccessible. Removed completed Il Riposo and Lesbian Space Princess records and pruned past museum and party occurrences.",
+    "Rechecked Wien Museum admission/hours and first-Sunday rule, HGM, Secession, Leopold PORR Night, Jewish Museum admission/hours, hdgö, November Belvedere release and Horten programme. Extended Wien Museum permanent collection to 10 January. Rechecked OeNB Geldmuseum’s free entry, Tue–Fri 09:00–17:00 and holiday closures; extended to 8 January, excluding 6 January. Horten December slots remain sold out and November Belvedere booking opens 13 November. Kunsthalle November page read, but combined date/location checked dates retained; December not fully rechecked. Musa admission section not exposed; retained prior check and dates.",
+    "City winter-events and Karmelitermarkt concert pages returned 500 errors after useful official indexed search results; those concert leads were not added. City free-museum directory and Fire Brigade Museum also returned 500 errors. An mdw alias returned 502; the canonical mdw.ac.at pages succeeded. District-museum directory readable, but full museumGuide source set not reverified; guide unchanged. Wider Indian-event searches and current Zeppelin overview yielded no additional verified local match. Unrechecked future records retain old checked dates; coverage remains partial."
   ],
   "events": [
     {
@@ -314,7 +314,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-17"
       ],
       "time": "21:30",
@@ -401,38 +400,6 @@
       "indian": false,
       "area": "vienna",
       "availability": "Waiting list shown; external booking — places unverified"
-    },
-    {
-      "tags": [
-        "Live music"
-      ],
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-09",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "See original page",
-      "type": "music",
-      "setting": "indoor",
-      "admission": "Free admission.",
-      "language": "Performance language and any spoken introductions are not specified.",
-      "source": "mdw · Early Music Department",
-      "id": "il-riposo-20261110",
-      "title": "Il Riposo nelli Disturbi",
-      "subtitle": "Baroque voices and orchestra",
-      "dates": [
-        "2026-11-10"
-      ],
-      "time": "19:00",
-      "timeEnd": "20:30",
-      "venue": "mdw · Joseph Haydn-Saal",
-      "address": "Anton-von-Webern-Platz 1, 1030 Wien",
-      "district": "3rd · Landstraße",
-      "description": "A baroque serenata performed by singers and the mdw Baroque Orchestra.",
-      "details": "Directed by Eugène Michelangeli. The organiser also plans a livestream, with its link to be published on the event page.",
-      "url": "https://mdw.ac.at/altemusik/event/konzert-il-riposo-nelli-disturbi/"
     },
     {
       "tags": [
@@ -880,7 +847,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -905,7 +872,7 @@
       "language": "Performance and hosting languages are not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -937,7 +904,7 @@
       "language": "Performance and hosting languages are not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-04",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -961,7 +928,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1010,7 +976,8 @@
         "2027-01-06",
         "2027-01-07",
         "2027-01-08",
-        "2027-01-09"
+        "2027-01-09",
+        "2027-01-10"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -1027,7 +994,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1076,7 +1043,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1243,7 +1210,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1276,7 +1243,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1309,7 +1276,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1411,7 +1378,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1443,7 +1410,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1480,7 +1447,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1512,7 +1479,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1544,7 +1511,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1608,7 +1575,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1623,7 +1590,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1703,7 +1669,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1730,7 +1695,9 @@
         "2026-12-23",
         "2026-12-29",
         "2026-12-30",
-        "2027-01-05"
+        "2027-01-05",
+        "2027-01-07",
+        "2027-01-08"
       ],
       "time": "09:00",
       "timeEnd": "17:00",
@@ -1747,7 +1714,7 @@
       "languageCode": "not-needed",
       "source": "Oesterreichische Nationalbank",
       "url": "https://www.oenb.at/die-oenb/geldmuseum.html",
-      "checkedOn": "2026-11-06",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1762,7 +1729,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1836,7 +1802,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-15",
         "2026-11-17",
         "2026-11-22",
@@ -1921,7 +1886,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-10",
         "2026-11-11",
         "2026-11-12",
         "2026-11-13",
@@ -1987,7 +1951,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2020,7 +1984,7 @@
       "language": "Spoken announcements are not specified; the focus is the visual parade and show.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-10-31",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2186,7 +2150,7 @@
       "language": "Music and dancing; announcement language not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2586,39 +2550,6 @@
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "id": "lesbian-space-princess-20261110",
-      "title": "Lesbian Space Princess · Sapphic Film Series",
-      "subtitle": "Animated sci-fi comedy at Villa Vida",
-      "type": "film",
-      "tags": [
-        "Cinema",
-        "English"
-      ],
-      "dates": [
-        "2026-11-10"
-      ],
-      "time": "19:00",
-      "timeEnd": "21:30",
-      "venue": "Villa Vida Café",
-      "address": "Linke Wienzeile 102, 1060 Wien",
-      "district": "6th · Mariahilf",
-      "description": "A runaway princess crosses the galaxy in a queer animated adventure about romance, friendship and finding confidence.",
-      "details": "The venue lists the evening as 19:00–21:30. Everyone who respects the space is welcome. Adult humour, strong language, sexual references and animated violence. Wheelchair-accessible venue and toilet.",
-      "admission": "Free screening. Optional café purchases cost extra.",
-      "language": "English original audio; subtitles advertised in English or German.",
-      "languageDependent": true,
-      "languageCode": "en",
-      "source": "Villa Vida Café",
-      "url": "https://villavida.at/event/sapphic-film-series-lesbian-space-princess/",
-      "availability": "Free entry; check the venue page for current arrangements"
-    },
-    {
-      "timeEndDayOffset": 0,
-      "setting": "indoor",
-      "checkedOn": "2026-11-09",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
       "id": "freies-kino-short-films-20261117",
       "title": "FREIES KINO · Austrian Film Award shorts",
       "subtitle": "Four nominated and prize-winning short films",
@@ -2785,7 +2716,7 @@
     {
       "timeEndDayOffset": 0,
       "setting": "indoor",
-      "checkedOn": "2026-11-08",
+      "checkedOn": "2026-11-11",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -3017,6 +2948,138 @@
       "indian": false,
       "area": "vienna",
       "availability": "No registration required; seating capacity not published"
+    },
+    {
+      "id": "mdw-advent-opening-20261130",
+      "title": "mdw Advent Calendar · City Hall Opening",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-11-30"
+      ],
+      "time": "18:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Wiener Rathaus · Arkadenhof & Volkshalle",
+      "address": "Lichtenfelsgasse 2, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "setting": "mixed",
+      "description": "Strings, choral pop, harp and saxophone launch mdw’s Advent concert series.",
+      "details": "The Opus String Quartet, kju:pid choir, a harp-and-voice duo and the mdw Sax Orchestra perform after the official opening. Finishing time is unpublished.",
+      "admission": "Free entry. Registration through the City of Vienna portal is required; the link is still to be announced.",
+      "availability": "Registration required; organiser says the registration link will follow",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119196",
+      "checkedOn": "2026-11-11",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna"
+    },
+    {
+      "id": "mdw-duo-rosewa-20261201",
+      "title": "Duo Roséwa · Winter Sounds",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-01"
+      ],
+      "time": "16:00",
+      "timeEnd": "16:40",
+      "timeEndDayOffset": 0,
+      "venue": "Café Landtmann",
+      "address": "Universitätsring 4, 1010 Wien",
+      "district": "1st · Innere Stadt",
+      "setting": "indoor",
+      "description": "Violin and piano bring Christmas arrangements and classical pieces to Café Landtmann.",
+      "details": "Wakana Kimura and Rinnosuke Matsuno perform a programme advertised as approximately 40 minutes. Optional café purchases cost extra.",
+      "admission": "Free concert entry. No registration or reservation required.",
+      "availability": "No registration required",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119197",
+      "checkedOn": "2026-11-11",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna"
+    },
+    {
+      "id": "mdw-kostner-con-spirito-20261206",
+      "title": "Kostner con Spirito",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-06"
+      ],
+      "time": "11:30",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Bezirksmuseum Mariahilf",
+      "address": "Mollardgasse 8, 1060 Wien",
+      "district": "6th · Mariahilf",
+      "setting": "indoor",
+      "description": "Two violinist sisters and their pianist mother share a chamber-music concert.",
+      "details": "Vera and Laura Kostner perform with Nelly Banova-Kostner. Finishing time is unpublished.",
+      "admission": "Free entry. No registration or reservation required.",
+      "availability": "No registration required",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119201",
+      "checkedOn": "2026-11-11",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna"
+    },
+    {
+      "id": "mdw-freedom-square-voices4u-20261222",
+      "title": "Freedom Square & Voices4u",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-22"
+      ],
+      "time": "16:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "IKEA Wien Nord",
+      "address": "Sverigestraße 1A, 1220 Wien",
+      "district": "22nd · Donaustadt",
+      "setting": "indoor",
+      "description": "Original jazz-rock fusion meets a lively vocal show ensemble.",
+      "details": "Freedom Square performs original compositions; Voices4u adds songs and choreography. Finishing time is unpublished. Optional purchases cost extra.",
+      "admission": "Free concert entry. No registration or reservation required.",
+      "availability": "No registration required",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119216",
+      "checkedOn": "2026-11-11",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna"
     }
   ],
   "sources": [
@@ -3265,12 +3328,17 @@
       "label": "Organiser programme with university corroboration",
       "url": "https://dwujezycznywieden.com/wydarzenia/100-lat-andrzeja-wajdy-film-literatura-jezyk-4/2026-11-11/",
       "note": "Bilinguales Wien lists the November and December screenings, 19:00 film starts, English-subtitled original versions (OmeU), free admission and no registration. The University of Vienna independently confirms the November screening."
+    },
+    {
+      "name": "mdw · Pop-up Adventkalender",
+      "label": "Official university organiser programme",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119196",
+      "note": "Individual dated pages publish concert performers, venues, starting times, free entry and registration arrangements."
     }
   ],
   "statusNotes": [
-    "City of Vienna’s free-museum directory and Fire Brigade Museum page could not be loaded. Wurstfabrik’s individual concert page was inaccessible.",
-    "Böhmischer Prater’s full admission description could not be retrieved. Unrechecked listings retain their previous checked dates.",
-    "Remaining places were not rechecked for ticketed screenings, NAMES, Diversity Ball Dance or American Improv. See each listing’s booking and waiting-list notes."
+    "Several City of Vienna pages could not be loaded, including the winter-events calendar, Karmelitermarkt concerts, free-museum directory and Fire Brigade Museum. Wurstfabrik’s individual concert page was inaccessible.",
+    "Unrechecked listings retain their previous checked dates. Remaining places were not checked for ticketed screenings, NAMES, Diversity Ball Dance or American Improv; see individual booking notices."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
