@@ -1,19 +1,20 @@
 {
   "schemaVersion": 1,
-  "revision": "38a7aec1-d204-4a11-9760-23f848329833",
-  "updatedAt": "2026-11-12T07:08:20Z",
-  "lastScanAt": "2026-11-12T07:08:20Z",
+  "revision": "7c48bd43-3f20-4574-8ea6-af5cc29d8dc1",
+  "updatedAt": "2026-11-13T07:07:36Z",
+  "lastScanAt": "2026-11-13T07:07:36Z",
   "schedule": {
     "enabled": true,
     "label": "Daily at 08:00 Vienna time",
     "provider": "ChatGPT scheduled task + GitHub Pages"
   },
   "scanNotes": [
-    "2026-11-12: Partial discovery through 11 January 2027, with wider Indian touring and cultural searches into early March. Searched free concerts, festivals, parties, English-language or subtitled cinema/theatre/improv, and Indian entertainment/stand-up. Added three individually verified mdw Pop-up Adventkalender programmes: Christmas Sing Along on 3 December at 17:00; Glühhörnchen horn quartet on 4 December at 16:30; Two Guitars & A Clarinet Christmas on 5 December at 11:00. Official dated pages confirm free entry without registration; finishing times unpublished.",
-    "Rechecked MQ opening on 12 November and SeeLightNight, NAMES on 13 November, and mdw Salsa on 2 December. NAMES remains free with required registration; Eventim Light redirected to an unreadable queue service, so capacity remains unverified. Added the mdw official corroborating link to the existing Salsa record, preserving its stable ID. Removed three completed 11 November records and past museum occurrences.",
-    "Rechecked Wien Museum general admission/hours and first-Sunday rule, musa hours and general free admission, HGM, Secession, Leopold PORR Night, Jewish Museum hours/Happy Friday, hdgö, November Belvedere release and Horten programme. Extended musa through 10 January using published Tuesday–Sunday hours and the existing holiday omissions. Horten 10 December slots remain sold out. Belvedere 20 November bookings open 13 November. Kunsthalle December page read, but combined November/December and location checks were incomplete, so existing checked dates retained.",
-    "Rechecked Alszeilenmarkt’s dated 2026 free-entry Krampus show and Prater parade date/free admission. Böhmischer Prater’s date/time are readable, but the full expanded admission description was not rechecked; retained its 11 November checked date and previously verified terms. City free-museum directory returned a 500 error and Wurstfabrik’s individual page was inaccessible. District-museum directory readable, but the full museumGuide source set was not reverified, so the guide remains unchanged.",
-    "Wider searches returned additional leads, including Indian cinema, but no additional fully verified local match. Unrechecked future records keep their old check dates. Remaining ticket capacity was not rechecked for retained ticketed films or American Improv. Coverage is partial."
+    "2026-11-13: Partial public-source discovery through 12 January 2027, with wider Indian artist and celebration searches into March. Searched free cinema/theatre/improv, live music, festivals, parties and fireworks, and Indian touring/stand-up/Bollywood celebrations. Added three individually checked mdw Advent concerts on 7, 8 and 9 December; official pages confirm dates, venues, start times, free entry and no registration. No other fully verified new match emerged. TU Wien Diwali programme was inspected but is dominated by institutional presentations and networking.",
+    "Rechecked Charlie P’s dated programme and added Vintage Vintage on 21 November and Medical Tuesday on 24 November. Rechecked tonight’s L’Humanità Redenta, Queertactics party and NAMES concert. NAMES requires registration; its Eventim Light link redirects to an unreadable queue service, so capacity is unverified.",
+    "Rechecked Los destellos and O corno. Los destellos is explicitly sold out; updated its notices. O corno still advertises a free ticket link; actual remaining capacity was not independently confirmed. Belvedere 20 November still advertises release on 13 November but the readable page did not expose live slot capacity. December release remains 4 December.",
+    "Rechecked Wien Museum visitor information, musa hours, HGM, Secession, Leopold PORR Night, Jewish Museum admission/hours, hdgö and Horten programme. Extended Wien Museum permanent collection and musa to 12 January with existing holiday omissions preserved. Horten 10 December is still sold out. Kunsthalle November and December pages were read; November currently names MuseumsQuartier only, while December explicitly names both venues. The attempted hours URL could not be loaded; existing Kunsthalle checked dates and date arrays retained pending complete location/exhibition verification.",
+    "Rechecked Prater parade’s 29 November date and free entry. Alszeilenmarkt page currently exposes old Krampus text without the previously checked 2026 notice; retained existing date and checkedOn. Böhmischer Prater date/hours readable, but admission is behind Mehr anzeigen; previous verification retained. Oberlaa remains an unconfirmed lead and was not added. City free-museum directory returned 500; district directory was readable but the full museumGuide source set was not reverified. MuseumGuide unchanged.",
+    "Removed three completed single-event listings and past recurring occurrences. Other unrechecked future records retain their old checkedOn dates. Booking capacity not confirmed beyond explicit organiser notices; coverage remains partial."
   ],
   "events": [
     {
@@ -72,38 +73,6 @@
       "source": "MuseumsQuartier Wien",
       "url": "https://www.mqw.at/de/programm/events/dschungel-wien/karawoke/20261212-2100/",
       "checkedOn": "2026-11-04",
-      "indian": false,
-      "area": "vienna",
-      "priceEur": 0,
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "timeEndDayOffset": 0,
-      "availability": "See original page"
-    },
-    {
-      "id": "winter-opening",
-      "title": "Winter im MQ · Opening",
-      "subtitle": "The courtyard’s winter season begins",
-      "type": "festival",
-      "tags": [
-        "Music & DJs"
-      ],
-      "dates": [
-        "2026-11-12"
-      ],
-      "time": "18:00",
-      "timeEnd": null,
-      "venue": "MQ Haupthof",
-      "address": "Museumsplatz 1, 1070 Wien",
-      "district": "7th · Neubau",
-      "setting": "outdoor",
-      "description": "Sanna Frankie and Culk perform at the courtyard’s winter opening, followed by a DJ set.",
-      "details": "The individual event page lists an 18:00 start and the first concert at 18:30. The venue’s general programme and press release give 18:30 for the opening; check the event page before travelling. Finishing time is not published.",
-      "admission": "Free entry. Food, drinks and bookable activities cost extra.",
-      "language": "Programme language not specified.",
-      "source": "MuseumsQuartier Wien",
-      "url": "https://www.mqw.at/de/programm/winter-im-mq/winter-im-mq-2026/20261112-1800/",
-      "checkedOn": "2026-11-12",
       "indian": false,
       "area": "vienna",
       "priceEur": 0,
@@ -267,7 +236,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -282,7 +251,6 @@
         "Party"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-19"
       ],
       "time": "21:30",
@@ -300,7 +268,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -315,7 +283,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-17"
+        "2026-11-17",
+        "2026-11-24"
       ],
       "time": "21:30",
       "timeEnd": "02:00",
@@ -332,7 +301,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -407,7 +376,7 @@
         "Live music"
       ],
       "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -700,7 +669,8 @@
         "Party"
       ],
       "dates": [
-        "2026-11-14"
+        "2026-11-14",
+        "2026-11-21"
       ],
       "time": "22:00",
       "timeEnd": "03:00",
@@ -717,44 +687,11 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
       "availability": "See venue page"
-    },
-    {
-      "type": "festival",
-      "tags": [
-        "Lights",
-        "Family-friendly"
-      ],
-      "timeEnd": "20:00",
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-12",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "See original page",
-      "setting": "outdoor",
-      "admission": "Free admission.",
-      "language": "Spoken segments and reading language are not specified.",
-      "venue": "Seepark · Janis-Joplin-Promenade",
-      "address": "Janis-Joplin-Promenade, 1220 Wien",
-      "district": "22nd · Donaustadt",
-      "source": "Stadtteilmanagement Seestadt aspern",
-      "id": "seelightnight-20261112",
-      "title": "SeeLightNight",
-      "subtitle": "Lights, music and dancing by the lake",
-      "dates": [
-        "2026-11-12"
-      ],
-      "time": "17:00",
-      "description": "An evening of illuminated dance, a DJ, choir music and projections around the Seestadt lake.",
-      "details": "A closing light scene is scheduled for 19:55–20:00. The wider programme also includes a reading and hands-on activities.",
-      "url": "https://www.aspern-seestadt.at/seelightnight"
     },
     {
       "type": "music",
@@ -850,7 +787,7 @@
       "languageCode": "not-needed",
       "source": "Wintermarkt Prater Wien",
       "url": "https://www.wintermarkt.at/en/winter-adventure/the-perchten-parade/",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -931,7 +868,6 @@
         "Free permanent collection"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -979,7 +915,8 @@
         "2027-01-07",
         "2027-01-08",
         "2027-01-09",
-        "2027-01-10"
+        "2027-01-10",
+        "2027-01-12"
       ],
       "time": "09:00",
       "timeEnd": "18:00",
@@ -996,7 +933,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/wien_museum",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1045,7 +982,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/besucherinformation",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1212,7 +1149,7 @@
       "languageCode": "not-needed",
       "source": "Heeresgeschichtliches Museum",
       "url": "https://www.hgm.at/besuch/heeresgeschichtliches-museum/oeffnungszeiten-und-preise",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1245,7 +1182,7 @@
       "languageCode": "not-needed",
       "source": "Secession",
       "url": "https://secession.at/en/information_tickets",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1278,7 +1215,7 @@
       "languageCode": "not-needed",
       "source": "Leopold Museum",
       "url": "https://www.leopoldmuseum.org/de/besuch/programm/1130/7324",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1380,7 +1317,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1412,7 +1349,7 @@
       "languageCode": "not-needed",
       "source": "Jüdisches Museum Wien",
       "url": "https://jmw.at/besuchen",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1427,7 +1364,6 @@
         "Thursday evenings"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-19",
         "2026-11-26",
         "2026-12-03",
@@ -1449,7 +1385,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1481,7 +1417,7 @@
       "languageCode": "not-needed",
       "source": "Haus der Geschichte Österreich",
       "url": "https://hdgoe.at/zeiten-preise",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1506,18 +1442,18 @@
       "district": "3rd · Landstraße",
       "setting": "indoor",
       "description": "Enjoy the Upper Belvedere collection during a free evening museum opening.",
-      "details": "A free time-slot ticket is required. Book through the organiser when reservations open on 13 November 2026. This listing is for self-guided entry; accompanying tour languages vary.",
+      "details": "A free time-slot ticket is required. The organiser gives 13 November 2026 as the release date. Check the original page for booking access and remaining slots; current capacity has not been confirmed.",
       "admission": "Free entry with a free time-slot ticket.",
       "language": "Self-guided museum visit; check the original page for available text and audio languages.",
       "languageDependent": false,
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-20112026",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "Bookings open 13 November 2026. Entry is subject to time-slot availability."
+      "availability": "Advertised ticket release: 13 November 2026. Current slot availability unverified."
     },
     {
       "id": "belvedere-free-friday-20261211",
@@ -1545,7 +1481,7 @@
       "languageCode": "not-needed",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/veranstaltung/free-friday-night-11122026",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1577,7 +1513,7 @@
       "languageCode": "not-needed",
       "source": "Heidi Horten Collection",
       "url": "https://www.hortencollection.com/programm",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1592,7 +1528,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-14",
         "2026-11-15",
@@ -1639,7 +1574,8 @@
         "2027-01-07",
         "2027-01-08",
         "2027-01-09",
-        "2027-01-10"
+        "2027-01-10",
+        "2027-01-12"
       ],
       "time": "10:00",
       "timeEnd": "18:00",
@@ -1656,7 +1592,7 @@
       "languageCode": "not-needed",
       "source": "Wien Museum",
       "url": "https://www.wienmuseum.at/musa",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -1673,7 +1609,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-17",
         "2026-11-18",
@@ -1732,7 +1667,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
@@ -1888,7 +1822,6 @@
         "Free throughout the year"
       ],
       "dates": [
-        "2026-11-12",
         "2026-11-13",
         "2026-11-16",
         "2026-11-17",
@@ -2151,7 +2084,7 @@
       "language": "Music and dancing; announcement language not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2434,38 +2367,6 @@
       "extraLabel": "New Year programme and visitor information"
     },
     {
-      "tags": [
-        "Live music"
-      ],
-      "timeEndDayOffset": 0,
-      "checkedOn": "2026-11-10",
-      "priceEur": 0,
-      "indian": false,
-      "area": "vienna",
-      "languageDependent": false,
-      "languageCode": "not-needed",
-      "availability": "See original page",
-      "type": "music",
-      "setting": "indoor",
-      "admission": "Free admission.",
-      "language": "Performance language and any spoken introductions are not specified.",
-      "source": "mdw · Early Music Department",
-      "id": "le-stagioni-ossequiose-20261112",
-      "title": "Le Stagioni Ossequiose",
-      "subtitle": "Antonio Draghi in concert",
-      "dates": [
-        "2026-11-12"
-      ],
-      "time": "19:00",
-      "timeEnd": "20:30",
-      "venue": "Neuer Konzertsaal am Rennweg",
-      "address": "Rennweg 8, 1030 Wien",
-      "district": "3rd · Landstraße",
-      "description": "Singers and harpsichords perform Antonio Draghi’s music with a libretto by Nicolò Minato.",
-      "details": "Directed by Erich Traxler. The concert is listed as a public event; reservation arrangements are not stated.",
-      "url": "https://mdw.ac.at/altemusik/event/konzert-le-staggioni-ossequiose/"
-    },
-    {
       "id": "international-advent-singing-2026",
       "title": "International Advent Singing",
       "subtitle": "Choirs in Vienna City Hall",
@@ -2658,7 +2559,7 @@
       "language": "Instrumental and electronic music; spoken introductions not specified.",
       "languageDependent": false,
       "languageCode": "not-needed",
-      "checkedOn": "2026-11-12",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2736,18 +2637,18 @@
       "district": "3rd · Landstraße",
       "setting": "indoor",
       "description": "Pilar Palomero’s drama follows a family reunited as a daughter and her mother care for her terminally ill father.",
-      "details": "The film runs 101 minutes within the advertised two-hour event slot. A free event ticket is required; any remaining seats may be offered at the venue subject to availability. Check the ticket link for current capacity.",
-      "admission": "Free admission (€0). Free event ticket required; remaining seats subject to availability.",
+      "details": "The 101-minute film is shown within the advertised two-hour slot. The organiser marks it sold out. A free event ticket is required; any remaining seats may be offered at the venue, without a guarantee.",
+      "admission": "Free event ticket required. Advance tickets sold out; any remaining seats subject to availability at the venue.",
       "language": "Spanish original version with English subtitles.",
       "languageDependent": true,
       "languageCode": "en-subtitles",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/event/spanische-filmtage-los-destellos",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
-      "availability": "Free ticket link advertised; remaining capacity not independently confirmed"
+      "availability": "Sold out on the organiser page; any returned seats at the venue are subject to availability."
     },
     {
       "id": "o-corno-20261127",
@@ -2776,7 +2677,7 @@
       "languageCode": "en-subtitles",
       "source": "Belvedere",
       "url": "https://www.belvedere.at/event/spanische-filmtage-o-corno",
-      "checkedOn": "2026-11-09",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -2808,7 +2709,7 @@
       "languageCode": "not-needed",
       "source": "Charlie P’s",
       "url": "https://www.charlieps.at/en/events",
-      "checkedOn": "2026-11-10",
+      "checkedOn": "2026-11-13",
       "priceEur": 0,
       "indian": false,
       "area": "vienna",
@@ -3079,6 +2980,105 @@
       "description": "A festive morning pairs guitar music with the rich sounds of the Javali clarinet quartet.",
       "details": "Guitarists Tizoc Romero and William Marcil-Bouchard play classical favourites, jazz and Latin American music. The Javali Quartett adds Christmas melodies and works by Bernstein, Tchaikovsky and Ravel. Finishing time is not published.",
       "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119200"
+    },
+    {
+      "id": "mdw-christmas-unplugged-20261207",
+      "title": "Christmas Unplugged · Emma Winter & Andrew Elpis",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-07"
+      ],
+      "time": "16:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Hauptbücherei am Gürtel · College 5 / Kunstraum",
+      "address": "Urban-Loritz-Platz 2a, 1070 Wien",
+      "district": "7th · Neubau",
+      "setting": "indoor",
+      "description": "Singer-songwriters pair their own songs with acoustic versions of Christmas favourites.",
+      "details": "Voice and guitar bring a relaxed festive programme to the main library. Finishing time is not published.",
+      "admission": "Free entry. No registration or reservation required.",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119202",
+      "checkedOn": "2026-11-13",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No reservation required; see organiser page"
+    },
+    {
+      "id": "mdw-trio-saphir-20261208",
+      "title": "Trio Saphir · Advent Concert",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-08"
+      ],
+      "time": "15:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Verein08 Laden",
+      "address": "Piaristengasse 60, 1080 Wien",
+      "district": "8th · Josefstadt",
+      "setting": "indoor",
+      "description": "Piano, violin and cello play Tchaikovsky, Beethoven and Fauré, ending with Christmas songs.",
+      "details": "Natalia Zaitceva, Renée Wirth and Clemens Fera perform a chamber programme. Finishing time is not published.",
+      "admission": "Free entry. No registration or reservation required.",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119229",
+      "checkedOn": "2026-11-13",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No reservation required; see organiser page"
+    },
+    {
+      "id": "mdw-malina-quartett-20261209",
+      "title": "Malina Quartett · Advent Concert",
+      "subtitle": "mdw Pop-up Adventkalender",
+      "type": "music",
+      "tags": [
+        "Advent",
+        "Live music"
+      ],
+      "dates": [
+        "2026-12-09"
+      ],
+      "time": "17:00",
+      "timeEnd": null,
+      "timeEndDayOffset": 0,
+      "venue": "Atelier Sabine Pleyel",
+      "address": "Schubertgasse 9, 1090 Wien",
+      "district": "9th · Alsergrund",
+      "setting": "indoor",
+      "description": "A young string quartet performs Beethoven, Webern and more in an artist’s studio.",
+      "details": "The ensemble brings together bachelor’s and master’s students from mdw. Finishing time is not published.",
+      "admission": "Free entry. No registration or reservation required.",
+      "language": "Music performance; language of spoken introductions is not specified.",
+      "languageDependent": false,
+      "languageCode": "not-needed",
+      "source": "mdw · Pop-up Adventkalender",
+      "url": "https://www.mdw.ac.at/veranstaltung/?g=88826&v=119203",
+      "checkedOn": "2026-11-13",
+      "priceEur": 0,
+      "indian": false,
+      "area": "vienna",
+      "availability": "No reservation required; see organiser page"
     }
   ],
   "sources": [
@@ -3336,9 +3336,10 @@
     }
   ],
   "statusNotes": [
-    "The City of Vienna free-museum directory and Wurstfabrik’s individual concert page could not be loaded. Their earlier verification dates are retained.",
-    "The NAMES reservation link redirected to a queue service that could not be read; remaining places are unverified. Böhmischer Prater’s full admission description could not be rechecked in the page text; its earlier verification date is retained.",
-    "Coverage is partial. Other unrechecked listings and the museum guide retain their previous checked dates; booking availability is stated on individual listings."
+    "The City of Vienna free-museum directory and an attempted Kunsthalle opening-hours page could not be loaded; their earlier verification dates are retained.",
+    "The NAMES booking link redirected to an unreadable queue service. Current ticket capacity could not be confirmed.",
+    "Alszeilenmarkt’s current page did not expose its previously checked 2026 notice. Böhmischer Prater’s full admission text could not be rechecked; earlier verification dates are retained.",
+    "Coverage is partial. Other unrechecked listings and the museum guide retain their previous checked dates; booking notices appear on individual listings."
   ],
   "museumGuide": {
     "checkedOn": "2026-10-31",
